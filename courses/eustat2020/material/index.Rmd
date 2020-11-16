@@ -1,0 +1,13 @@
+---
+title: "Modelos mecanicistas y estadísticos para brotes epidémicos: el caso de la COVID-19 en Euskadi"
+author: "Material del curso"
+date: "19-20 de Noviembre"
+output: 
+  html_document: 
+    theme: cerulean
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
