@@ -12,9 +12,33 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ---------------
 
-###  Material día 19
+# Preliminares
+
+### Requisitos
+
+  + Última versión del software `R` ([`https://www.r-project.org`](https://www.r-project.org)).
+
+  + `Rstudio` ([`https://www.rstudio.com`](https://www.rstudio.com)).
+
+
+### Librerías necesarias
+
+ ```{r, echo = TRUE, eval = FALSE}
+install.packages(c("deSolve","bblme",
+                    "tidyverse","ggplot2","dplyr",
+                    "lubridate","shiny","shinySIR",
+                    "outbreaks","coronavirus"))
+```
+
+----------------
+
+#  Material día 19
 
   - Presentación [Tutorial_parte1.pdf](pdf/Tutorial_Parte1.pdf)
+  
   - Códigos en `R`.
+  
      + [Parte1.R](code/Parte1.R) FALTA
+  
      + [Ejemplos_Parte1.R](code/Ejemplos_Parte1.R) FALTA
+
