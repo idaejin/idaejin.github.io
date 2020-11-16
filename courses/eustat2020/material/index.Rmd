@@ -1,10 +1,9 @@
 ---
 title: "Modelos mecanicistas y estadísticos para brotes epidémicos: el caso de la COVID-19 en Euskadi"
+subtitle: "Nazioarteko Mintegia / Seminario Internacional Eustat 2020" 
 author: "Material del curso"
 date: "19-20 de Noviembre"
-output: 
-  html_document: 
-    theme: cerulean
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
@@ -13,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ---------------
 
-#  Material día 19
+###  Material día 19
 
   - Presentación [Tutorial_parte1.pdf](pdf/Tutorial_Parte1.pdf)
   - Códigos en `R`.
