@@ -13,11 +13,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ---------------
 
-###  Material día 19
+#  Material día 19
   - Presentación [Tutorial_parte1.pdf](pdf/Tutorial_Parte1.pdf)
   - Códigos en `R`.
-     + [ParteI.R](code/ParteI.R)
-     + [Ejemplos_ParteI.R](code/Ejemplos_ParteI.R)
-
-### Material día 20
-  - 
+     + [Parte1.R](code/Parte1.R)
+     + [Ejemplos_Parte1.R](code/Ejemplos_Parte1.R)
