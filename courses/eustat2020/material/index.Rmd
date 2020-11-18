@@ -35,7 +35,7 @@ install.packages(c("deSolve","bblme","tidyverse","ggplot2","dplyr","lubridate","
   
   - Códigos en `R`.
   
-     + [Parte1.R](code/Parte1.R) FALTA
+     + [Tutorial_Parte1.R](code/Tutorial_Parte1..R)
   
      + [Ejemplos_Parte1.R](code/Ejemplos_Parte1.R) FALTA
 
