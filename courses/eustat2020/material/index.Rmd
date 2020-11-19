@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ### Librerías necesarias
 
  ```{r, echo = TRUE, eval = FALSE}
-install.packages(c("deSolve","bblme","tidyverse","ggplot2","dplyr","lubridate","shiny","shinySIR","outbreaks","coronavirus"))
+install.packages(c("deSolve","bbmle","tidyverse","ggplot2","dplyr","lubridate","shiny","shinySIR","outbreaks","coronavirus"))
 ```
 
 ----------------
