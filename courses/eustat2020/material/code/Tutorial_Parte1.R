@@ -18,7 +18,7 @@
 
 
 # Instalar librerías de R ----------------------------------------------------------------------
-# install.packages(c("deSolve","bblme","tidyverse","ggplot2","dplyr","lubridate","shiny","shinySIR","outbreaks","coronavirus"))
+# install.packages(c("deSolve","bbmle","tidyverse","ggplot2","dplyr","lubridate","shiny","shinySIR","outbreaks","coronavirus"))
 
 # Recursos web sobre COVID-19
 
