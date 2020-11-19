@@ -37,5 +37,5 @@ install.packages(c("deSolve","bbmle","tidyverse","ggplot2","dplyr","lubridate","
   
      + [Tutorial_Parte1.R](code/Tutorial_Parte1.R)
   
-     + [Enlace](idaejin.github.io/courses/eustat2020/material/code/Ejemplos_Parte1.html) y código [Ejemplos_Parte1.R](code/Ejemplos_Parte1.R)
+     + [Enlace](https://idaejin.github.io/courses/eustat2020/material/code/Ejemplos_Parte1.html) y código [Ejemplos_Parte1.R](code/Ejemplos_Parte1.R)
 
