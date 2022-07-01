@@ -1,0 +1,41 @@
+---
+title: "Modelos mecanicistas y estadísticos para brotes epidémicos: el caso de la COVID-19 en Euskadi"
+subtitle: "Nazioarteko Mintegia / Seminario Internacional Eustat 2020" 
+author: "Material del curso"
+date: "19-20 de Noviembre"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+---------------
+
+# Preliminares
+
+### Requisitos
+
+  + Última versión del software `R` ([`https://www.r-project.org`](https://www.r-project.org)).
+
+  + `Rstudio` ([`https://www.rstudio.com`](https://www.rstudio.com)).
+
+
+### Librerías necesarias
+
+ ```{r, echo = TRUE, eval = FALSE}
+install.packages(c("deSolve","bbmle","tidyverse","ggplot2","dplyr","lubridate","shiny","shinySIR","outbreaks","coronavirus"))
+```
+
+----------------
+
+#  Material día 19
+
+  - Presentación [Tutorial_parte1.pdf](pdf/Tutorial_Parte1.pdf)
+  
+  - Códigos en `R`.
+  
+     + [Tutorial_Parte1.R](code/Tutorial_Parte1.R)
+  
+     + [Enlace](https://idaejin.github.io/courses/eustat2020/material/code/Ejemplos_Parte1.html) y código [Ejemplos_Parte1.R](code/Ejemplos_Parte1.R)
+
