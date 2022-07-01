@@ -1,7 +1,9 @@
 ---
 title: "Generalized Additive Models and beyond with P-splines"
 subtitle: "XV Summer School MESIO, 2022" 
-author: "Course Material"
+author: |
+  | Dae-Jin Lee (dlee@bcamath.org)
+  | BCAM - Basque Center for Applied Mathe
 date: "July 4-10, 2022"
 output: 
   html_document: 
@@ -14,30 +16,25 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ---------------
 
-# Preliminares
+### Requisites
 
-### Requisitos
+  + Latest versión of `R` ([`https://www.r-project.org`](https://www.r-project.org)).
 
-  + Última versión del software `R` ([`https://www.r-project.org`](https://www.r-project.org)).
-
-  + `Rstudio` ([`https://www.rstudio.com`](https://www.rstudio.com)).
+  + `Rstudio` is recommended ([`https://www.rstudio.com`](https://www.rstudio.com)).
 
 
 ### Librerías necesarias
 
  ```{r, echo = TRUE, eval = FALSE}
-install.packages(c("deSolve","bbmle","tidyverse","ggplot2","dplyr","lubridate","shiny","shinySIR","outbreaks","coronavirus"))
+install.packages(c("MASS","splines","nlme","SemiPar","mgcv","KernSmooth","gamlss","gamlss.dist","gamlss.add","ggplot2","lattice","latticeExtra"))
 ```
 
 ----------------
 
-#  Material día 19
+#  Slides
 
-  - Presentación [Tutorial_parte1.pdf](pdf/Tutorial_Parte1.pdf)
+  - Availabe soon
   
-  - Códigos en `R`.
-  
-     + [Tutorial_Parte1.R](code/Tutorial_Parte1.R)
-  
-     + [Enlace](https://idaejin.github.io/courses/eustat2020/material/code/Ejemplos_Parte1.html) y código [Ejemplos_Parte1.R](code/Ejemplos_Parte1.R)
+# `R` code
 
+  - Available soon
