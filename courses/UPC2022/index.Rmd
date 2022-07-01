@@ -1,9 +1,11 @@
 ---
-title: "Modelos mecanicistas y estadísticos para brotes epidémicos: el caso de la COVID-19 en Euskadi"
+title: "Generalized Additive Models and beyond with P-splines"
 subtitle: "Nazioarteko Mintegia / Seminario Internacional Eustat 2020" 
 author: "Material del curso"
 date: "19-20 de Noviembre"
-output: html_document
+output: 
+  html_document: 
+    theme: cerulean
 ---
 
 ```{r setup, include=FALSE}
