@@ -23,7 +23,7 @@ knitr::opts_chunk$set(echo = TRUE)
   + `Rstudio` is recommended ([`https://www.rstudio.com`](https://www.rstudio.com)).
 
 
-### Librerías necesarias
+### Libraries required
 
  ```{r, echo = TRUE, eval = FALSE}
 install.packages(c("MASS","splines","nlme","SemiPar","mgcv","KernSmooth","gamlss","gamlss.dist","gamlss.add","ggplot2","lattice","latticeExtra"))
