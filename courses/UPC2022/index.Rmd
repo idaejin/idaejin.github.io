@@ -1,8 +1,8 @@
 ---
 title: "Generalized Additive Models and beyond with P-splines"
-subtitle: "Nazioarteko Mintegia / Seminario Internacional Eustat 2020" 
-author: "Material del curso"
-date: "19-20 de Noviembre"
+subtitle: "XV Summer School MESIO, 2022" 
+author: "Course Material"
+date: "July 4-10, 2022"
 output: 
   html_document: 
     theme: cerulean
