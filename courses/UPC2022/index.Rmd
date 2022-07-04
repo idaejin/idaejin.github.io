@@ -36,7 +36,7 @@ install.packages(c("MASS","splines","nlme","SemiPar","mgcv","KernSmooth","gamlss
   - [Introduction](pdf/GAMS-and-beyond_0.pdf)
   - [Chapter 1](pdf/GAMS-and-beyond_1.pdf)
   - [Chapter 2](pdf/GAMS-and-beyond_2.pdf)
-  - Soon
+  - ...
   - ...
   
 # `R` code 
