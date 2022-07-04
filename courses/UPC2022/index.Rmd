@@ -3,7 +3,7 @@ title: "Generalized Additive Models and beyond with P-splines"
 subtitle: "XV Summer School MESIO, 2022" 
 author: |
   | Dae-Jin Lee (dlee@bcamath.org)
-  | BCAM - Basque Center for Applied Mathe
+  | BCAM - Basque Center for Applied Mathematics
 date: "July 4-10, 2022"
 output: 
   html_document: 
@@ -33,8 +33,12 @@ install.packages(c("MASS","splines","nlme","SemiPar","mgcv","KernSmooth","gamlss
 
 #  Slides
 
-  - Availabe soon
+  - [Introduction](pdf/GAMS-and-beyond_0.pdf)
+  - [Chapter 1](pdf/GAMS-and-beyond_1.pdf)
+  - [Chapter 2](pdf/GAMS-and-beyond_2.pdf)
+  - Soon
+  - ...
   
-# `R` code
+# `R` code 
 
-  - Available soon
+  - Real-time code sharing via [https://codeshare.io/6pMExg](https://codeshare.io/6pMExg)
