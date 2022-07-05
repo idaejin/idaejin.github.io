@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Libraries required
 
- ```{r, echo = TRUE, eval = FALSE}
+```{r, echo = TRUE, eval = FALSE}
 install.packages(c("MASS","splines","nlme","SemiPar","mgcv","KernSmooth","gamlss","gamlss.dist","gamlss.add","ggplot2","lattice","latticeExtra"))
 ```
 
@@ -37,7 +37,7 @@ install.packages(c("MASS","splines","nlme","SemiPar","mgcv","KernSmooth","gamlss
   - [Chapter 1](pdf/GAMS-and-beyond_1.pdf)
   - [Chapter 2](pdf/GAMS-and-beyond_2.pdf)
   - [Chapter 3](pdf/GAMS-and-beyond_3.pdf)
-  - ...
+  - [Chapter 4](pdf/GAMS-and-beyond_4.pdf)
   
 # `R` code 
 
