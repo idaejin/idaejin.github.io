@@ -47,3 +47,10 @@ install.packages(c("MASS","splines","nlme","SemiPar","mgcv","KernSmooth","gamlss
 # Papers
 
 - [link](pdf/papers.zip)
+
+
+# Data sources
+
+- [Kaggle](https://www.kaggle.com/datasets)
+- [UCI repository](https://archive.ics.uci.edu/ml/index.php)
+- [Dryad](https://datadryad.org/stash)    
