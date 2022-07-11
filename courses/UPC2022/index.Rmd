@@ -43,3 +43,7 @@ install.packages(c("MASS","splines","nlme","SemiPar","mgcv","KernSmooth","gamlss
 # `R` code 
 
   - Real-time code sharing via [https://codeshare.io/6pMExg](https://codeshare.io/6pMExg)
+
+# Papers
+
+- [link](pdf/papers.zip)
