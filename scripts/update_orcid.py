@@ -29,6 +29,7 @@ API = f"https://pub.orcid.org/v3.0/{ORCID_ID}"
 ROOT = Path(__file__).resolve().parents[1]
 PUB_DIR = ROOT / "content" / "publication"
 JSON_PATH = ROOT / "data" / "publications.json"
+OVERRIDES_PATH = ROOT / "data" / "orcid_overrides.json"
 
 TYPE_MAP = {
     "journal-article": "2",
@@ -181,6 +182,24 @@ def to_authors(names: list[str]) -> list[str]:
     return authors
 
 
+def load_overrides() -> dict:
+    if not OVERRIDES_PATH.exists():
+        return {}
+    return json.loads(OVERRIDES_PATH.read_text())
+
+
+def apply_author_overrides(put_code: int | str, authors: list[str], overrides: dict) -> list[str]:
+    cfg = (overrides.get("by_put_code") or {}).get(str(put_code)) or {}
+    remove = {re.sub(r"[^a-z0-9]+", "", a.lower()) for a in (cfg.get("remove_authors") or [])}
+    if remove:
+        authors = [a for a in authors if re.sub(r"[^a-z0-9]+", "", a.lower()) not in remove]
+    if cfg.get("authors"):
+        authors = list(cfg["authors"])
+    if not authors:
+        authors = ["admin"]
+    return authors
+
+
 def collect_works() -> list[dict]:
     data = api_get(f"{API}/works")
     groups = data.get("group") or []
@@ -246,9 +265,10 @@ def collect_works() -> list[dict]:
     unique.sort(key=lambda x: (x["year"], x["month"], x["day"], x["title"]), reverse=True)
 
     print(f"ORCID groups: {len(groups)}; after dedupe: {len(unique)}")
+    overrides = load_overrides()
     for i, w in enumerate(unique):
         names = fetch_contributors(w["put_code"])
-        w["authors"] = to_authors(names)
+        w["authors"] = apply_author_overrides(w["put_code"], to_authors(names), overrides)
         if (i + 1) % 10 == 0:
             print(f"  fetched authors {i + 1}/{len(unique)}")
         time.sleep(0.05)

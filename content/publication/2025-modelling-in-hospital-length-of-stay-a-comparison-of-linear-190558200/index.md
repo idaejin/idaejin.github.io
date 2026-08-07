@@ -2,7 +2,6 @@
 title: "Modelling in-hospital length of stay: A comparison of linear and ensemble models for competing risk analysis"
 authors:
   - "Juan Carlos Espinosa-Moreno"
-  - "Guanghui Liu"
   - "Fernando García-García"
   - "Naia Mas-Bilbao"
   - "Susana García-Gutiérrez"
