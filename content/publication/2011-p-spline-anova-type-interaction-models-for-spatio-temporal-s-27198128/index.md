@@ -6,7 +6,7 @@ authors:
   - admin
 date: "2011-01-01"
 publishDate: "2011-01-01"
-doi: "10.1177/1471082X1001100104"
+doi: "10.1177/1471082x1001100104"
 publication_types: ["2"]
 publication: "*Statistical Modelling*"
 publication_short: ""
@@ -20,4 +20,5 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
+orcid_put_code: 27198128
 ---

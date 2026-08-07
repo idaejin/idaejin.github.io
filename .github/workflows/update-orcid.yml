@@ -1,0 +1,52 @@
+# Sync publications from ORCID into Hugo content + data/publications.json
+name: Update publications from ORCID
+
+on:
+  schedule:
+    # Every Monday at 06:00 UTC
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Sync ORCID publications
+        env:
+          ORCID_ID: "0000-0002-8995-8535"
+          # Optional: repo secret ORCID_TOKEN with a /read-public access token
+          ORCID_TOKEN: ${{ secrets.ORCID_TOKEN }}
+        run: python3 scripts/update_orcid.py
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.120.4"
+          extended: true
+
+      - name: Build site
+        run: hugo --minify -d docs && touch docs/.nojekyll
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/publications.json content/publication docs
+          if git diff --staged --quiet; then
+            echo "No publication changes"
+          else
+            git commit -m "Sync publications from ORCID"
+            git push
+          fi
