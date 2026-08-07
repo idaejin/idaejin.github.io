@@ -1,88 +1,129 @@
 ---
-title: "Resume"
-page-layout: full
+title: "CV"
+pagetitle: "CV | Dae-Jin Lee"
+page-layout: article
+format:
+  html:
+    body-classes: "cv-page"
 ---
 
-::: {.section-block}
-## Experience
-
-::: {.timeline}
-
-::: {.job}
-<div class="job-dates">Jan 2023 – Present</div>
-<div>
-<p class="job-title">Full-time Assistant Professor</p>
-<p class="job-meta"><a href="https://www.ie.edu/school-science-technology/">School of Science and Technology, IE University</a> · Madrid, Spain</p>
-</div>
+::: {.cv-download}
+[Download PDF](assets/CV-DLEE_2026.pdf)
 :::
 
-::: {.job}
-<div class="job-dates">May 2014 – Dec 2022</div>
-<div>
-<p class="job-title">Research Line Leader, Applied Statistics</p>
-<p class="job-meta"><a href="https://www.bcamath.org/en/">BCAM – Basque Center for Applied Mathematics</a> · Bilbao, Spain</p>
-</div>
-:::
+## Education
 
-::: {.job}
-<div class="job-dates">Jan 2020 – Dec 2022</div>
-<div>
-<p class="job-title">Data Science Coordinator, Knowledge Transfer Unit</p>
-<p class="job-meta"><a href="https://www.bcamath.org/en/knowledge-transfer/knowledge-transfer-unit">BCAM – Basque Center for Applied Mathematics</a> · Bilbao, Spain</p>
-</div>
-:::
+- Ph.D. in Statistics, Universidad Carlos III de Madrid, 2010  
+  Thesis: *Smoothing mixed models for spatial and spatio-temporal data* (supervised by Prof. María Durbán)
+- M.Sc. in Mathematical Engineering (Statistics), Universidad Carlos III de Madrid, 2006
+- B.Sc. in Statistics, Universidad Carlos III de Madrid, 2004
+- B.Sc. in Business Economics and Management, Universidad Carlos III de Madrid, 2002
 
-::: {.job}
-<div class="job-dates">Mar 2011 – Mar 2014</div>
-<div>
-<p class="job-title">Postdoctoral Fellow</p>
-<p class="job-meta"><a href="https://www.csiro.au/en/">CSIRO</a> (Mathematics, Informatics and Statistics / Data61) · Melbourne, Australia</p>
-</div>
-:::
+## Work experience
 
-::: {.job}
-<div class="job-dates">Sep 2010 – Mar 2011</div>
-<div>
-<p class="job-title">Lecturer in Statistics</p>
-<p class="job-meta"><a href="https://www.uc3m.es/">Universidad Carlos III de Madrid</a> · Leganés, Spain</p>
-</div>
-:::
+- **January 2023 – Present**: Full-time Assistant Professor (tenure-track)  
+  - [IE University, School of Science and Technology](https://www.ie.edu/school-science-technology/), Madrid, Spain  
+  - Teaching and research in data analysis, statistical modelling, and computing
 
-::: {.job}
-<div class="job-dates">Sep 2006 – Aug 2010</div>
-<div>
-<p class="job-title">Teaching Assistant and PhD Student</p>
-<p class="job-meta"><a href="https://www.uc3m.es/">Universidad Carlos III de Madrid</a> · Leganés, Spain</p>
-</div>
-:::
+- **June 2020 – December 2022**: Knowledge Transfer Unit — Data Science and AI Coordinator  
+  - [BCAM – Basque Center for Applied Mathematics](https://www.bcamath.org/en/), Bilbao, Spain
 
-:::
-:::
+- **June 2014 – December 2022**: Researcher and Group Leader, Applied Statistics  
+  - [BCAM – Basque Center for Applied Mathematics](https://www.bcamath.org/en/), Bilbao, Spain
 
-::: {.section-block}
+- **February 2011 – February 2014**: Postdoctoral Fellow  
+  - [CSIRO](https://www.csiro.au/en/) (Mathematics, Informatics and Statistics / Data61), Clayton, VIC, Australia
+
+- **June 2010 – January 2011**: Lecturer  
+  - Department of Statistics, [Universidad Carlos III de Madrid](https://www.uc3m.es/), Spain
+
+- **September 2004 – June 2010**: Teaching Assistant  
+  - Department of Statistics, [Universidad Carlos III de Madrid](https://www.uc3m.es/), Spain
+
+## Teaching
+
+### IE University
+
+- Probability and Statistics (Bachelor in Applied Mathematics), 6 ECTS — 2023–2024, 2025–2026
+- Statistical Modeling (Bachelor in Applied Mathematics), 6 ECTS — 2024–2025, 2025–2026
+- Computational Thinking for Data Management and Analysis (Bachelor in Data and Business Analytics; Executive DBA), 6 ECTS — 2023–2024, 2025–2026
+- Fundamentals of Data Analysis (Bachelor in Data and Business Analytics), 6 ECTS — 2023–2024
+- Sports Analytics (Master in Business Analytics and Big Data; Master in Data Science), 3 ECTS — 2023–2024, 2025–2026
+- Big Data & Artificial Intelligence in Operations Management (Master in Data Science), 3 ECTS — 2025–2026
+- Statistics for Data Science (Master in Data Science for Professionals), 3 ECTS — 2023–2024, 2025–2026
+- AI–Machine Learning Foundations (Dual degree PPLE with Data and Business Analytics), 6 ECTS — 2023–2024, 2025–2026
+
 ## Supervision
 
 ### PhD students (finished)
 
-- **Diego Ayma Anza** ([UC3M Statistics](https://www.uc3m.es/statistics-department/home)). *Penalized Composite Link Models for spatial and spatio-temporal aggregated counts* (with M. Durbán; cum laude, Dec 2016). [Thesis](https://e-archivo.uc3m.es/handle/10016/24891)
-- **Josu Najera Zuloaga** (BCAM–Severo Ochoa; [UPV/EHU](https://www.ehu.eus/)). *Multidimensional and longitudinal Beta-binomial regression for Health-Related Quality of Life outcomes* (with I. Arostegui; cum laude, Dec 2017). [Thesis](https://addi.ehu.es/handle/10810/27604)
-- **Alba Carballo González** ([UC3M Statistics](https://www.uc3m.es/statistics-department/home)). *Forecasting with Generalized Additive Models* (cum laude, 2020). [Thesis](https://e-archivo.uc3m.es/handle/10016/31312)
-- **Leire Citores Martínez** ([AZTI](https://www.azti.es/en/)–[BCAM](https://www.bcamath.org/en/); UPV/EHU). *From habitat to management: a simulation framework for improving statistical methods in fisheries science* (with L. Ibaibarriaga; Jul 2021). [Thesis](https://addi.ehu.es/handle/10810/54927)
-- **Lore Zumeta Olaskoaga** (BCAM–Severo Ochoa; UPV/EHU). *Statistical Modelling of Recurrent Events in Sports Injury Research with Applications to Football Injury Data* (cum laude, Feb 2024)
-- **Ibon Martínez Arranz** (UPV/EHU). *Genetic Algorithms Applied to Translational Strategy in MASH. Learning from Mouse Models* (with Jose María Mato, CIC bioGUNE; defended Jun 2025)
-- **María Alejandra Hernández Velandia** (UPV/EHU). *Novel P-Spline-based Approaches for Curve and Derivative Estimation in Longitudinal Growth Studies* (with María Xosé Rodríguez-Álvarez, Universidade de Vigo; defended Jul 2025)
-- **Cristina Galán García-Arcicollar** (UPV/EHU). *Joint modeling with beta-binomial distribution for patient-reported outcomes and survival data* (with Josu Najera Zuloaga; defended Jul 2025)
+- **Diego Ayma Anza**, Department of Statistics, Universidad Carlos III de Madrid, cum laude, December 2016  
+  *Penalized Composite Link Models for spatial and spatio-temporal aggregated counts* (with M. Durbán). [Thesis](https://e-archivo.uc3m.es/handle/10016/24891)
+
+- **Josu Najera Zuloaga**, BCAM–Severo Ochoa, UPV/EHU, cum laude, December 2017  
+  *Multidimensional and longitudinal Beta-binomial regression for Health-Related Quality of Life outcomes* (with I. Arostegui). [Thesis](https://addi.ehu.es/handle/10810/27604)
+
+- **Alba Carballo González**, Department of Statistics, Universidad Carlos III de Madrid, cum laude, 2020  
+  *Forecasting with Generalized Additive Models*. [Thesis](https://e-archivo.uc3m.es/handle/10016/31312)
+
+- **Leire Citores Martínez**, AZTI–BCAM, UPV/EHU, July 2021  
+  *From habitat to management: a simulation framework for improving statistical methods in fisheries science* (with L. Ibaibarriaga). [Thesis](https://addi.ehu.es/handle/10810/54927)
+
+- **Lore Zumeta Olaskoaga**, BCAM–Severo Ochoa, UPV/EHU, cum laude, February 2024  
+  *Statistical Modelling of Recurrent Events in Sports Injury Research with Applications to Football Injury Data*
+
+- **Ibon Martínez Arranz**, UPV/EHU, June 2025  
+  *Genetic Algorithms Applied to Translational Strategy in MASH. Learning from Mouse Models* (with Jose María Mato, CIC bioGUNE)
+
+- **María Alejandra Hernández Velandia**, UPV/EHU, July 2025  
+  *Novel P-Spline-based Approaches for Curve and Derivative Estimation in Longitudinal Growth Studies* (with María Xosé Rodríguez-Álvarez, Universidade de Vigo)
+
+- **Cristina Galán García-Arcicollar**, UPV/EHU, July 2025  
+  *Joint modeling with beta-binomial distribution for patient-reported outcomes and survival data* (with Josu Najera Zuloaga)
+
+- **Ander García**, UPV/EHU, April 2026
+  *Pedestrian Flow Simulations with applications* (with Marco Ellero, BCAM–Ikerbasque)
 
 ### PhD students (ongoing)
 
-- **Juan Carlos Espinosa** (UPV/EHU). *Statistical Learning techniques for Early Warning Systems for Medical Health Records* (with Fernando García-García, BCAM; expected Nov 2026)
-- **Ander García** (UPV/EHU). *Pedestrian Flow Simulations with applications* (with Marco Ellero, BCAM–Ikerbasque; expected May 2025)
-:::
+- **Juan Carlos Espinosa**, UPV/EHU (expected November 2026)  
+  *Statistical Learning techniques for Early Warning Systems for Medical Health Records* (with Fernando García-García, BCAM)
 
-::: {.section-block}
+
+### MSc students
+
+- Andreu Jiménez (BCAM–Università de València), MSc in Biostatistics, July 2015
+- Antoni Castellà Frasquet (Università de València), MSc in Biostatistics, July 2016
+- Pedro Ángel Fidel (Università de València), MSc in Biostatistics, September 2016
+- Rut Rodríguez García (UPV/EHU), MSc in Mathematical Modelling / Statistics and Computer Sciences, September 2017
+
+## Selected invited talks
+
+- Modelling latent trends from spatio-temporally grouped data using composite link mixed models. Joint TIES–GRASPA Conference on Climate and Environment, 2017
+- Beta-binomial multivariate regression modeling of patient-reported outcomes. Special invited session, Spanish Biometric Society, XXIX International Biometric Conference, Barcelona, 2018
+- Disaggregation of spatial and spatio-temporal counts in epidemiology: A penalized composite link model approach. ERCIM WG, Seville, 2016
+- Spatial and spatio-temporal modeling of aggregated counts with applications in epidemiology. 61st RBras, Salvador Bahia, Brazil, 2016
+- Multidimensional P-splines as mixed models. ISNPS Meeting, Graz, Austria, 2015
+
+## Service and leadership
+
+- Member of the board, Statistical Modelling Society, 2023–present
+- Secretary of the Spanish Biometric Society, 2022–present
+- Member of the board of the Spanish Biometric Society, 2016–present
+- Co-chair and scientific committee member, 35th International Workshop on Statistical Modelling, Bilbao, 2020
+- Organizer, BiDAS (Bilbao Data Science Workshop), 1st–3rd editions, 2016–2018
+
+## Selected research projects
+
+- **SPHERES** — Semi-Parametric models for Human growth, Extremes and Recurrent Events in Survival analysis. Agencia Estatal de Investigación (PID2023-153222OB-I00), 2024–2027. Co-PI with Manuele Leonelli
+- **S3M1P4R** — New proposals for estimation, prediction and validation of semi-parametric models… Agencia Estatal de Investigación (PID2020-115882RB-I00), 2021–2025. PI
+- **AFTERAM** — New Contributions In Semiparametric Regression… (MTM2017-82379-R), 2018–2020. Co-PI with María Xosé Rodríguez-Álvarez
+
 ## Contact
 
-**Email:** [Dae-Jin.Lee@ie.edu](mailto:Dae-Jin.Lee@ie.edu)  
-**Office:** IE Tower, Paseo de la Castellana 259E, 28029 Madrid, Spain  
-**Profiles:** [ORCID](https://orcid.org/0000-0002-8995-8535) · [Google Scholar](https://scholar.google.com/citations?user=hsCRT4EAAAAJ) · [LinkedIn](https://www.linkedin.com/in/idaejin/) · [GitHub](https://github.com/idaejin) · [Twitter](https://twitter.com/idaejin)
-:::
+- **Email:** [Dae-Jin.Lee@ie.edu](mailto:Dae-Jin.Lee@ie.edu)
+- **Office:** IE Tower, Paseo de la Castellana 259E, 28046 Madrid, Spain
+- **ORCID:** [0000-0002-8995-8535](https://orcid.org/0000-0002-8995-8535)
+- **Google Scholar:** [profile](https://scholar.google.com/citations?user=hsCRT4EAAAAJ)
+- **GitHub:** [idaejin](https://github.com/idaejin)
+- **LinkedIn:** [idaejin](https://www.linkedin.com/in/idaejin/)
