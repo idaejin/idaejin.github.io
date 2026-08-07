@@ -2,7 +2,9 @@
 title: "Dae-Jin Lee"
 pagetitle: "Dae-Jin Lee"
 page-layout: full
-title-block-style: none
+format:
+  html:
+    body-classes: "home-page"
 ---
 
 ```{=html}
@@ -10,7 +12,7 @@ title-block-style: none
   <img src="assets/avatar.jpg" alt="Portrait of Dae-Jin Lee" width="150" height="150">
   <div class="hero-copy">
     <p class="hero-name">Dae-Jin Lee, PhD</p>
-    <p class="hero-role">Assistant Professor in Data Science</p>
+    <p class="hero-role">Assistant Professor in Statistical Sciences</p>
     <p class="hero-affil"><a href="https://www.ie.edu/school-science-technology/">School of Science &amp; Technology</a>, <a href="https://www.ie.edu/">IE University</a></p>
     <div class="hero-links">
       <a href="mailto:Dae-Jin.Lee@ie.edu">Email</a>

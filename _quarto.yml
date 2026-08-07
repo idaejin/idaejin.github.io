@@ -15,7 +15,7 @@ website:
       - href: publications.qmd
         text: Publications
       - href: resume.qmd
-        text: Resume
+        text: CV
     right:
       - icon: envelope
         href: mailto:Dae-Jin.Lee@ie.edu
