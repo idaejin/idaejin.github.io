@@ -1,0 +1,88 @@
+---
+title: "Resume"
+page-layout: full
+---
+
+::: {.section-block}
+## Experience
+
+::: {.timeline}
+
+::: {.job}
+<div class="job-dates">Jan 2023 – Present</div>
+<div>
+<p class="job-title">Full-time Assistant Professor</p>
+<p class="job-meta"><a href="https://www.ie.edu/school-science-technology/">School of Science and Technology, IE University</a> · Madrid, Spain</p>
+</div>
+:::
+
+::: {.job}
+<div class="job-dates">May 2014 – Dec 2022</div>
+<div>
+<p class="job-title">Research Line Leader, Applied Statistics</p>
+<p class="job-meta"><a href="https://www.bcamath.org/en/">BCAM – Basque Center for Applied Mathematics</a> · Bilbao, Spain</p>
+</div>
+:::
+
+::: {.job}
+<div class="job-dates">Jan 2020 – Dec 2022</div>
+<div>
+<p class="job-title">Data Science Coordinator, Knowledge Transfer Unit</p>
+<p class="job-meta"><a href="https://www.bcamath.org/en/knowledge-transfer/knowledge-transfer-unit">BCAM – Basque Center for Applied Mathematics</a> · Bilbao, Spain</p>
+</div>
+:::
+
+::: {.job}
+<div class="job-dates">Mar 2011 – Mar 2014</div>
+<div>
+<p class="job-title">Postdoctoral Fellow</p>
+<p class="job-meta"><a href="https://www.csiro.au/en/">CSIRO</a> (Mathematics, Informatics and Statistics / Data61) · Melbourne, Australia</p>
+</div>
+:::
+
+::: {.job}
+<div class="job-dates">Sep 2010 – Mar 2011</div>
+<div>
+<p class="job-title">Lecturer in Statistics</p>
+<p class="job-meta"><a href="https://www.uc3m.es/">Universidad Carlos III de Madrid</a> · Leganés, Spain</p>
+</div>
+:::
+
+::: {.job}
+<div class="job-dates">Sep 2006 – Aug 2010</div>
+<div>
+<p class="job-title">Teaching Assistant and PhD Student</p>
+<p class="job-meta"><a href="https://www.uc3m.es/">Universidad Carlos III de Madrid</a> · Leganés, Spain</p>
+</div>
+:::
+
+:::
+:::
+
+::: {.section-block}
+## Supervision
+
+### PhD students (finished)
+
+- **Diego Ayma Anza** ([UC3M Statistics](https://www.uc3m.es/statistics-department/home)). *Smooth generalized linear models for aggregated data* (with M. Durbán; cum laude, Dec 2016). [Thesis](https://e-archivo.uc3m.es/handle/10016/24891)
+- **Josu Najera Zuloaga** (BCAM–Severo Ochoa Grant). *Hierarchical modelling of patient-reported outcomes data based on the beta-binomial distribution* (with I. Arostegui; cum laude, Dec 2017). [Thesis](https://addi.ehu.es/handle/10810/27604)
+- **Leire Citores Martínez** ([AZTI](https://www.azti.es/en/)–[BCAM](https://www.bcamath.org/en/)). *From habitat to management: a simulation framework for improving statistical methods in fisheries science* (with L. Ibaibarriaga; cum laude, Jul 2021). [Thesis](https://addi.ehu.es/handle/10810/54927)
+- **Alba Carballo González** ([UC3M Statistics](https://www.uc3m.es/statistics-department/home)). *A general framework for prediction in generalized additive models* (cum laude, Jan 2022). [Thesis](https://e-archivo.uc3m.es/handle/10016/31312)
+
+### PhD students (ongoing)
+
+- **Ibon Martínez Arranz** (OWL Metabolomics) — statistical methods for metabolomic data, with Jose M. Mato (CIC bioGUNE)
+- **Lore Zumeta-Olaskoaga** — UPV/EHU & BCAM
+- **Mª Alejandra Hernández Velandia** — UPV/EHU & BCAM, with María Xosé Rodríguez-Álvarez (Universidade de Vigo)
+- **Cristina Galán García-Arcicollar** — UPV/EHU & BCAM
+- **Juan Carlos Espinosa** — UPV/EHU & BCAM
+- **Ander García** — UPV/EHU & BCAM, with Marco Ellero (BCAM – Ikerbasque)
+:::
+
+::: {.section-block}
+## Contact
+
+**Email:** [Dae-Jin.Lee@ie.edu](mailto:Dae-Jin.Lee@ie.edu)  
+**Office:** IE Tower, Paseo de la Castellana 259E, 28029 Madrid, Spain  
+**Profiles:** [ORCID](https://orcid.org/0000-0002-8995-8535) · [Google Scholar](https://scholar.google.com/citations?user=hsCRT4EAAAAJ) · [LinkedIn](https://www.linkedin.com/in/idaejin/) · [GitHub](https://github.com/idaejin) · [Twitter](https://twitter.com/idaejin)
+:::

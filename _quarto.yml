@@ -1,0 +1,54 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Dae-Jin Lee"
+  description: "Assistant Professor in Data Science at IE University. Statistical modelling, biostatistics, and sports analytics."
+  site-url: https://idaejin.github.io
+  favicon: assets/avatar.jpg
+  navbar:
+    title: "Dae-Jin Lee"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications
+      - href: resume.qmd
+        text: Resume
+    right:
+      - icon: envelope
+        href: mailto:Dae-Jin.Lee@ie.edu
+        aria-label: Email
+      - icon: twitter
+        href: https://twitter.com/idaejin
+        aria-label: Twitter
+      - text: "GS"
+        href: https://scholar.google.com/citations?hl=en&user=hsCRT4EAAAAJ&view_op=list_works&sortby=pubdate
+        aria-label: Google Scholar
+      - icon: github
+        href: https://github.com/idaejin
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/idaejin/
+        aria-label: LinkedIn
+  page-footer:
+    left: "© Dae-Jin Lee"
+    right:
+      - text: ORCID
+        href: https://orcid.org/0000-0002-8995-8535
+      - text: Google Scholar
+        href: https://scholar.google.com/citations?user=hsCRT4EAAAAJ
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: false
+    page-layout: full
+    respect-user-color-scheme: false
+    link-external-newwindow: true
+
+execute:
+  freeze: auto

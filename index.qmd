@@ -1,0 +1,73 @@
+---
+title: "Dae-Jin Lee"
+pagetitle: "Dae-Jin Lee"
+page-layout: full
+title-block-style: none
+---
+
+```{=html}
+<div class="hero">
+  <img src="assets/avatar.jpg" alt="Portrait of Dae-Jin Lee" width="150" height="150">
+  <div class="hero-copy">
+    <p class="hero-name">Dae-Jin Lee, PhD</p>
+    <p class="hero-role">Assistant Professor in Data Science</p>
+    <p class="hero-affil"><a href="https://www.ie.edu/school-science-technology/">School of Science &amp; Technology</a>, <a href="https://www.ie.edu/">IE University</a></p>
+    <div class="hero-links">
+      <a href="mailto:Dae-Jin.Lee@ie.edu">Email</a>
+      <a href="https://orcid.org/0000-0002-8995-8535">ORCID</a>
+      <a href="https://scholar.google.com/citations?user=hsCRT4EAAAAJ">Google Scholar</a>
+      <a href="https://github.com/idaejin">GitHub</a>
+      <a href="https://www.linkedin.com/in/idaejin/">LinkedIn</a>
+    </div>
+  </div>
+</div>
+```
+
+::: {.section-block}
+## Biography
+
+I am assistant professor in Data Science and researcher at the [School of Science & Technology](https://www.ie.edu/school-science-technology/) at [IE University](https://www.ie.edu/), and Chief Scientist of the [Health & Tech Lab](https://www.ie.edu/impactxcelerator/areas/health-technology/) at [ImpactXcelerator](https://www.ie.edu/impactxcelerator/).
+
+Before joining IE University, from 2014 to 2022, I was a researcher at [BCAM – Basque Center for Applied Mathematics](https://www.bcamath.org/en/) in Bilbao, where I led the research line in Applied Statistics and coordinated the area of Data Science and Artificial Intelligence of the [Knowledge Transfer Unit](https://www.bcamath.org/en/knowledge-transfer/knowledge-transfer-unit).
+
+From 2011 to 2014, I was a Postdoctoral Fellow at [CSIRO](https://www.csiro.au/en/) (Mathematics, Informatics and Statistics; today [Data61](https://research.csiro.au/data61/)) in Melbourne, Australia.
+
+My research focuses on biostatistics and statistical modelling for health, biomedical, environmental, and sports-science applications—especially smoothing methods based on penalized splines and mixed models.
+:::
+
+```{=html}
+<div class="section-block">
+  <div class="two-col">
+    <div>
+      <h2>Interests</h2>
+      <ul>
+        <li>Generalized Additive Models (P-splines)</li>
+        <li>(Non-)linear mixed-effects models</li>
+        <li>Longitudinal data analysis</li>
+        <li>Survival analysis</li>
+        <li>Spatial and spatio-temporal modelling</li>
+        <li>Sports analytics</li>
+      </ul>
+    </div>
+    <div>
+      <h2>Education</h2>
+      <div class="edu-item">
+        <strong>PhD in Statistics</strong>, 2010
+        <span><a href="https://www.uc3m.es/">Universidad Carlos III de Madrid</a></span>
+      </div>
+      <div class="edu-item">
+        <strong>MSc in Mathematical Engineering</strong>, 2006
+        <span><a href="https://www.uc3m.es/">Universidad Carlos III de Madrid</a></span>
+      </div>
+      <div class="edu-item">
+        <strong>BSc in Statistics</strong>, 2004
+        <span><a href="https://www.uc3m.es/">Universidad Carlos III de Madrid</a></span>
+      </div>
+      <div class="edu-item">
+        <strong>BSc in Business Administration</strong>, 2002
+        <span><a href="https://www.uc3m.es/">Universidad Carlos III de Madrid</a></span>
+      </div>
+    </div>
+  </div>
+</div>
+```

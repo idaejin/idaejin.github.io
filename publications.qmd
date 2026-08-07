@@ -1,0 +1,71 @@
+---
+title: "Publications"
+page-layout: full
+---
+
+Selected recent and representative publications. For the full list, see [Google Scholar](https://scholar.google.com/citations?user=hsCRT4EAAAAJ&view_op=list_works&sortby=pubdate) or [ORCID](https://orcid.org/0000-0002-8995-8535).
+
+::: {.section-block}
+
+::: {.pub}
+<span class="pub-year">2026</span><span class="pub-title">Modeling crowd flow during stadium ingress under alternative access protocols: San Mamés as a case study</span>
+<p class="pub-meta"><em>Simulation Modelling Practice and Theory</em> · <a href="https://doi.org/10.1016/j.simpat.2026.103279">DOI</a></p>
+:::
+
+::: {.pub}
+<span class="pub-year">2025</span><span class="pub-title">Flexible modelling of time-varying exposures and recurrent events to analyse training load effects in team sports injuries</span>
+<p class="pub-meta"><em>Journal of the Royal Statistical Society Series C: Applied Statistics</em> · <a href="https://doi.org/10.1093/jrsssc/qlae059">DOI</a></p>
+:::
+
+::: {.pub}
+<span class="pub-year">2025</span><span class="pub-title">Evaluating short-term forecast accuracy across COVID-19 waves using penalized spline models</span>
+<p class="pub-meta"><em>International Journal of Medical Informatics</em> · <a href="https://doi.org/10.1016/j.ijmedinf.2025.106079">DOI</a></p>
+:::
+
+::: {.pub}
+<span class="pub-year">2025</span><span class="pub-title">Modelling in-hospital length of stay: A comparison of linear and ensemble models for competing risk analysis</span>
+<p class="pub-meta"><em>PLOS One</em> · <a href="https://doi.org/10.1371/journal.pone.0322101">DOI</a></p>
+:::
+
+::: {.pub}
+<span class="pub-year">2024</span><span class="pub-title">Reliable prediction of difficult airway for tracheal intubation from patient preoperative photographs by machine learning methods</span>
+<p class="pub-meta"><em>Computer Methods and Programs in Biomedicine</em> · <a href="https://doi.org/10.1016/j.cmpb.2024.108118">DOI</a></p>
+:::
+
+::: {.pub}
+<span class="pub-year">2024</span><span class="pub-title">Cost-sensitive ordinal classification methods to predict SARS-CoV-2 pneumonia severity</span>
+<p class="pub-meta"><em>IEEE Journal of Biomedical and Health Informatics</em> · <a href="https://doi.org/10.1109/jbhi.2024.3363765">DOI</a></p>
+:::
+
+::: {.pub}
+<span class="pub-year">2023</span><span class="pub-title">Classification of longitudinal profiles using semi-parametric nonlinear mixed models with P-Splines and the SAEM algorithm</span>
+<p class="pub-meta"><em>Statistics in Medicine</em> · <a href="https://doi.org/10.1002/sim.9895">DOI</a></p>
+:::
+
+::: {.pub}
+<span class="pub-year">2023</span><span class="pub-title">Impact of outdoor air pollution on severity and mortality in COVID-19 pneumonia</span>
+<p class="pub-meta"><em>Science of The Total Environment</em> · <a href="https://doi.org/10.1016/j.scitotenv.2023.164877">DOI</a></p>
+:::
+
+::: {.pub}
+<span class="pub-year">2023</span><span class="pub-title">Prediction of sports injuries in football: a recurrent time-to-event approach using regularized Cox models</span>
+<p class="pub-meta"><em>AStA Advances in Statistical Analysis</em> · <a href="https://doi.org/10.1007/s10182-021-00428-2">DOI</a></p>
+:::
+
+::: {.pub}
+<span class="pub-year">2022</span><span class="pub-title">Multidimensional adaptive P-splines with application to neurons' activity studies</span>
+<p class="pub-meta"><em>Biometrics</em> · <a href="https://doi.org/10.1111/biom.13755">DOI</a></p>
+:::
+
+::: {.pub}
+<span class="pub-year">2022</span><span class="pub-title">Peak height velocity affects injury burden in circa-PHV soccer players</span>
+<p class="pub-meta"><em>International Journal of Sports Medicine</em> · <a href="https://doi.org/10.1055/a-1983-6762">DOI</a></p>
+:::
+
+::: {.pub}
+<span class="pub-year">2011</span><span class="pub-title">P-spline ANOVA-type interaction models for spatio-temporal smoothing</span>
+<p class="pub-meta">Lee, D.-J. &amp; Durbán, M. · <em>Statistical Modelling</em></p>
+<span class="badge-soft">Foundational work</span>
+:::
+
+:::
