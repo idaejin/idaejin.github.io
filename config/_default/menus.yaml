@@ -7,6 +7,9 @@ main:
   - name: Publications
     url: 'publication/'
     weight: 20
+  - name: Projects
+    url: 'projects/'
+    weight: 25
   - name: Resume
     url: 'resume/'
     weight: 30
