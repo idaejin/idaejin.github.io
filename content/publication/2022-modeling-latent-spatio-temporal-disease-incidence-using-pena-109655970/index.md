@@ -2,7 +2,6 @@
 title: "Modeling latent spatio-temporal disease incidence using penalized composite link models"
 authors:
   - admin
-  - "Jaroslaw Harezlak"
   - "María Durbán"
   - "Diego Ayma"
   - "Jan Van de Kassteele"
