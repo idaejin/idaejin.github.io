@@ -200,6 +200,21 @@ def apply_author_overrides(put_code: int | str, authors: list[str], overrides: d
     return authors
 
 
+def apply_work_overrides(work: dict, overrides: dict) -> dict:
+    cfg = (overrides.get("by_put_code") or {}).get(str(work["put_code"])) or {}
+    if "authors" in cfg or "remove_authors" in cfg:
+        work["authors"] = apply_author_overrides(work["put_code"], work.get("authors") or [], overrides)
+    if cfg.get("doi") is not None:
+        work["doi"] = normalize_doi(cfg["doi"])
+        if work["doi"] and not work.get("url"):
+            work["url"] = f"https://doi.org/{work['doi']}"
+    if cfg.get("url_pdf") is not None:
+        work["url_pdf"] = cfg["url_pdf"]
+    if cfg.get("url") is not None:
+        work["url"] = cfg["url"]
+    return work
+
+
 def collect_works() -> list[dict]:
     data = api_get(f"{API}/works")
     groups = data.get("group") or []
@@ -268,7 +283,9 @@ def collect_works() -> list[dict]:
     overrides = load_overrides()
     for i, w in enumerate(unique):
         names = fetch_contributors(w["put_code"])
-        w["authors"] = apply_author_overrides(w["put_code"], to_authors(names), overrides)
+        w["authors"] = to_authors(names)
+        w.setdefault("url_pdf", "")
+        apply_work_overrides(w, overrides)
         if (i + 1) % 10 == 0:
             print(f"  fetched authors {i + 1}/{len(unique)}")
         time.sleep(0.05)
@@ -306,6 +323,7 @@ def write_hugo(works: list[dict]) -> None:
         auth_yaml = "\n".join(
             '  - admin' if a == "admin" else f'  - "{yaml_escape(a)}"' for a in w["authors"]
         )
+        url_pdf = w.get("url_pdf") or ""
         md = f'''---
 title: "{yaml_escape(w["title"])}"
 authors:
@@ -318,7 +336,7 @@ publication: "{yaml_escape(pub_line)}"
 publication_short: ""
 abstract: ""
 featured: false
-url_pdf: ""
+url_pdf: "{yaml_escape(url_pdf)}"
 url_code: ""
 url_dataset: ""
 url_poster: ""

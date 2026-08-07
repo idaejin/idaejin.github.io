@@ -222,15 +222,16 @@
       "month": "06",
       "day": "19",
       "type": "journal-article",
-      "doi": "",
+      "doi": "10.57645/20.8080.02.17",
       "journal": "SORT (Statistics and Operations Research Transactions)",
-      "url": "https://www.idescat.cat/sort/sort482/48.2.1.Galan-Arcicollar-etal.prov.pdf",
+      "url": "https://doi.org/10.57645/20.8080.02.17",
       "source": "Dae-Jin Lee",
       "authors": [
         "Cristina Galán-García Arcicollar",
         "Josu Najera-Zuloaga",
         "admin"
-      ]
+      ],
+      "url_pdf": "https://www.idescat.cat/sort/sort482/48.2.1.Gal%C3%A1n-Arcicollar-etal.pdf"
     },
     {
       "put_code": 155259909,
