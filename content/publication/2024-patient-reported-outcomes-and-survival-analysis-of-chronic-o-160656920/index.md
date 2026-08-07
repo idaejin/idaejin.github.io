@@ -1,6 +1,8 @@
 ---
 title: "Patient-reported outcomes and survival analysis of chronic obstructive pulmonary disease patients: a two-stage joint modelling approach"
 authors:
+  - "Cristina Galán-García Arcicollar"
+  - "Josu Najera-Zuloaga"
   - admin
 date: "2024-06-19"
 publishDate: "2024-06-19"
