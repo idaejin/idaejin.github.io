@@ -1,0 +1,71 @@
+# SITE SETUP — Wowchemy Academic (same family as Lore's site)
+
+appearance:
+  theme_day: minimal
+  font: minimal
+  font_size: L
+
+marketing:
+  seo:
+    site_type: Person
+    local_business_type: ''
+    org_name: IE University
+    description: 'Dae-Jin Lee — Assistant Professor in Data Science at IE University. Statistical modelling, biostatistics, and sports analytics.'
+    twitter: 'idaejin'
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+  verification:
+    google: ''
+    baidu: ''
+
+header:
+  navbar:
+    enable: true
+    align: r
+    show_logo: false
+    show_language: false
+    show_day_night: false
+    show_search: false
+    highlight_active_link: true
+
+footer:
+  copyright:
+    notice: '© {year} Dae-Jin Lee'
+    license:
+      enable: false
+
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
+  address_format: en-us
+
+features:
+  syntax_highlighter:
+    enable: true
+    extra_languages:
+      - r
+      - latex
+  math:
+    enable: false
+  privacy_pack:
+    enable: false
+  repository:
+    url: 'https://github.com/idaejin/idaejin.github.io'
+    content_dir: content
+    branch: main
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: ''
+  search:
+    provider: ''
+  map:
+    provider: ''
+
+extensions:
+  academicons:
+    enable: true
+
+email: Dae-Jin.Lee@ie.edu

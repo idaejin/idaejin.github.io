@@ -1,9 +1,8 @@
+.DS_Store
 .Rproj.user
 .Rhistory
 .RData
-.Ruserdata
-.DS_Store
-.quarto
-/_site
-
-/.quarto/
+*.Rproj
+resources/_gen
+public/
+.hugo_build.lock
