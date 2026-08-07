@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://idaejin.github.io/index.html</loc>
+    <lastmod>2026-08-07T01:08:30.193Z</lastmod>
+  </url>
+  <url>
     <loc>https://idaejin.github.io/publications.html</loc>
-    <lastmod>2026-08-07T01:02:39.572Z</lastmod>
+    <lastmod>2026-08-07T01:08:30.193Z</lastmod>
   </url>
   <url>
     <loc>https://idaejin.github.io/resume.html</loc>
-    <lastmod>2026-08-07T01:02:40.225Z</lastmod>
-  </url>
-  <url>
-    <loc>https://idaejin.github.io/index.html</loc>
-    <lastmod>2026-08-07T01:04:48.329Z</lastmod>
+    <lastmod>2026-08-07T01:08:30.193Z</lastmod>
   </url>
 </urlset>
