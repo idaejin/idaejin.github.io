@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html#biography",
+    "href": "index.html#biography",
+    "title": "Dae-Jin Lee",
+    "section": "Biography",
+    "text": "Biography\nI am assistant professor in Data Science and researcher at the School of Science & Technology at IE University, and Chief Scientist of the Health & Tech Lab at ImpactXcelerator.\nBefore joining IE University, from 2014 to 2022, I was a researcher at BCAM – Basque Center for Applied Mathematics in Bilbao, where I led the research line in Applied Statistics and coordinated the area of Data Science and Artificial Intelligence of the Knowledge Transfer Unit.\nFrom 2011 to 2014, I was a Postdoctoral Fellow at CSIRO (Mathematics, Informatics and Statistics; today Data61) in Melbourne, Australia.\nMy research focuses on biostatistics and statistical modelling for health, biomedical, environmental, and sports-science applications—especially smoothing methods based on penalized splines and mixed models."
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -33,12 +40,5 @@
     "title": "Resume",
     "section": "Contact",
     "text": "Contact\nEmail: Dae-Jin.Lee@ie.edu\nOffice: IE Tower, Paseo de la Castellana 259E, 28029 Madrid, Spain\nProfiles: ORCID · Google Scholar · LinkedIn · GitHub · Twitter"
-  },
-  {
-    "objectID": "index.html#biography",
-    "href": "index.html#biography",
-    "title": "Dae-Jin Lee",
-    "section": "Biography",
-    "text": "Biography\nI am assistant professor in Data Science and researcher at the School of Science & Technology at IE University, and Chief Scientist of the Health & Tech Lab at ImpactXcelerator.\nBefore joining IE University, from 2014 to 2022, I was a researcher at BCAM – Basque Center for Applied Mathematics in Bilbao, where I led the research line in Applied Statistics and coordinated the area of Data Science and Artificial Intelligence of the Knowledge Transfer Unit.\nFrom 2011 to 2014, I was a Postdoctoral Fellow at CSIRO (Mathematics, Informatics and Statistics; today Data61) in Melbourne, Australia.\nMy research focuses on biostatistics and statistical modelling for health, biomedical, environmental, and sports-science applications—especially smoothing methods based on penalized splines and mixed models."
   }
 ]
