@@ -1,0 +1,38 @@
+---
+title: "Impact of outdoor air pollution on severity and mortality in COVID-19 pneumonia"
+authors:
+  - "O. Bronte"
+  - "F. García-García"
+  - "D.-J. Lee"
+  - "I. Urrutia"
+  - "A. Uranga"
+  - "M. Nieves"
+  - "J. Martínez-Minaya"
+  - "J.M. Quintana"
+  - "I. Arostegui"
+  - "R. Zalacain"
+  - "L.A. Ruiz-Iturriaga"
+  - "L. Serrano"
+  - "R. Menéndez"
+  - "R. Méndez"
+  - "A. Torres"
+  - "C. Cilloniz"
+  - "P.P. España"
+  - admin
+date: "2023-10-01"
+publishDate: "2023-10-01"
+doi: "10.1016/j.scitotenv.2023.164877"
+publication_types: ["2"]
+publication: "*Science of The Total Environment*"
+publication_short: ""
+abstract: ""
+featured: false
+url_pdf: ""
+url_code: ""
+url_dataset: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
+---
