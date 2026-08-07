@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Dae-Jin Lee",
-    "section": "",
-    "text": "Dae-Jin Lee, PhD\n    Assistant Professor in Statistical Sciences\n    School of Science & Technology, IE University\n    \n      Email\n      ORCID\n      Google Scholar\n      GitHub\n      LinkedIn"
-  },
-  {
-    "objectID": "index.html#biography",
-    "href": "index.html#biography",
-    "title": "Dae-Jin Lee",
-    "section": "Biography",
-    "text": "Biography\nI am assistant professor in Data Science and researcher at the School of Science & Technology at IE University, and Chief Scientist of the Health & Tech Lab at ImpactXcelerator.\nBefore joining IE University, from 2014 to 2022, I was a researcher at BCAM – Basque Center for Applied Mathematics in Bilbao, where I led the research line in Applied Statistics and coordinated the area of Data Science and Artificial Intelligence of the Knowledge Transfer Unit.\nFrom 2011 to 2014, I was a Postdoctoral Fellow at CSIRO (Mathematics, Informatics and Statistics; today Data61) in Melbourne, Australia.\nMy research focuses on biostatistics and statistical modelling for health, biomedical, environmental, and sports-science applications—especially smoothing methods based on penalized splines and mixed models."
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -53,14 +39,14 @@
     "href": "resume.html#supervision",
     "title": "CV",
     "section": "Supervision",
-    "text": "Supervision\n\nPhD students (finished)\n\nDiego Ayma Anza, Department of Statistics, Universidad Carlos III de Madrid, cum laude, December 2016\nPenalized Composite Link Models for spatial and spatio-temporal aggregated counts (with M. Durbán). Thesis\nJosu Najera Zuloaga, BCAM–Severo Ochoa, UPV/EHU, cum laude, December 2017\nMultidimensional and longitudinal Beta-binomial regression for Health-Related Quality of Life outcomes (with I. Arostegui). Thesis\nAlba Carballo González, Department of Statistics, Universidad Carlos III de Madrid, cum laude, 2020\nForecasting with Generalized Additive Models. Thesis\nLeire Citores Martínez, AZTI–BCAM, UPV/EHU, July 2021\nFrom habitat to management: a simulation framework for improving statistical methods in fisheries science (with L. Ibaibarriaga). Thesis\nLore Zumeta Olaskoaga, BCAM–Severo Ochoa, UPV/EHU, cum laude, February 2024\nStatistical Modelling of Recurrent Events in Sports Injury Research with Applications to Football Injury Data\nIbon Martínez Arranz, UPV/EHU, June 2025\nGenetic Algorithms Applied to Translational Strategy in MASH. Learning from Mouse Models (with Jose María Mato, CIC bioGUNE)\nMaría Alejandra Hernández Velandia, UPV/EHU, July 2025\nNovel P-Spline-based Approaches for Curve and Derivative Estimation in Longitudinal Growth Studies (with María Xosé Rodríguez-Álvarez, Universidade de Vigo)\nCristina Galán García-Arcicollar, UPV/EHU, July 2025\nJoint modeling with beta-binomial distribution for patient-reported outcomes and survival data (with Josu Najera Zuloaga)\nAnder García, UPV/EHU, April 2026 Pedestrian Flow Simulations with applications (with Marco Ellero, BCAM–Ikerbasque)\n\n\n\nPhD students (ongoing)\n\nJuan Carlos Espinosa, UPV/EHU (expected November 2026)\nStatistical Learning techniques for Early Warning Systems for Medical Health Records (with Fernando García-García, BCAM)\n\n\n\nMSc students\n\nAndreu Jiménez (BCAM–Università de València), MSc in Biostatistics, July 2015\nAntoni Castellà Frasquet (Università de València), MSc in Biostatistics, July 2016\nPedro Ángel Fidel (Università de València), MSc in Biostatistics, September 2016\nRut Rodríguez García (UPV/EHU), MSc in Mathematical Modelling / Statistics and Computer Sciences, September 2017"
+    "text": "Supervision\n\nPhD students (finished)\n\nDiego Ayma Anza, Department of Statistics, Universidad Carlos III de Madrid, cum laude, December 2016\nPenalized Composite Link Models for spatial and spatio-temporal aggregated counts (with M. Durbán). Thesis\nJosu Najera Zuloaga, BCAM–Severo Ochoa, UPV/EHU, cum laude, December 2017\nMultidimensional and longitudinal Beta-binomial regression for Health-Related Quality of Life outcomes (with I. Arostegui). Thesis\nAlba Carballo González, Department of Statistics, Universidad Carlos III de Madrid, cum laude, 2020\nForecasting with Generalized Additive Models. Thesis\nLeire Citores Martínez, AZTI–BCAM, UPV/EHU, July 2021\nFrom habitat to management: a simulation framework for improving statistical methods in fisheries science (with L. Ibaibarriaga). Thesis\nLore Zumeta Olaskoaga, BCAM–Severo Ochoa, UPV/EHU, cum laude, February 2024\nStatistical Modelling of Recurrent Events in Sports Injury Research with Applications to Football Injury Data\nIbon Martínez Arranz, UPV/EHU, June 2025\nGenetic Algorithms Applied to Translational Strategy in MASH. Learning from Mouse Models (with Jose María Mato, CIC bioGUNE)\nMaría Alejandra Hernández Velandia, UPV/EHU, July 2025\nNovel P-Spline-based Approaches for Curve and Derivative Estimation in Longitudinal Growth Studies (with María Xosé Rodríguez-Álvarez, Universidade de Vigo)\nCristina Galán García-Arcicollar, UPV/EHU, July 2025\nJoint modeling with beta-binomial distribution for patient-reported outcomes and survival data (with Josu Najera Zuloaga)\nAnder García, UPV/EHU, April 2026\nPedestrian Flow Simulations with applications (with Marco Ellero, BCAM–Ikerbasque)\n\n\n\nPhD students (ongoing)\n\nJuan Carlos Espinosa, UPV/EHU (expected November 2026)\nStatistical Learning techniques for Early Warning Systems for Medical Health Records (with Fernando García-García, BCAM)\n\n\n\nMSc students\n\nAndreu Jiménez (BCAM–Università de València), MSc in Biostatistics, July 2015\nAntoni Castellà Frasquet (Università de València), MSc in Biostatistics, July 2016\nPedro Ángel Fidel (Università de València), MSc in Biostatistics, September 2016\nRut Rodríguez García (UPV/EHU), MSc in Mathematical Modelling / Statistics and Computer Sciences, September 2017"
   },
   {
-    "objectID": "resume.html#selected-invited-talks",
-    "href": "resume.html#selected-invited-talks",
+    "objectID": "resume.html#talks",
+    "href": "resume.html#talks",
     "title": "CV",
-    "section": "Selected invited talks",
-    "text": "Selected invited talks\n\nModelling latent trends from spatio-temporally grouped data using composite link mixed models. Joint TIES–GRASPA Conference on Climate and Environment, 2017\nBeta-binomial multivariate regression modeling of patient-reported outcomes. Special invited session, Spanish Biometric Society, XXIX International Biometric Conference, Barcelona, 2018\nDisaggregation of spatial and spatio-temporal counts in epidemiology: A penalized composite link model approach. ERCIM WG, Seville, 2016\nSpatial and spatio-temporal modeling of aggregated counts with applications in epidemiology. 61st RBras, Salvador Bahia, Brazil, 2016\nMultidimensional P-splines as mixed models. ISNPS Meeting, Graz, Austria, 2015"
+    "section": "Talks",
+    "text": "Talks\n\nModelling latent trends from spatio-temporally grouped data using composite link mixed models\n2017\nInvited talk at Joint TIES–GRASPA Conference on Climate and Environment. Session on spatio-temporal disease mapping.\n\n\nBeta-binomial multivariate regression modeling of patient-reported outcomes\n2018\nInvited talk at the Spanish Biometric Society special session, XXIX International Biometric Conference, Barcelona.\n\n\nDisaggregation of spatial and spatio-temporal counts in epidemiology: A penalized composite link model approach\n2016\nInvited talk at ERCIM WG, Seville. Session on smoothing methods for complex data.\n\n\nSpatial and spatio-temporal modeling of aggregated counts with applications in epidemiology\n2016\nInvited talk at 61st RBras, Salvador Bahia, Brazil.\n\n\nMultidimensional P-splines as mixed models\n2015\nISNPS Meeting “Biosciences, Medicine, and novel Non-Parametric Methods”, Graz, Austria."
   },
   {
     "objectID": "resume.html#service-and-leadership",
@@ -74,7 +60,7 @@
     "href": "resume.html#selected-research-projects",
     "title": "CV",
     "section": "Selected research projects",
-    "text": "Selected research projects\n\nSPHERES — Semi-Parametric models for Human growth, Extremes and Recurrent Events in Survival analysis. Agencia Estatal de Investigación (PID2023-153222OB-I00), 2024–2027. Co-PI with Manuele Leonelli\nS3M1P4R — New proposals for estimation, prediction and validation of semi-parametric models… Agencia Estatal de Investigación (PID2020-115882RB-I00), 2021–2025. PI\nAFTERAM — New Contributions In Semiparametric Regression… (MTM2017-82379-R), 2018–2020. Co-PI with María Xosé Rodríguez-Álvarez"
+    "text": "Selected research projects\n\nSPHERES — Semi-Parametric models for Human growth, Extremes and Recurrent Events in Survival analysis. Agencia Estatal de Investigación (PID2023-153222OB-I00), 2024–2027. Co-PI with Manuele Leonelli\nS3M1P4R — New proposals for estimation, prediction and validation of semi-parametric models for complex data with applications in Health and Climate Change. Agencia Estatal de Investigación (PID2020-115882RB-I00), 2021–2025. PI\nAFTERAM — New Contributions In Semiparametric Regression and Applications (MTM2017-82379-R), 2018–2020. Co-PI with María Xosé Rodríguez-Álvarez"
   },
   {
     "objectID": "resume.html#contact",
@@ -82,5 +68,19 @@
     "title": "CV",
     "section": "Contact",
     "text": "Contact\n\nEmail: Dae-Jin.Lee@ie.edu\nOffice: IE Tower, Paseo de la Castellana 259E, 28046 Madrid, Spain\nORCID: 0000-0002-8995-8535\nGoogle Scholar: profile\nGitHub: idaejin\nLinkedIn: idaejin"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dae-Jin Lee",
+    "section": "",
+    "text": "Dae-Jin Lee, PhD\n    Assistant Professor in Statistical Sciences\n    School of Science & Technology, IE University\n    \n      Email\n      ORCID\n      Google Scholar\n      GitHub\n      LinkedIn"
+  },
+  {
+    "objectID": "index.html#biography",
+    "href": "index.html#biography",
+    "title": "Dae-Jin Lee",
+    "section": "Biography",
+    "text": "Biography\nI am assistant professor in Data Science and researcher at the School of Science & Technology at IE University, and Chief Scientist of the Health & Tech Lab at ImpactXcelerator.\nBefore joining IE University, from 2014 to 2022, I was a researcher at BCAM – Basque Center for Applied Mathematics in Bilbao, where I led the research line in Applied Statistics and coordinated the area of Data Science and Artificial Intelligence of the Knowledge Transfer Unit.\nFrom 2011 to 2014, I was a Postdoctoral Fellow at CSIRO (Mathematics, Informatics and Statistics; today Data61) in Melbourne, Australia.\nMy research focuses on biostatistics and statistical modelling for health, biomedical, environmental, and sports-science applications—especially smoothing methods based on penalized splines and mixed models."
   }
 ]

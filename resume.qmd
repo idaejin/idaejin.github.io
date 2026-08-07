@@ -21,23 +21,18 @@ format:
 
 ## Work experience
 
-- **January 2023 – Present**: Full-time Assistant Professor (tenure-track)  
+- **January 2023 – Present:** Full-time Assistant Professor (tenure-track)  
   - [IE University, School of Science and Technology](https://www.ie.edu/school-science-technology/), Madrid, Spain  
   - Teaching and research in data analysis, statistical modelling, and computing
-
-- **June 2020 – December 2022**: Knowledge Transfer Unit — Data Science and AI Coordinator  
+- **June 2020 – December 2022:** Knowledge Transfer Unit — Data Science and AI Coordinator  
   - [BCAM – Basque Center for Applied Mathematics](https://www.bcamath.org/en/), Bilbao, Spain
-
-- **June 2014 – December 2022**: Researcher and Group Leader, Applied Statistics  
+- **June 2014 – December 2022:** Researcher and Group Leader, Applied Statistics  
   - [BCAM – Basque Center for Applied Mathematics](https://www.bcamath.org/en/), Bilbao, Spain
-
-- **February 2011 – February 2014**: Postdoctoral Fellow  
+- **February 2011 – February 2014:** Postdoctoral Fellow  
   - [CSIRO](https://www.csiro.au/en/) (Mathematics, Informatics and Statistics / Data61), Clayton, VIC, Australia
-
-- **June 2010 – January 2011**: Lecturer  
+- **June 2010 – January 2011:** Lecturer  
   - Department of Statistics, [Universidad Carlos III de Madrid](https://www.uc3m.es/), Spain
-
-- **September 2004 – June 2010**: Teaching Assistant  
+- **September 2004 – June 2010:** Teaching Assistant  
   - Department of Statistics, [Universidad Carlos III de Madrid](https://www.uc3m.es/), Spain
 
 ## Teaching
@@ -59,36 +54,27 @@ format:
 
 - **Diego Ayma Anza**, Department of Statistics, Universidad Carlos III de Madrid, cum laude, December 2016  
   *Penalized Composite Link Models for spatial and spatio-temporal aggregated counts* (with M. Durbán). [Thesis](https://e-archivo.uc3m.es/handle/10016/24891)
-
 - **Josu Najera Zuloaga**, BCAM–Severo Ochoa, UPV/EHU, cum laude, December 2017  
   *Multidimensional and longitudinal Beta-binomial regression for Health-Related Quality of Life outcomes* (with I. Arostegui). [Thesis](https://addi.ehu.es/handle/10810/27604)
-
 - **Alba Carballo González**, Department of Statistics, Universidad Carlos III de Madrid, cum laude, 2020  
   *Forecasting with Generalized Additive Models*. [Thesis](https://e-archivo.uc3m.es/handle/10016/31312)
-
 - **Leire Citores Martínez**, AZTI–BCAM, UPV/EHU, July 2021  
   *From habitat to management: a simulation framework for improving statistical methods in fisheries science* (with L. Ibaibarriaga). [Thesis](https://addi.ehu.es/handle/10810/54927)
-
 - **Lore Zumeta Olaskoaga**, BCAM–Severo Ochoa, UPV/EHU, cum laude, February 2024  
   *Statistical Modelling of Recurrent Events in Sports Injury Research with Applications to Football Injury Data*
-
 - **Ibon Martínez Arranz**, UPV/EHU, June 2025  
   *Genetic Algorithms Applied to Translational Strategy in MASH. Learning from Mouse Models* (with Jose María Mato, CIC bioGUNE)
-
 - **María Alejandra Hernández Velandia**, UPV/EHU, July 2025  
   *Novel P-Spline-based Approaches for Curve and Derivative Estimation in Longitudinal Growth Studies* (with María Xosé Rodríguez-Álvarez, Universidade de Vigo)
-
 - **Cristina Galán García-Arcicollar**, UPV/EHU, July 2025  
   *Joint modeling with beta-binomial distribution for patient-reported outcomes and survival data* (with Josu Najera Zuloaga)
-
-- **Ander García**, UPV/EHU, April 2026
+- **Ander García**, UPV/EHU, April 2026  
   *Pedestrian Flow Simulations with applications* (with Marco Ellero, BCAM–Ikerbasque)
 
 ### PhD students (ongoing)
 
 - **Juan Carlos Espinosa**, UPV/EHU (expected November 2026)  
   *Statistical Learning techniques for Early Warning Systems for Medical Health Records* (with Fernando García-García, BCAM)
-
 
 ### MSc students
 
@@ -97,13 +83,37 @@ format:
 - Pedro Ángel Fidel (Università de València), MSc in Biostatistics, September 2016
 - Rut Rodríguez García (UPV/EHU), MSc in Mathematical Modelling / Statistics and Computer Sciences, September 2017
 
-## Selected invited talks
+## Talks
 
-- Modelling latent trends from spatio-temporally grouped data using composite link mixed models. Joint TIES–GRASPA Conference on Climate and Environment, 2017
-- Beta-binomial multivariate regression modeling of patient-reported outcomes. Special invited session, Spanish Biometric Society, XXIX International Biometric Conference, Barcelona, 2018
-- Disaggregation of spatial and spatio-temporal counts in epidemiology: A penalized composite link model approach. ERCIM WG, Seville, 2016
-- Spatial and spatio-temporal modeling of aggregated counts with applications in epidemiology. 61st RBras, Salvador Bahia, Brazil, 2016
-- Multidimensional P-splines as mixed models. ISNPS Meeting, Graz, Austria, 2015
+### Modelling latent trends from spatio-temporally grouped data using composite link mixed models
+
+2017
+
+Invited talk at Joint TIES–GRASPA Conference on Climate and Environment. Session on spatio-temporal disease mapping.
+
+### Beta-binomial multivariate regression modeling of patient-reported outcomes
+
+2018
+
+Invited talk at the Spanish Biometric Society special session, XXIX International Biometric Conference, Barcelona.
+
+### Disaggregation of spatial and spatio-temporal counts in epidemiology: A penalized composite link model approach
+
+2016
+
+Invited talk at ERCIM WG, Seville. Session on smoothing methods for complex data.
+
+### Spatial and spatio-temporal modeling of aggregated counts with applications in epidemiology
+
+2016
+
+Invited talk at 61st RBras, Salvador Bahia, Brazil.
+
+### Multidimensional P-splines as mixed models
+
+2015
+
+ISNPS Meeting “Biosciences, Medicine, and novel Non-Parametric Methods”, Graz, Austria.
 
 ## Service and leadership
 
@@ -116,8 +126,8 @@ format:
 ## Selected research projects
 
 - **SPHERES** — Semi-Parametric models for Human growth, Extremes and Recurrent Events in Survival analysis. Agencia Estatal de Investigación (PID2023-153222OB-I00), 2024–2027. Co-PI with Manuele Leonelli
-- **S3M1P4R** — New proposals for estimation, prediction and validation of semi-parametric models… Agencia Estatal de Investigación (PID2020-115882RB-I00), 2021–2025. PI
-- **AFTERAM** — New Contributions In Semiparametric Regression… (MTM2017-82379-R), 2018–2020. Co-PI with María Xosé Rodríguez-Álvarez
+- **S3M1P4R** — New proposals for estimation, prediction and validation of semi-parametric models for complex data with applications in Health and Climate Change. Agencia Estatal de Investigación (PID2020-115882RB-I00), 2021–2025. PI
+- **AFTERAM** — New Contributions In Semiparametric Regression and Applications (MTM2017-82379-R), 2018–2020. Co-PI with María Xosé Rodríguez-Álvarez
 
 ## Contact
 
