@@ -1,0 +1,1012 @@
+{
+  "orcid": "0000-0002-8995-8535",
+  "source": "https://pub.orcid.org/v3.0/0000-0002-8995-8535/works",
+  "count": 50,
+  "publications": [
+    {
+      "put_code": 208981276,
+      "title": "Modeling crowd flow during stadium ingress under alternative access protocols: San Mamés as a case study",
+      "year": "2026",
+      "month": "05",
+      "day": "01",
+      "type": "journal-article",
+      "doi": "10.1016/j.simpat.2026.103279",
+      "journal": "Simulation Modelling Practice and Theory",
+      "url": "https://doi.org/10.1016/j.simpat.2026.103279",
+      "source": "Crossref",
+      "authors": [
+        "Ander García",
+        "Bruno V. Guerrero",
+        "Dariel Hernández-Delfin",
+        "admin",
+        "Marco Ellero"
+      ]
+    },
+    {
+      "put_code": 190617755,
+      "title": "Hierarchical compromise optimization of ambulance locations under stochastic travel times",
+      "year": "2025",
+      "month": "12",
+      "day": "01",
+      "type": "journal-article",
+      "doi": "10.1016/j.cor.2025.107208",
+      "journal": "Computers & Operations Research",
+      "url": "https://doi.org/10.1016/j.cor.2025.107208",
+      "source": "Crossref",
+      "authors": [
+        "Imanol Gago-Carro",
+        "Unai Aldasoro",
+        "admin",
+        "María Merino"
+      ]
+    },
+    {
+      "put_code": 189814278,
+      "title": "Evaluating short-term forecast accuracy across COVID-19 waves using penalized spline models",
+      "year": "2025",
+      "month": "12",
+      "day": "01",
+      "type": "journal-article",
+      "doi": "10.1016/j.ijmedinf.2025.106079",
+      "journal": "International Journal of Medical Informatics",
+      "url": "http://dx.doi.org/10.1016/j.ijmedinf.2025.106079",
+      "source": "Dae-Jin Lee",
+      "authors": [
+        "Nere Larrea",
+        "admin",
+        "Irantzu Barrio",
+        "Inmaculada Arostegui",
+        "Eduardo Millan",
+        "Jose María Quintana"
+      ]
+    },
+    {
+      "put_code": 197202955,
+      "title": "Dynamic disagreeing neighbors: A deep dive into complexity estimation",
+      "year": "2025",
+      "month": "11",
+      "day": "01",
+      "type": "journal-article",
+      "doi": "10.1016/j.neucom.2025.132076",
+      "journal": "Neurocomputing",
+      "url": "http://dx.doi.org/10.1016/j.neucom.2025.132076",
+      "source": "Dae-Jin Lee",
+      "authors": [
+        "Víctor Aceña",
+        "Carmen Lancho",
+        "Isaac Martín De Diego",
+        "Javier M. Moguerza",
+        "admin"
+      ]
+    },
+    {
+      "put_code": 194186761,
+      "title": "Understanding support for AI regulation: A Bayesian network perspective",
+      "year": "2025",
+      "month": "09",
+      "day": "01",
+      "type": "journal-article",
+      "doi": "10.1177/18479790251383310",
+      "journal": "International Journal of Engineering Business Management",
+      "url": "http://dx.doi.org/10.1177/18479790251383310",
+      "source": "Dae-Jin Lee",
+      "authors": [
+        "Andrea Cremaschi",
+        "admin",
+        "Manuele Leonelli"
+      ]
+    },
+    {
+      "put_code": 190558200,
+      "title": "Modelling in-hospital length of stay: A comparison of linear and ensemble models for competing risk analysis",
+      "year": "2025",
+      "month": "08",
+      "day": "26",
+      "type": "journal-article",
+      "doi": "10.1371/journal.pone.0322101",
+      "journal": "PLOS One",
+      "url": "https://doi.org/10.1371/journal.pone.0322101",
+      "source": "Crossref",
+      "authors": [
+        "Juan Carlos Espinosa-Moreno",
+        "Guanghui Liu",
+        "Fernando García-García",
+        "Naia Mas-Bilbao",
+        "Susana García-Gutiérrez",
+        "María José Legarreta-Olabarrieta",
+        "admin"
+      ]
+    },
+    {
+      "put_code": 185463016,
+      "title": "On the modeling of dynamic queue formation and decision-making in pedestrian dynamics simulations",
+      "year": "2025",
+      "month": "07",
+      "day": "01",
+      "type": "journal-article",
+      "doi": "10.1016/j.simpat.2025.103130",
+      "journal": "Simulation Modelling Practice and Theory",
+      "url": "http://dx.doi.org/10.1016/j.simpat.2025.103130",
+      "source": "Dae-Jin Lee",
+      "authors": [
+        "Ander García",
+        "Dariel Hernández-Delfin",
+        "admin",
+        "Marco Ellero"
+      ]
+    },
+    {
+      "put_code": 172610247,
+      "title": "Flexible modelling of time-varying exposures and recurrent events to analyse training load effects in team sports injuries",
+      "year": "2025",
+      "month": "03",
+      "day": "13",
+      "type": "journal-article",
+      "doi": "10.1093/jrsssc/qlae059",
+      "journal": "Journal of the Royal Statistical Society Series C: Applied Statistics",
+      "url": "https://doi.org/10.1093/jrsssc/qlae059",
+      "source": "Crossref",
+      "authors": [
+        "Lore Zumeta-Olaskoaga",
+        "Andreas Bender",
+        "admin"
+      ]
+    },
+    {
+      "put_code": 164683317,
+      "title": "Genetic algorithms applied to translational strategy in metabolic-dysfunction associated steatohepatitis (MASH). Learning from mouse models",
+      "year": "2024",
+      "month": "10",
+      "day": "01",
+      "type": "journal-article",
+      "doi": "10.1016/j.cmpb.2024.108346",
+      "journal": "Computer Methods and Programs in Biomedicine",
+      "url": "https://doi.org/10.1016/j.cmpb.2024.108346",
+      "source": "Crossref",
+      "authors": [
+        "Ibon Martínez-Arranz",
+        "Cristina Alonso",
+        "Rebeca Mayo",
+        "Itziar Mincholé",
+        "José M. Mato",
+        "admin"
+      ]
+    },
+    {
+      "put_code": 168341399,
+      "title": "A Bimodal Extension of the Beta-Binomial Distribution with Applications",
+      "year": "2024",
+      "month": "09",
+      "day": "25",
+      "type": "journal-article",
+      "doi": "10.3390/axioms13100662",
+      "journal": "Axioms",
+      "url": "https://doi.org/10.3390/axioms13100662",
+      "source": "Crossref",
+      "authors": [
+        "Jimmy Reyes",
+        "Josu Najera-Zuloaga",
+        "admin",
+        "Jaime Arrué",
+        "Yuri A. Iriarte"
+      ]
+    },
+    {
+      "put_code": 169171764,
+      "title": "Obtaining patient phenotypes in SARS-CoV-2 pneumonia, and their association with clinical severity and mortality",
+      "year": "2024",
+      "month": "06",
+      "day": "25",
+      "type": "journal-article",
+      "doi": "10.1186/s41479-024-00132-0",
+      "journal": "Pneumonia",
+      "url": "http://dx.doi.org/10.1186/s41479-024-00132-0",
+      "source": "Dae-Jin Lee",
+      "authors": [
+        "Fernando García-García",
+        "admin",
+        "Mónica Nieves-Ermecheo",
+        "Olaia Bronte",
+        "Pedro Pablo España",
+        "José María Quintana",
+        "Rosario Menéndez",
+        "Antoni Torres",
+        "Luis Alberto Ruiz Iturriaga",
+        "Isabel Urrutia",
+        "COVID-19 & Air Pollution Working Group"
+      ]
+    },
+    {
+      "put_code": 160656920,
+      "title": "Patient-reported outcomes and survival analysis of chronic obstructive pulmonary disease patients: a two-stage joint modelling approach",
+      "year": "2024",
+      "month": "06",
+      "day": "19",
+      "type": "journal-article",
+      "doi": "",
+      "journal": "SORT (Statistics and Operations Research Transactions)",
+      "url": "https://www.idescat.cat/sort/sort482/48.2.1.Galan-Arcicollar-etal.prov.pdf",
+      "source": "Dae-Jin Lee",
+      "authors": [
+        "admin"
+      ]
+    },
+    {
+      "put_code": 155259909,
+      "title": "Reliable prediction of difficult airway for tracheal intubation from patient preoperative photographs by machine learning methods",
+      "year": "2024",
+      "month": "05",
+      "day": "01",
+      "type": "journal-article",
+      "doi": "10.1016/j.cmpb.2024.108118",
+      "journal": "Computer Methods and Programs in Biomedicine",
+      "url": "https://doi.org/10.1016/j.cmpb.2024.108118",
+      "source": "Crossref",
+      "authors": [
+        "Fernando García-García",
+        "admin",
+        "Francisco J. Mendoza-Garcés",
+        "Susana García-Gutiérrez"
+      ]
+    },
+    {
+      "put_code": 159080471,
+      "title": "Cost-Sensitive Ordinal Classification Methods to Predict SARS-CoV-2 Pneumonia Severity",
+      "year": "2024",
+      "month": "05",
+      "day": "01",
+      "type": "journal-article",
+      "doi": "10.1109/jbhi.2024.3363765",
+      "journal": "IEEE Journal of Biomedical and Health Informatics",
+      "url": "https://doi.org/10.1109/JBHI.2024.3363765",
+      "source": "Crossref",
+      "authors": [
+        "Fernando García-García",
+        "admin",
+        "Pedro Pablo España Yandiola",
+        "Isabel Urrutia Landa",
+        "Joaquín Martínez-Minaya",
+        "Miren Hayet-Otero",
+        "Mónica Nieves Ermecheo",
+        "José María Quintana",
+        "Rosario Menéndez",
+        "Antoni Torres",
+        "Rafael Zalacain Jorge"
+      ]
+    },
+    {
+      "put_code": 169172150,
+      "title": "Analysis of local density during football stadium access: Integrating pedestrian flow simulations and empirical data",
+      "year": "2024",
+      "month": "03",
+      "day": "01",
+      "type": "journal-article",
+      "doi": "10.1016/j.physa.2024.129635",
+      "journal": "Physica A: Statistical Mechanics and its Applications",
+      "url": "http://dx.doi.org/10.1016/j.physa.2024.129635",
+      "source": "Dae-Jin Lee",
+      "authors": [
+        "Ander García",
+        "Dariel Hernández-Delfin",
+        "Borja González",
+        "Germán Garitaonaindia",
+        "admin",
+        "Marco Ellero"
+      ]
+    },
+    {
+      "put_code": 141767861,
+      "title": "Classification of longitudinal profiles using semi‐parametric nonlinear mixed models with P‐Splines and the SAEM algorithm",
+      "year": "2023",
+      "month": "11",
+      "day": "30",
+      "type": "journal-article",
+      "doi": "10.1002/sim.9895",
+      "journal": "Statistics in Medicine",
+      "url": "https://doi.org/10.1002/sim.9895",
+      "source": "Crossref",
+      "authors": [
+        "Maritza Márquez",
+        "Cristian Meza",
+        "admin",
+        "Rolando De la Cruz"
+      ]
+    },
+    {
+      "put_code": 138440641,
+      "title": "Impact of outdoor air pollution on severity and mortality in COVID-19 pneumonia",
+      "year": "2023",
+      "month": "10",
+      "day": "01",
+      "type": "journal-article",
+      "doi": "10.1016/j.scitotenv.2023.164877",
+      "journal": "Science of The Total Environment",
+      "url": "http://dx.doi.org/10.1016/j.scitotenv.2023.164877",
+      "source": "Dae-Jin Lee",
+      "authors": [
+        "O. Bronte",
+        "F. García-García",
+        "D.-J. Lee",
+        "I. Urrutia",
+        "A. Uranga",
+        "M. Nieves",
+        "J. Martínez-Minaya",
+        "J.M. Quintana",
+        "I. Arostegui",
+        "R. Zalacain",
+        "L.A. Ruiz-Iturriaga",
+        "L. Serrano",
+        "R. Menéndez",
+        "R. Méndez",
+        "A. Torres",
+        "C. Cilloniz",
+        "P.P. España",
+        "admin"
+      ]
+    },
+    {
+      "put_code": 142617831,
+      "title": "Derivative curve estimation in longitudinal studies using P-splines",
+      "year": "2023",
+      "month": "09",
+      "day": "18",
+      "type": "journal-article",
+      "doi": "10.1177/1471082x231178078",
+      "journal": "Statistical Modelling",
+      "url": "http://dx.doi.org/10.1177/1471082x231178078",
+      "source": "Dae-Jin Lee",
+      "authors": [
+        "María Alejandra Hernández",
+        "admin",
+        "María Xosé Rodríguez-álvarez",
+        "María Durbán"
+      ]
+    },
+    {
+      "put_code": 133903844,
+      "title": "Multidimensional beta-binomial regression model: A joint analysis of patient-reported outcomes",
+      "year": "2023",
+      "month": "04",
+      "day": "14",
+      "type": "journal-article",
+      "doi": "",
+      "journal": "Statistical Modelling",
+      "url": "https://journals.sagepub.com/doi/10.1177/1471082X231151311",
+      "source": "Dae-Jin Lee",
+      "authors": [
+        "admin"
+      ]
+    },
+    {
+      "put_code": 133058090,
+      "title": "Extracting relevant predictive variables for COVID-19 severity prognosis: An exhaustive comparison of feature selection techniques",
+      "year": "2023",
+      "month": "04",
+      "day": "13",
+      "type": "journal-article",
+      "doi": "10.1371/journal.pone.0284150",
+      "journal": "PLOS ONE",
+      "url": "https://doi.org/10.1371/journal.pone.0284150",
+      "source": "Crossref",
+      "authors": [
+        "Miren Hayet-Otero",
+        "Sathishkumar V E",
+        "Fernando García-García",
+        "admin",
+        "Joaquín Martínez-Minaya",
+        "Pedro Pablo España Yandiola",
+        "Isabel Urrutia Landa",
+        "Mónica Nieves Ermecheo",
+        "José María Quintana",
+        "Rosario Menéndez",
+        "Antoni Torres",
+        "Rafael Zalacain Jorge",
+        "Inmaculada Arostegui"
+      ]
+    },
+    {
+      "put_code": 129624881,
+      "title": "Automated location of orofacial landmarks to characterize airway morphology in anaesthesia via deep convolutional neural networks",
+      "year": "2023",
+      "month": "04",
+      "day": "01",
+      "type": "journal-article",
+      "doi": "10.1016/j.cmpb.2023.107428",
+      "journal": "Computer Methods and Programs in Biomedicine",
+      "url": "https://doi.org/10.1016/j.cmpb.2023.107428",
+      "source": "Crossref",
+      "authors": [
+        "Fernando García-García",
+        "admin",
+        "Francisco J. Mendoza-Garcés",
+        "Sofía Irigoyen-Miró",
+        "María J. Legarreta-Olabarrieta",
+        "Susana García-Gutiérrez",
+        "Inmaculada Arostegui"
+      ]
+    },
+    {
+      "put_code": 103482686,
+      "title": "Prediction of sports injuries in football: a recurrent time-to-event approach using regularized Cox models",
+      "year": "2023",
+      "month": "03",
+      "day": "01",
+      "type": "journal-article",
+      "doi": "10.1007/s10182-021-00428-2",
+      "journal": "AStA Advances in Statistical Analysis",
+      "url": "https://doi.org/10.1007/s10182-021-00428-2",
+      "source": "Crossref",
+      "authors": [
+        "Lore Zumeta-Olaskoaga",
+        "Maximilian Weigert",
+        "Jon Larruskain",
+        "Eder Bikandi",
+        "Igor Setuain",
+        "Josean Lekue",
+        "Helmut Küchenhoff",
+        "admin"
+      ]
+    },
+    {
+      "put_code": 131296618,
+      "title": "Limited visual range in the Social Force Model: Effects on macroscopic and microscopic dynamics",
+      "year": "2023",
+      "month": "01",
+      "day": "01",
+      "type": "journal-article",
+      "doi": "10.1016/j.physa.2023.128461",
+      "journal": "Physica A: Statistical Mechanics and its Applications",
+      "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85146270704&partnerID=MN8TOARS",
+      "source": "Scopus - Elsevier",
+      "authors": [
+        "García, A.",
+        "Hernández-Delfin, D.",
+        "Lee, D.-J.",
+        "Ellero, M.",
+        "admin"
+      ]
+    },
+    {
+      "put_code": 123934342,
+      "title": "Peak Height Velocity Affects Injury Burden in Circa-PHV Soccer Players.",
+      "year": "2022",
+      "month": "11",
+      "day": "01",
+      "type": "journal-article",
+      "doi": "10.1055/a-1983-6762",
+      "journal": "International journal of sports medicine",
+      "url": "http://europepmc.org/abstract/med/36410710",
+      "source": "Europe PubMed Central",
+      "authors": [
+        "Monasterio X",
+        "Gil SM",
+        "Bidaurrazaga-Letona I",
+        "Lekue JA",
+        "Diaz-Beitia G",
+        "Santisteban JM",
+        "Lee DJ",
+        "Zumeta-Olaskoaga L",
+        "Martin-Garetxana I",
+        "Larruskain J",
+        "admin"
+      ]
+    },
+    {
+      "put_code": 109655970,
+      "title": "Modeling latent spatio-temporal disease incidence using penalized composite link models",
+      "year": "2022",
+      "month": "03",
+      "day": "10",
+      "type": "journal-article",
+      "doi": "10.1371/journal.pone.0263711",
+      "journal": "PLOS ONE",
+      "url": "https://doi.org/10.1371/journal.pone.0263711",
+      "source": "Crossref",
+      "authors": [
+        "admin",
+        "Jaroslaw Harezlak",
+        "María Durbán",
+        "Diego Ayma",
+        "Jan Van de Kassteele"
+      ]
+    },
+    {
+      "put_code": 131296614,
+      "title": "Multidimensional adaptive P-splines with application to neurons' activity studies",
+      "year": "2022",
+      "month": "01",
+      "day": "01",
+      "type": "journal-article",
+      "doi": "10.1111/biom.13755",
+      "journal": "Biometrics",
+      "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85140248032&partnerID=MN8TOARS",
+      "source": "Scopus - Elsevier",
+      "authors": [
+        "Rodríguez-Álvarez, M.X.",
+        "Durbán, M.",
+        "Eilers, P.H.C.",
+        "Lee, D.-J.",
+        "Gonzalez, F.",
+        "admin"
+      ]
+    },
+    {
+      "put_code": 45749942,
+      "title": "From spatio-temporal smoothing to functional spatial regression: a penalized approach. Geostatistical Functional Data Analysis",
+      "year": "2021",
+      "month": "12",
+      "day": "10",
+      "type": "book-chapter",
+      "doi": "",
+      "journal": "Theory and Methods. John Wiley & Sons",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119387916.ch16",
+      "source": "Dae-Jin Lee",
+      "authors": [
+        "admin"
+      ]
+    },
+    {
+      "put_code": 97538939,
+      "title": "Out-of-Sample Prediction in Multidimensional P-Spline Models",
+      "year": "2021",
+      "month": "07",
+      "day": "26",
+      "type": "journal-article",
+      "doi": "10.3390/math9151761",
+      "journal": "Mathematics",
+      "url": "https://doi.org/10.3390/math9151761",
+      "source": "Crossref",
+      "authors": [
+        "Alba Carballo",
+        "María Durbán",
+        "admin"
+      ]
+    },
+    {
+      "put_code": 102766273,
+      "title": "Heltze egoeraren araberako hazkunde-lesio motak goi-mailako futbolari gazteetan",
+      "year": "2021",
+      "month": "06",
+      "day": "08",
+      "type": "conference-paper",
+      "doi": "10.26876/ikergazte.iv.04.02",
+      "journal": "",
+      "url": "https://doi.org/10.26876/ikergazte.iv.04.02",
+      "source": "Crossref",
+      "authors": [
+        "Xabier Monasterio Cuenca",
+        "Susana Gil Orozko",
+        "Iraia Bidaurrazaga Lopez de Letona",
+        "Josean Lekue Gallano",
+        "Juan Santisteban Martinez",
+        "Gontzal Díaz-Beitia Merino",
+        "admin",
+        "Lore Zumeta Olaskoaga",
+        "Imanol Martin Garetxana",
+        "Eder Bikandi Latxaga",
+        "Jon Larruskain Zabala"
+      ]
+    },
+    {
+      "put_code": 131296621,
+      "title": "The burden of injuries according to maturity status and timing: A two-decade study with 110 growth curves in an elite football academy",
+      "year": "2021",
+      "month": "01",
+      "day": "01",
+      "type": "journal-article",
+      "doi": "10.1080/17461391.2021.2006316",
+      "journal": "European Journal of Sport Science",
+      "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85121559047&partnerID=MN8TOARS",
+      "source": "Scopus - Elsevier",
+      "authors": [
+        "Monasterio, X.",
+        "Gil, S.M.",
+        "Bidaurrazaga-Letona, I.",
+        "Lekue, J.A.",
+        "Santisteban, J.M.",
+        "Diaz-Beitia, G.",
+        "Lee, D.-J.",
+        "Zumeta-Olaskoaga, L.",
+        "Martin-Garetxana, I.",
+        "Bikandi, E.",
+        "Larruskain, J.",
+        "admin"
+      ]
+    },
+    {
+      "put_code": 131296615,
+      "title": "A general framework for prediction in penalized regression",
+      "year": "2021",
+      "month": "01",
+      "day": "01",
+      "type": "journal-article",
+      "doi": "10.1177/1471082x19896867",
+      "journal": "Statistical Modelling",
+      "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85081567860&partnerID=MN8TOARS",
+      "source": "Scopus - Elsevier",
+      "authors": [
+        "Carballo, A.",
+        "Durban, M.",
+        "Kauermann, G.",
+        "Lee, D.-J.",
+        "admin"
+      ]
+    },
+    {
+      "put_code": 131296604,
+      "title": "Multidimensional adaptive penalised splines with application to neurons’ activity studies",
+      "year": "2020",
+      "month": "01",
+      "day": "01",
+      "type": "other",
+      "doi": "",
+      "journal": "arXiv",
+      "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85098428060&partnerID=MN8TOARS",
+      "source": "Scopus - Elsevier",
+      "authors": [
+        "Rodríguez-Álvarez, M.X.",
+        "Durbán, M.",
+        "Eilers, P.H.C.",
+        "Lee, D.-J.",
+        "Gonzalez, F.",
+        "admin"
+      ]
+    },
+    {
+      "put_code": 131296617,
+      "title": "Modelling species presence–absence in the ecological niche theory framework using shape-constrained generalized additive models",
+      "year": "2020",
+      "month": "01",
+      "day": "01",
+      "type": "journal-article",
+      "doi": "10.1016/j.ecolmodel.2019.108926",
+      "journal": "Ecological Modelling",
+      "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85077684545&partnerID=MN8TOARS",
+      "source": "Scopus - Elsevier",
+      "authors": [
+        "Citores, L.",
+        "Ibaibarriaga, L.",
+        "Lee, D.-J.",
+        "Brewer, M.J.",
+        "Santos, M.",
+        "Chust, G.",
+        "admin"
+      ]
+    },
+    {
+      "put_code": 131296609,
+      "title": "High PD-1/PD-L1 checkpoint interaction infers tumor selection and therapeutic sensitivity to anti-PD-1/PD-L1 treatment",
+      "year": "2020",
+      "month": "01",
+      "day": "01",
+      "type": "journal-article",
+      "doi": "10.1158/0008-5472.can-20-1117",
+      "journal": "Cancer Research",
+      "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85091024073&partnerID=MN8TOARS",
+      "source": "Scopus - Elsevier",
+      "authors": [
+        "Sanchez-Magraner, L.",
+        "Miles, J.",
+        "Baker, C.L.",
+        "Applebee, C.J.",
+        "Lee, D.-J.",
+        "Elsheikh, S.",
+        "Lashin, S.",
+        "Withers, K.",
+        "Watts, A.G.",
+        "Parry, R.",
+        "Edmead, C.",
+        "Lopez, J.I.",
+        "Mehta, R.",
+        "Italiano, A.",
+        "Ward, S.G.",
+        "Parker, P.J.",
+        "Larijani, B.",
+        "admin"
+      ]
+    },
+    {
+      "put_code": 131296622,
+      "title": "Bayesian hierarchical modelling of growth curve derivatives via sequences of quotient differences",
+      "year": "2020",
+      "month": "01",
+      "day": "01",
+      "type": "journal-article",
+      "doi": "10.1111/rssc.12399",
+      "journal": "Journal of the Royal Statistical Society. Series C: Applied Statistics",
+      "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85079065499&partnerID=MN8TOARS",
+      "source": "Scopus - Elsevier",
+      "authors": [
+        "Page, G.L.",
+        "Rodríguez-Álvarez, M.X.",
+        "Lee, D.-J.",
+        "admin"
+      ]
+    },
+    {
+      "put_code": 51105946,
+      "title": "A beta‐binomial mixed‐effects model approach for analysing longitudinal discrete and bounded outcomes",
+      "year": "2019",
+      "month": "05",
+      "day": "01",
+      "type": "journal-article",
+      "doi": "10.1002/bimj.201700251",
+      "journal": "Biometrical Journal",
+      "url": "https://doi.org/10.1002/bimj.201700251",
+      "source": "Crossref",
+      "authors": [
+        "Josu Najera‐Zuloaga",
+        "admin",
+        "Inmaculada Arostegui"
+      ]
+    },
+    {
+      "put_code": 47645338,
+      "title": "On the estimation of variance parameters in non-standard generalised linear mixed models: application to penalised smoothing",
+      "year": "2019",
+      "month": "01",
+      "day": "01",
+      "type": "journal-article",
+      "doi": "10.1007/s11222-018-9818-2",
+      "journal": "Statistics and Computing",
+      "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85048363589&partnerID=MN8TOARS",
+      "source": "Scopus - Elsevier",
+      "authors": [
+        "Rodríguez-Álvarez, M.X.",
+        "Durban, M.",
+        "Lee, D.-J.",
+        "Eilers, P.H.C.",
+        "admin"
+      ]
+    },
+    {
+      "put_code": 47645339,
+      "title": "Comparison of beta-binomial regression model approaches to analyze health-related quality of life data",
+      "year": "2018",
+      "month": "01",
+      "day": "01",
+      "type": "journal-article",
+      "doi": "10.1177/0962280217690413",
+      "journal": "Statistical Methods in Medical Research",
+      "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85043715387&partnerID=MN8TOARS",
+      "source": "Scopus - Elsevier",
+      "authors": [
+        "Najera-Zuloaga, J.",
+        "Lee, D.-J.",
+        "Arostegui, I.",
+        "admin"
+      ]
+    },
+    {
+      "put_code": 31645415,
+      "title": "Effect of trampling and digging from shellfishing on Zostera noltei (Zosteraceae) intertidal seagrass beds",
+      "year": "2017",
+      "month": "03",
+      "day": "30",
+      "type": "journal-article",
+      "doi": "10.3989/scimar.04482.17a",
+      "journal": "Scientia Marina",
+      "url": "https://doi.org/10.3989/scimar.04482.17A",
+      "source": "Crossref",
+      "authors": [
+        "Joxe Mikel Garmendia",
+        "Mireia Valle",
+        "Ángel Borja",
+        "Guillem Chust",
+        "admin",
+        "J. Germán Rodríguez",
+        "Javier Franco"
+      ]
+    },
+    {
+      "put_code": 131296616,
+      "title": "Time resolved amplified FRET identifies protein kinase B activation state as a marker for poor prognosis in clear cell renal cell carcinoma",
+      "year": "2017",
+      "month": "01",
+      "day": "01",
+      "type": "journal-article",
+      "doi": "10.1016/j.bbacli.2017.10.002",
+      "journal": "BBA Clinical",
+      "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85032681350&partnerID=MN8TOARS",
+      "source": "Scopus - Elsevier",
+      "authors": [
+        "Miles, J.",
+        "Applebee, C.J.",
+        "Leboucher, P.",
+        "Lopez-Fernandez, S.",
+        "Lee, D.-J.",
+        "Guarch, R.",
+        "Ward, S.",
+        "Parker, P.J.",
+        "López, J.I.",
+        "Larijani, B.",
+        "admin"
+      ]
+    },
+    {
+      "put_code": 131296619,
+      "title": "Smooth additive mixed models for predicting aboveground biomass",
+      "year": "2017",
+      "month": "01",
+      "day": "01",
+      "type": "journal-article",
+      "doi": "10.1007/s13253-016-0271-4",
+      "journal": "Journal of Agricultural, Biological, and Environmental Statistics",
+      "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85002262382&partnerID=MN8TOARS",
+      "source": "Scopus - Elsevier",
+      "authors": [
+        "Sánchez-González, M.",
+        "Durbán, M.",
+        "Lee, D.-J.",
+        "Cañellas, I.",
+        "Sixto, H.",
+        "admin"
+      ]
+    },
+    {
+      "put_code": 131296620,
+      "title": "Predicting pregnancy outcomes using longitudinal information: a penalized splines mixed-effects model approach",
+      "year": "2017",
+      "month": "01",
+      "day": "01",
+      "type": "journal-article",
+      "doi": "10.1002/sim.7256",
+      "journal": "Statistics in Medicine",
+      "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85013413865&partnerID=MN8TOARS",
+      "source": "Scopus - Elsevier",
+      "authors": [
+        "De la Cruz, R.",
+        "Fuentes, C.",
+        "Meza, C.",
+        "Lee, D.-J.",
+        "Arribas-Gil, A.",
+        "admin"
+      ]
+    },
+    {
+      "put_code": 27198130,
+      "title": "Penalized composite link models for aggregated spatial count data: A mixed model approach",
+      "year": "2016",
+      "month": "01",
+      "day": "01",
+      "type": "journal-article",
+      "doi": "10.1016/j.spasta.2016.06.007",
+      "journal": "Spatial Statistics",
+      "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84978975429&partnerID=MN8TOARS",
+      "source": "Scopus - Elsevier",
+      "authors": [
+        "Ayma, D.",
+        "Durbán, M.",
+        "Lee, D.-J.",
+        "Eilers, P.H.C.",
+        "admin"
+      ]
+    },
+    {
+      "put_code": 27198126,
+      "title": "Spatio-temporal functional data analysis for wireless sensor networks data",
+      "year": "2015",
+      "month": "01",
+      "day": "01",
+      "type": "journal-article",
+      "doi": "10.1002/env.2344",
+      "journal": "Environmetrics",
+      "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84942826385&partnerID=MN8TOARS",
+      "source": "Scopus - Elsevier",
+      "authors": [
+        "Lee, D.-J.",
+        "Zhu, Z.",
+        "Toscas, P.",
+        "admin"
+      ]
+    },
+    {
+      "put_code": 27198127,
+      "title": "Flexible geostatistical modeling and risk assessment analysis of lead concentration levels of residential soil in the Coeur D’Alene River Basin",
+      "year": "2015",
+      "month": "01",
+      "day": "01",
+      "type": "journal-article",
+      "doi": "10.1007/s10651-015-0310-2",
+      "journal": "Environmental and Ecological Statistics",
+      "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84952299747&partnerID=MN8TOARS",
+      "source": "Scopus - Elsevier",
+      "authors": [
+        "Lee, D.-J.",
+        "Toscas, P.",
+        "admin"
+      ]
+    },
+    {
+      "put_code": 27198124,
+      "title": "Fast smoothing parameter separation in multidimensional generalized P-splines: the SAP algorithm",
+      "year": "2015",
+      "month": "01",
+      "day": "01",
+      "type": "journal-article",
+      "doi": "10.1007/s11222-014-9464-2",
+      "journal": "Statistics and Computing",
+      "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84938419708&partnerID=MN8TOARS",
+      "source": "Scopus - Elsevier",
+      "authors": [
+        "Rodríguez-Álvarez, M.X.",
+        "Lee, D.-J.",
+        "Kneib, T.",
+        "Durbán, M.",
+        "Eilers, P.",
+        "admin"
+      ]
+    },
+    {
+      "put_code": 27198125,
+      "title": "Efficient two-dimensional smoothing with P-spline ANOVA mixed models and nested bases",
+      "year": "2013",
+      "month": "01",
+      "day": "01",
+      "type": "journal-article",
+      "doi": "10.1016/j.csda.2012.11.013",
+      "journal": "Computational Statistics and Data Analysis",
+      "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84885020838&partnerID=MN8TOARS",
+      "source": "Scopus - Elsevier",
+      "authors": [
+        "Lee, D.-J.",
+        "Durbán, M.",
+        "Eilers, P.",
+        "admin"
+      ]
+    },
+    {
+      "put_code": 28501359,
+      "title": "A Comparison of Methods for Solving the Sensor Location Problem",
+      "year": "2012",
+      "month": "01",
+      "day": "01",
+      "type": "other",
+      "doi": "10.1007/978-94-007-4153-9_43",
+      "journal": "Geostatistics Oslo 2012",
+      "url": "https://doi.org/10.1007/978-94-007-4153-9_43",
+      "source": "Crossref Metadata Search",
+      "authors": [
+        "Rodolfo García-Flores",
+        "Peter Toscas",
+        "admin",
+        "Olena Gavriliouk",
+        "Geoff Robinson"
+      ]
+    },
+    {
+      "put_code": 27198128,
+      "title": "P-spline ANOVA-type interaction models for spatio-temporal smoothing",
+      "year": "2011",
+      "month": "01",
+      "day": "01",
+      "type": "journal-article",
+      "doi": "10.1177/1471082x1001100104",
+      "journal": "Statistical Modelling",
+      "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-78651387624&partnerID=MN8TOARS",
+      "source": "Scopus - Elsevier",
+      "authors": [
+        "Lee, D.-J.",
+        "Durbán, M.",
+        "admin"
+      ]
+    },
+    {
+      "put_code": 27198129,
+      "title": "Smooth-CAR mixed models for spatial count data",
+      "year": "2009",
+      "month": "01",
+      "day": "01",
+      "type": "journal-article",
+      "doi": "10.1016/j.csda.2008.07.025",
+      "journal": "Computational Statistics and Data Analysis",
+      "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-62849097075&partnerID=MN8TOARS",
+      "source": "Scopus - Elsevier",
+      "authors": [
+        "Lee, D.-J.",
+        "Durbán, M.",
+        "admin"
+      ]
+    }
+  ]
+}
