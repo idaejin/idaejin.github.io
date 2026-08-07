@@ -2,7 +2,6 @@
 title: "Extracting relevant predictive variables for COVID-19 severity prognosis: An exhaustive comparison of feature selection techniques"
 authors:
   - "Miren Hayet-Otero"
-  - "Sathishkumar V E"
   - "Fernando García-García"
   - admin
   - "Joaquín Martínez-Minaya"

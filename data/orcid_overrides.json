@@ -1,10 +1,19 @@
 {
   "by_put_code": {
     "190558200": {
-      "remove_authors": ["Guanghui Liu"]
+      "remove_authors": [
+        "Guanghui Liu"
+      ]
     },
     "109655970": {
-      "remove_authors": ["Jaroslaw Harezlak"]
+      "remove_authors": [
+        "Jaroslaw Harezlak"
+      ]
+    },
+    "133058090": {
+      "remove_authors": [
+        "Sathishkumar V E"
+      ]
     }
   }
 }
