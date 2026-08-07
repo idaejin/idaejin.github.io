@@ -1,31 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Dae-Jin Lee",
-    "section": "",
-    "text": "Dae-Jin Lee, PhD\n    Assistant Professor in Statistical Sciences\n    School of Science & Technology, IE University\n    \n      Email\n      ORCID\n      Google Scholar\n      GitHub\n      LinkedIn"
-  },
-  {
-    "objectID": "index.html#biography",
-    "href": "index.html#biography",
-    "title": "Dae-Jin Lee",
-    "section": "Biography",
-    "text": "Biography\nI am assistant professor in Data Science and researcher at the School of Science & Technology at IE University, and Chief Scientist of the Health & Tech Lab at ImpactXcelerator.\nBefore joining IE University, from 2014 to 2022, I was a researcher at BCAM – Basque Center for Applied Mathematics in Bilbao, where I led the research line in Applied Statistics and coordinated the area of Data Science and Artificial Intelligence of the Knowledge Transfer Unit.\nFrom 2011 to 2014, I was a Postdoctoral Fellow at CSIRO (Mathematics, Informatics and Statistics; today Data61) in Melbourne, Australia.\nMy research focuses on biostatistics and statistical modelling for health, biomedical, environmental, and sports-science applications—especially smoothing methods based on penalized splines and mixed models."
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Selected recent and representative publications. For the full list, see Google Scholar or ORCID.\n\n\n2026Modeling crowd flow during stadium ingress under alternative access protocols: San Mamés as a case study\n\nSimulation Modelling Practice and Theory · DOI\n\n\n\n2025Flexible modelling of time-varying exposures and recurrent events to analyse training load effects in team sports injuries\n\nJournal of the Royal Statistical Society Series C: Applied Statistics · DOI\n\n\n\n2025Evaluating short-term forecast accuracy across COVID-19 waves using penalized spline models\n\nInternational Journal of Medical Informatics · DOI\n\n\n\n2025Modelling in-hospital length of stay: A comparison of linear and ensemble models for competing risk analysis\n\nPLOS One · DOI\n\n\n\n2024Reliable prediction of difficult airway for tracheal intubation from patient preoperative photographs by machine learning methods\n\nComputer Methods and Programs in Biomedicine · DOI\n\n\n\n2024Cost-sensitive ordinal classification methods to predict SARS-CoV-2 pneumonia severity\n\nIEEE Journal of Biomedical and Health Informatics · DOI\n\n\n\n2023Classification of longitudinal profiles using semi-parametric nonlinear mixed models with P-Splines and the SAEM algorithm\n\nStatistics in Medicine · DOI\n\n\n\n2023Impact of outdoor air pollution on severity and mortality in COVID-19 pneumonia\n\nScience of The Total Environment · DOI\n\n\n\n2023Prediction of sports injuries in football: a recurrent time-to-event approach using regularized Cox models\n\nAStA Advances in Statistical Analysis · DOI\n\n\n\n2022Multidimensional adaptive P-splines with application to neurons’ activity studies\n\nBiometrics · DOI\n\n\n\n2022Peak height velocity affects injury burden in circa-PHV soccer players\n\nInternational Journal of Sports Medicine · DOI\n\n\n\n2011P-spline ANOVA-type interaction models for spatio-temporal smoothing\n\nLee, D.-J. & Durbán, M. · Statistical Modelling\n\nFoundational work"
+    "text": "Dae-Jin Lee\n    Assistant Professor in Data Science at IE University. Statistical modelling, biostatistics, and sports analytics.\n    \n      IE University\n      School of Science & Technology\n      Email\n      Google Scholar\n      ORCID\n      GitHub\n      LinkedIn\n      Twitter\n    \n  \n\n\n\n\n\nSelected recent and representative publications. For the full list, see Google Scholar or ORCID.\n\n2026Modeling crowd flow during stadium ingress under alternative access protocols: San Mamés as a case study\n\nSimulation Modelling Practice and Theory · DOI\n\n\n\n2025Flexible modelling of time-varying exposures and recurrent events to analyse training load effects in team sports injuries\n\nJournal of the Royal Statistical Society Series C: Applied Statistics · DOI\n\n\n\n2025Evaluating short-term forecast accuracy across COVID-19 waves using penalized spline models\n\nInternational Journal of Medical Informatics · DOI\n\n\n\n2025Modelling in-hospital length of stay: A comparison of linear and ensemble models for competing risk analysis\n\nPLOS One · DOI\n\n\n\n2024Reliable prediction of difficult airway for tracheal intubation from patient preoperative photographs by machine learning methods\n\nComputer Methods and Programs in Biomedicine · DOI\n\n\n\n2024Cost-sensitive ordinal classification methods to predict SARS-CoV-2 pneumonia severity\n\nIEEE Journal of Biomedical and Health Informatics · DOI\n\n\n\n2023Classification of longitudinal profiles using semi-parametric nonlinear mixed models with P-Splines and the SAEM algorithm\n\nStatistics in Medicine · DOI\n\n\n\n2023Impact of outdoor air pollution on severity and mortality in COVID-19 pneumonia\n\nScience of The Total Environment · DOI\n\n\n\n2023Prediction of sports injuries in football: a recurrent time-to-event approach using regularized Cox models\n\nAStA Advances in Statistical Analysis · DOI\n\n\n\n2022Multidimensional adaptive P-splines with application to neurons’ activity studies\n\nBiometrics · DOI\n\n\n\n2022Peak height velocity affects injury burden in circa-PHV soccer players\n\nInternational Journal of Sports Medicine · DOI\n\n\n\n2011P-spline ANOVA-type interaction models for spatio-temporal smoothing\n\nLee, D.-J. & Durbán, M. · Statistical Modelling\n\nFoundational work"
   },
   {
     "objectID": "resume.html",
     "href": "resume.html",
     "title": "CV",
     "section": "",
-    "text": "Download PDF"
+    "text": "Assistant Professor in Data Science at IE University. Statistical modelling, biostatistics, and sports analytics.\n    \n      IE University\n      School of Science & Technology\n      Email\n      Google Scholar\n      ORCID\n      GitHub\n      LinkedIn\n      Twitter"
   },
   {
     "objectID": "resume.html#education",
@@ -82,5 +68,19 @@
     "title": "CV",
     "section": "Contact",
     "text": "Contact\n\nEmail: Dae-Jin.Lee@ie.edu\nOffice: IE Tower, Paseo de la Castellana 259E, 28046 Madrid, Spain\nORCID: 0000-0002-8995-8535\nGoogle Scholar: profile\nGitHub: idaejin\nLinkedIn: idaejin"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "Assistant Professor in Data Science at IE University. Statistical modelling, biostatistics, and sports analytics.\n    \n      IE University\n      School of Science & Technology\n      Email\n      Google Scholar\n      ORCID\n      GitHub\n      LinkedIn\n      Twitter"
+  },
+  {
+    "objectID": "index.html#biography",
+    "href": "index.html#biography",
+    "title": "About",
+    "section": "Biography",
+    "text": "Biography\nI am assistant professor in Data Science and researcher at the School of Science & Technology at IE University.\nBefore joining IE University, from 2014 to 2022, I was a researcher at BCAM – Basque Center for Applied Mathematics in Bilbao, where I led the research line in Applied Statistics and coordinated the area of Data Science and Artificial Intelligence of the Knowledge Transfer Unit.\nFrom 2011 to 2014, I was a Postdoctoral Fellow at CSIRO (Mathematics, Informatics and Statistics; today Data61) in Melbourne, Australia.\nMy research focuses on biostatistics and statistical modelling for health, biomedical, environmental, and sports-science applications—especially smoothing methods based on penalized splines and mixed models.\n\n  \n    Interests\n    \n      Generalized Additive Models (P-splines)\n      (Non-)linear mixed-effects models\n      Longitudinal data analysis\n      Survival analysis\n      Spatial and spatio-temporal modelling\n      Sports analytics\n    \n  \n  \n    Education\n    \n      PhD in Statistics, 2010\n      Universidad Carlos III de Madrid\n    \n    \n      MSc in Mathematical Engineering, 2006\n      Universidad Carlos III de Madrid\n    \n    \n      BSc in Statistics, 2004\n      Universidad Carlos III de Madrid\n    \n    \n      BSc in Business Administration, 2002\n      Universidad Carlos III de Madrid"
   }
 ]
