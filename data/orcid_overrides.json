@@ -2,6 +2,9 @@
   "by_put_code": {
     "190558200": {
       "remove_authors": ["Guanghui Liu"]
+    },
+    "109655970": {
+      "remove_authors": ["Jaroslaw Harezlak"]
     }
   }
 }
