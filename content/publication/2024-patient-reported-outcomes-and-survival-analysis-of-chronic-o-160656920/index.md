@@ -6,13 +6,13 @@ authors:
   - admin
 date: "2024-06-19"
 publishDate: "2024-06-19"
-doi: ""
+doi: "10.57645/20.8080.02.17"
 publication_types: ["2"]
 publication: "*SORT (Statistics and Operations Research Transactions)*"
 publication_short: ""
 abstract: ""
 featured: false
-url_pdf: ""
+url_pdf: "https://www.idescat.cat/sort/sort482/48.2.1.Gal%C3%A1n-Arcicollar-etal.pdf"
 url_code: ""
 url_dataset: ""
 url_poster: ""
