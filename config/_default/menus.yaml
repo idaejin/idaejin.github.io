@@ -1,0 +1,15 @@
+# Navigation — style similar to Lore Zumeta's site
+
+main:
+  - name: Home
+    url: '#about'
+    weight: 10
+  - name: Publications
+    url: 'publication/'
+    weight: 20
+  - name: Resume
+    url: 'resume/'
+    weight: 30
+  - name: CV
+    url: uploads/CV-DLEE_2026.pdf
+    weight: 40
