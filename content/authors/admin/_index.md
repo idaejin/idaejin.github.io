@@ -5,14 +5,12 @@ role: Assistant Professor in Statistical Sciences
 organizations:
   - name: IE University
     url: https://www.ie.edu/
-bio: My research interests include statistical modelling, biostatistics, sports science and statistical computing.
+bio: Flexible statistical modelling for how biological and athletic processes unfold over time — growth, load memory, and predictive uncertainty.
 interests:
-  - Generalized Additive Models (P-splines)
-  - (Non-)linear mixed-effects models
-  - Longitudinal data analysis
-  - Survival analysis
-  - Spatial and spatio-temporal modelling
-  - Sports analytics
+  - Growth, maturation & athletic ageing
+  - Load, injury risk & temporal memory
+  - Dynamic uncertainty attribution
+  - P-splines, mixed models & reproducible software
 education:
   courses:
     - course: PhD in Statistics
@@ -46,14 +44,14 @@ social:
     link: https://github.com/idaejin
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/idaejin/
+    link: https://linkedin.com/in/idaejin/
 highlight_name: true
 ---
 
-I am assistant professor (tenure-track) in Statistical Sciences and researcher at the [School of Science & Technology](https://www.ie.edu/school-science-technology/) at [IE University](https://www.ie.edu/).
+I am a tenure-track Assistant Professor in Statistical Sciences at the [School of Science & Technology](https://www.ie.edu/school-science-technology/), [IE University](https://www.ie.edu/).
 
-Before joining IE University, from 2014 to 2022, I was a researcher at [BCAM – Basque Center for Applied Mathematics](https://www.bcamath.org/en/) in Bilbao, where I led the research line in Applied Statistics and coordinated the area of Data Science and Artificial Intelligence of the [Knowledge Transfer Unit](https://www.bcamath.org/en/knowledge-transfer/knowledge-transfer-unit).
+I build flexible statistical models—especially **penalized splines**, **mixed-effects models**, and **survival / event-history methods**—to understand **how biological and athletic processes unfold over time**: growth and maturation, training-load memory, and dynamic predictive uncertainty. The aim is methods that are rigorous enough for research and usable enough for decisions in health and sport.
 
-From 2011 to 2014, I was a Postdoctoral Fellow at [CSIRO](https://www.csiro.au/en/) (Mathematics, Informatics and Statistics; today [Data61](https://research.csiro.au/data61/)) in Melbourne, Australia.
+Before joining IE University, I was a researcher at [BCAM – Basque Center for Applied Mathematics](https://www.bcamath.org/en/) (2014–2022), where I led the Applied Statistics line and coordinated Data Science and Artificial Intelligence in the [Knowledge Transfer Unit](https://www.bcamath.org/en/knowledge-transfer/knowledge-transfer-unit/). From 2011 to 2014 I was a Postdoctoral Fellow at [CSIRO](https://www.csiro.au/en/) (now [Data61](https://research.csiro.au/data61/)) in Melbourne.
 
-My research focuses on biostatistics and statistical modelling for health, biomedical, environmental, and sports-science applications—especially smoothing methods based on penalized splines and mixed models.
+→ [Research themes](/research/) · [Publications](/publication/) · [Projects](/projects/)

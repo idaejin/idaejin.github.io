@@ -1,9 +1,12 @@
-# Navigation — style similar to Lore Zumeta's site
+# Navigation — research identity first
 
 main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: Research
+    url: 'research/'
+    weight: 15
   - name: Publications
     url: 'publication/'
     weight: 20
