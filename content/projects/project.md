@@ -3,7 +3,7 @@ widget: portfolio
 headless: true
 weight: 20
 title: Projects
-subtitle: ''
+subtitle: Research funding and knowledge transfer
 
 content:
   page_type: project

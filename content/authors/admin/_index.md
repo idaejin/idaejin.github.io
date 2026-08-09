@@ -5,12 +5,12 @@ role: Assistant Professor in Statistical Sciences
 organizations:
   - name: IE University
     url: https://www.ie.edu/
-bio: Flexible statistical modelling for how biological and athletic processes unfold over time — growth, load memory, and predictive uncertainty.
+bio: Statistical modelling for health and sport — P-splines, growth curves, injury risk, and patient-reported outcomes.
 interests:
-  - Growth, maturation & athletic ageing
-  - Load, injury risk & temporal memory
-  - Dynamic uncertainty attribution
-  - P-splines, mixed models & reproducible software
+  - Multidimensional P-splines and smoothing
+  - Growth curves and maturation
+  - Sports injury and recurrent events
+  - Patient-reported outcomes and survival
 education:
   courses:
     - course: PhD in Statistics
@@ -50,8 +50,8 @@ highlight_name: true
 
 I am a tenure-track Assistant Professor in Statistical Sciences at the [School of Science & Technology](https://www.ie.edu/school-science-technology/), [IE University](https://www.ie.edu/).
 
-I build flexible statistical models—especially **penalized splines**, **mixed-effects models**, and **survival / event-history methods**—to understand **how biological and athletic processes unfold over time**: growth and maturation, training-load memory, and dynamic predictive uncertainty. The aim is methods that are rigorous enough for research and usable enough for decisions in health and sport.
+My research develops flexible statistical models—especially **penalized splines**, **mixed-effects models**, and **survival / event-history methods**—for problems in **health and sports science**: growth and maturation, training-load and injury risk, and patient-reported outcomes.
 
-Before joining IE University, I was a researcher at [BCAM – Basque Center for Applied Mathematics](https://www.bcamath.org/en/) (2014–2022), where I led the Applied Statistics line and coordinated Data Science and Artificial Intelligence in the [Knowledge Transfer Unit](https://www.bcamath.org/en/knowledge-transfer/knowledge-transfer-unit/). From 2011 to 2014 I was a Postdoctoral Fellow at [CSIRO](https://www.csiro.au/en/) (now [Data61](https://research.csiro.au/data61/)) in Melbourne.
+My path runs from Universidad Carlos III de Madrid (PhD, 2010), through a postdoc at [CSIRO](https://www.csiro.au/en/) / [Data61](https://research.csiro.au/data61/) in Melbourne (2011–2014), to [BCAM](https://www.bcamath.org/en/) in Bilbao (2014–2022), where I led Applied Statistics and coordinated Data Science and AI in the [Knowledge Transfer Unit](https://www.bcamath.org/en/knowledge-transfer/knowledge-transfer-unit/), before joining IE University.
 
-→ [Research themes](/research/) · [Publications](/publication/) · [Projects](/projects/)
+→ [Research](/research/) · [People](/people/) · [Projects](/projects/) · [Publications](/publication/)

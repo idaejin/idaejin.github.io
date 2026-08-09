@@ -3,11 +3,11 @@ widget: blank
 headless: true
 active: true
 weight: 10
-title: Research identity
+title: Overview
 design:
   columns: '1'
 ---
 
-My work sits at the intersection of **biostatistics** and **sports science**. The methodological signature is flexible regression—P-splines, mixed models, survival analysis—and the scientific through-line is **temporal structure**: how trajectories, past exposures, and uncertainty evolve.
+I work on **flexible statistical modelling** for longitudinal and event-history data in **health and sports science**. The contributions below are the public face of that programme; the [trajectory](#trajectory) section sketches how the path was built.
 
-Rather than a flat list of papers, the programme is organised around four themes. Publications and funded projects are evidence for these themes; they are not the identity itself.
+→ [People](/people/) · [Projects](/projects/) · [Publications](/publication/)
