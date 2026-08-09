@@ -5,9 +5,9 @@ role: Assistant Professor in Statistical Sciences
 organizations:
   - name: IE University
     url: https://www.ie.edu/
-bio: Statistical modelling for health and sport — P-splines, growth curves, injury risk, and patient-reported outcomes.
+bio: P-splines, mixed models, and survival (PAMM) for health and sports science.
 interests:
-  - Multidimensional P-splines and smoothing
+  - P-splines, mixed models, and survival (PAMM)
   - Growth curves and maturation
   - Sports injury and recurrent events
   - Patient-reported outcomes and survival

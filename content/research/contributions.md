@@ -8,13 +8,15 @@ design:
   columns: '1'
 ---
 
-### Multidimensional P-splines and smoothing
+### P-splines, mixed models, and survival (PAMM)
 
-I develop and apply **penalized-spline** methodology for complex data structures—multidimensional and adaptive smoothers, ANOVA-type interactions, and related mixed-model representations. This line underpins much of the applied work below.
+The methodological core of my work is **flexible regression** via **penalized splines (P-splines)**, their **mixed-model** representation, and **survival / event-history** methods—including **piecewise exponential additive mixed models (PAMM)** for time-to-event and recurrent-event data with smooth effects and time-varying covariates.
 
-Selected anchors: multidimensional adaptive P-splines; out-of-sample prediction in multidimensional P-spline models; fast smoothing-parameter separation in multidimensional generalized linear array models.
+This toolkit covers multidimensional and adaptive smoothers, ANOVA-type interactions, GLAM-type computation, and hazard models where exposure histories and nonlinear effects enter additively.
 
-→ [Publications](/publication/) · [S3M1P4R](/project/s3m1p4r/) · [AFTERAM](/project/afteram/)
+Selected anchors: multidimensional adaptive P-splines; out-of-sample prediction in multidimensional P-spline models; fast smoothing-parameter separation in multidimensional GLAM settings; flexible modelling of time-varying exposures and recurrent events (PAMM).
+
+→ [Publications](/publication/) · [S3M1P4R](/project/s3m1p4r/) · [AFTERAM](/project/afteram/) · [SPHERES](/project/spheres/)
 
 ### Growth curves, derivatives, and maturation
 
@@ -26,7 +28,7 @@ Selected anchors: derivative-curve estimation with P-splines; Bayesian hierarchi
 
 ### Sports injury and recurrent-event modelling
 
-With collaborators in sports medicine and statistics, I work on **injury risk as a recurrent-event problem**: time-varying training exposures, flexible hazard models, and tools that make longitudinal athlete-monitoring data analysable.
+With collaborators in sports medicine and statistics, I work on **injury risk as a recurrent-event problem**: time-varying training exposures, PAMM / additive hazard models, and tools that make longitudinal athlete-monitoring data analysable.
 
 Selected anchors: flexible modelling of time-varying exposures and recurrent events; prediction of sports injuries in football with recurrent time-to-event models; the `injurytools` software line; [MATH4SPORTS](/project/math4sports/).
 
