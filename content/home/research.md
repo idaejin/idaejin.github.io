@@ -8,7 +8,7 @@ design:
   columns: '1'
 ---
 
-- **[Research](/research/)** — main contributions and career trajectory.
+- **[Research](/research/)** — contributions, software, and trajectory.
 - **[People](/people/)** — PhD students supervised.
-- **[Projects](/projects/)** — competitive research funding and knowledge-transfer work.
+- **[Projects](/projects/)** — research funding and knowledge transfer.
 - **[Publications](/publication/)** — papers and preprints.

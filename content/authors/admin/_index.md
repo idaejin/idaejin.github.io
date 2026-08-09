@@ -5,11 +5,11 @@ role: Assistant Professor in Statistical Sciences
 organizations:
   - name: IE University
     url: https://www.ie.edu/
-bio: P-splines, mixed models, and survival (PAMM) for health and sports science.
+bio: P-splines, mixed models, computational statistics, and flexible survival for recurrent events.
 interests:
-  - P-splines, mixed models, and survival (PAMM)
+  - P-splines, mixed models, and computational statistics
+  - Flexible survival for recurrent events
   - Growth curves and maturation
-  - Sports injury and recurrent events
   - Patient-reported outcomes and survival
 education:
   courses:
@@ -50,7 +50,7 @@ highlight_name: true
 
 I am a tenure-track Assistant Professor in Statistical Sciences at the [School of Science & Technology](https://www.ie.edu/school-science-technology/), [IE University](https://www.ie.edu/).
 
-My research develops flexible statistical models—especially **penalized splines**, **mixed-effects models**, and **survival / event-history methods**—for problems in **health and sports science**: growth and maturation, training-load and injury risk, and patient-reported outcomes.
+My research develops **flexible statistical models**—**P-splines**, **mixed models**, and **computational statistics**—together with **flexible survival methods for recurrent events**, with applications in **health and sports science** (growth and maturation, training load and injury risk, patient-reported outcomes).
 
 My path runs from Universidad Carlos III de Madrid (PhD, 2010), through a postdoc at [CSIRO](https://www.csiro.au/en/) / [Data61](https://research.csiro.au/data61/) in Melbourne (2011–2014), to [BCAM](https://www.bcamath.org/en/) in Bilbao (2014–2022), where I led Applied Statistics and coordinated Data Science and AI in the [Knowledge Transfer Unit](https://www.bcamath.org/en/knowledge-transfer/knowledge-transfer-unit/), before joining IE University.
 

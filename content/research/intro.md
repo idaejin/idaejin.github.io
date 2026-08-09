@@ -8,6 +8,6 @@ design:
   columns: '1'
 ---
 
-I work on **flexible statistical modelling**—**P-splines**, **mixed models**, and **survival / PAMM**—for longitudinal and event-history data in **health and sports science**. The contributions below are the public face of that programme; the [trajectory](#trajectory) section sketches how the path was built.
+I work on **flexible statistical modelling**—**P-splines**, **mixed models**, **computational statistics**, and **flexible survival for recurrent events**—with applications in **health and sports science**. Below: main contributions with paper anchors, software, and a short [trajectory](#trajectory).
 
 → [People](/people/) · [Projects](/projects/) · [Publications](/publication/)
