@@ -1,8 +1,8 @@
-name = "Academic"
+name = "idaejin"
 license = "MIT"
-licenselink = "https://github.com/HugoBlox/theme-academic-cv/blob/main/LICENSE.md"
-description = "Use the no-code website framework to easily build your site. Choose from 50+ widgets and deploy with one click! Fully personalize your site with themes, plugins, and language packs."
-homepage = "https://github.com/HugoBlox/theme-academic-cv"
+licenselink = "https://github.com/idaejin/idaejin.github.io/blob/main/LICENSE.md"
+description = "Personal academic website of Dae-Jin Lee."
+homepage = "https://idaejin.github.io/"
 demosite = "https://hugoblox.com/templates/"
 tags = ["widgets",
         "resume",
