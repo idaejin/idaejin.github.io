@@ -1,0 +1,29 @@
+# Theme metadata
+name = "Idaejin"
+
+# Distinct from default Academic Material blue (#1565c0)
+
+[light]
+  primary = "#0B3D5C"
+
+  menu_primary = "#ffffff"
+  menu_text = "#243447"
+  menu_text_active = "#0B3D5C"
+  menu_title = "#0B3D5C"
+
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(244, 247, 250)"
+
+[dark]
+  primary = "#8FCBE8"
+
+  link = "#8FCBE8"
+  link_hover = "#b6dff0"
+
+  menu_primary = "#0B3D5C"
+  menu_text = "#e8eef3"
+  menu_text_active = "#8FCBE8"
+  menu_title = "#ffffff"
+
+  home_section_odd = "rgb(20, 28, 36)"
+  home_section_even = "rgb(26, 36, 46)"

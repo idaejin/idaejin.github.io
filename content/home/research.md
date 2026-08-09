@@ -3,7 +3,7 @@ widget: blank
 headless: true
 active: true
 weight: 30
-title: At a glance
+title: Overview
 design:
   columns: '1'
 ---
