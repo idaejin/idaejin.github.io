@@ -31,6 +31,16 @@ A second methods line develops **flexible survival and event-history models** fo
 
 → [Publications](/publication/) · [MATH4SPORTS](/project/math4sports/) · [People](/people/) · [Software](#software)
 
+### Latent memory for athlete monitoring
+
+An emerging line treats **recent longitudinal history** as a reusable statistical object—the **Latent Memory Table**—rather than only as a fixed lag or EWMA scalar. The aim is a finite-dimensional memory state that can be stored, queried, and reused across the modelling workflow, with SoccerMon as the empirical case study.
+
+**Selected anchors**
+
+- [Learning Latent Memory States from Longitudinal Athlete Monitoring Data (arXiv:2608.06290)](/publication/2026-learning-latent-memory-states-from-longitudinal-athlete-monito/) · [arXiv](https://arxiv.org/abs/2608.06290)
+
+→ [Publications](/publication/)
+
 ### Growth curves, derivatives, and maturation
 
 Applied work on **longitudinal growth**: curve and derivative estimation, maturation timing (including peak height velocity / APHV), and shape-constrained approaches for reference-to-individual prediction in youth sport and paediatric settings.
