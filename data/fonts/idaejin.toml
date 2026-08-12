@@ -1,10 +1,10 @@
 # Font style metadata
 name = "Idaejin"
 
-# Distinct from default Academic Montserrat/Roboto
-google_fonts = "family=DM+Sans:ital,wght@0,400;0,700;1,400&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,700;1,7..72,400&family=IBM+Plex+Mono:wght@400;500"
+# Same stack as https://lzumeta.eus (Wowchemy Minimal)
+google_fonts = "family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700"
 
-heading_font = "DM Sans"
-body_font = "Literata"
-nav_font = "DM Sans"
-mono_font = "IBM Plex Mono"
+heading_font = "Montserrat"
+body_font = "Roboto"
+nav_font = "Roboto"
+mono_font = "Roboto Mono"
