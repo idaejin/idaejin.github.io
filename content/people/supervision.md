@@ -20,7 +20,7 @@ Doctoral training is a central part of the research programme. Below are PhD stu
 - **Ibon Martínez Arranz**, UPV/EHU, June 2025. *Genetic Algorithms Applied to Translational Strategy in MASH. Learning from Mouse Models* (with Jose María Mato, CIC bioGUNE). [Thesis](https://github.com/imarranz/thesis-latex)
 - **María Alejandra Hernández Velandia**, UPV/EHU, July 2025. *Novel P-Spline-based Approaches for Curve and Derivative Estimation in Longitudinal Growth Studies* (with María Xosé Rodríguez-Álvarez). [Thesis](https://addi.ehu.es/handle/10810/76890)
 - **Cristina Galán García-Arcicollar**, UPV/EHU, July 2025. *Joint modeling with beta-binomial distribution for patient-reported outcomes and survival data* (with Josu Najera Zuloaga). [Thesis](https://addi.ehu.eus/handle/10810/76876)
-- **Ander García**, UPV/EHU, April 2026. *Pedestrian Flow Simulations with applications* (with Marco Ellero, BCAM–Ikerbasque)
+- **Ander García**, UPV/EHU, April 2026. *Pedestrian Dynamics Simulation Framework for Real-World Applications in Complex Public Environments* (with Marco Ellero, BCAM–Ikerbasque). [Thesis](https://addi.ehu.eus/handle/10810/79550)
 
 #### Ongoing
 

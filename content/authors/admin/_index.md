@@ -53,6 +53,6 @@ I am a tenure-track Assistant Professor in Statistical Sciences at the [School o
 
 My research develops **flexible statistical models**—**P-splines**, **mixed models**, and **computational statistics**—together with **flexible survival for recurrent events** and **latent memory** representations for longitudinal athlete monitoring, with applications in **health and sports science**.
 
-My path runs from Universidad Carlos III de Madrid (PhD, 2010), through a postdoc at [CSIRO](https://www.csiro.au/en/) / [Data61](https://research.csiro.au/data61/) in Melbourne (2011–2014), to [BCAM](https://www.bcamath.org/en/) in Bilbao (2014–2022), where I led Applied Statistics and coordinated Data Science and AI in the [Knowledge Transfer Unit](https://www.bcamath.org/en/knowledge-transfer/knowledge-transfer-unit/), before joining IE University.
+Before joining IE University, I completed my PhD at Universidad Carlos III de Madrid (2010), was a postdoctoral fellow at [CSIRO](https://www.csiro.au/en/) / [Data61](https://research.csiro.au/data61/) in Melbourne (2011–2014), and was a researcher at [BCAM](https://www.bcamath.org/en/) in Bilbao (2014–2022), where I led the [Applied Statistics Research Line](https://www.bcamath.org/en/research/areas/ds/cas) and coordinated Data Science and AI in the [Knowledge Transfer Unit](https://www.bcamath.org/en/knowledge-transfer/knowledge-transfer-unit/).
 
 → [Research](/research/) · [People](/people/) · [Projects](/projects/) · [Publications](/publication/)
