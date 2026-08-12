@@ -16,4 +16,4 @@ design:
 
 **IE University (2023–).** Tenure-track Assistant Professor in Statistical Sciences at the School of Science & Technology, continuing methods and applications in health and sports science, doctoral supervision, and competitive research programmes such as [SPHERES](/project/spheres/).
 
-Full appointment list → [Resume](/resume/) · CV → [PDF](/uploads/CV-DLEE_2026.pdf)
+CV → [PDF](/uploads/CV-DLEE_2026.pdf)
