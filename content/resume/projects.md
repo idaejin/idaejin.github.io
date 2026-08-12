@@ -1,7 +1,7 @@
 ---
 widget: blank
 headless: true
-active: false
+active: true
 weight: 40
 title: Research projects
 design:

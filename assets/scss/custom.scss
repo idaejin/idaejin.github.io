@@ -1,18 +1,33 @@
-// Match idaejin.netlify.app styling
+// Site-specific overrides (visual identity)
 
-.ul-interests {
-  list-style: none;
-  padding-left: 1.5em;
+.article-style {
+  line-height: 1.7;
 }
 
-.ul-interests > li {
-  position: relative;
+#profile .portrait-title h2 {
+  letter-spacing: -0.02em;
+}
+
+#profile .network-icon a {
+  color: #0B3D5C !important;
 }
 
 .ul-interests > li::before {
-  font-family: "Font Awesome 6 Free";
-  font-weight: 900;
-  content: "\f518";
-  position: absolute;
-  left: -1.5em;
+  content: none;
+}
+
+.section-subheading {
+  text-transform: none;
+  letter-spacing: 0.02em;
+  font-weight: 700;
+}
+
+.wg-blank .section-heading h1 {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.powered-by {
+  opacity: 0.55;
+  font-size: 0.85rem;
 }
