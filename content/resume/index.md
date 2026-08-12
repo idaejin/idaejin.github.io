@@ -1,6 +1,6 @@
 ---
 title: Resume
-summary: Experience, teaching and supervision
-date: '2026-08-07'
+summary: My experience. A very brief CV
+date: '2022-08-28'
 type: widget_page
 ---

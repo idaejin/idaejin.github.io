@@ -1,21 +1,12 @@
-# Navigation — academic profile
+# Navigation — match idaejin.netlify.app
 
 main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Research
-    url: 'research/'
-    weight: 15
-  - name: People
-    url: 'people/'
-    weight: 18
-  - name: Projects
-    url: 'projects/'
-    weight: 25
   - name: Publications
-    url: 'publication/'
+    url: 'https://scholar.google.com/citations?hl=en&user=hsCRT4EAAAAJ&view_op=list_works&sortby=pubdate'
+    weight: 20
+  - name: Resume
+    url: 'resume/'
     weight: 30
-  - name: CV
-    url: uploads/CV-DLEE_2026.pdf
-    weight: 40

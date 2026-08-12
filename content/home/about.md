@@ -3,6 +3,6 @@ widget: about
 active: true
 headless: true
 weight: 20
-title: ''
+title: Biography
 author: admin
 ---

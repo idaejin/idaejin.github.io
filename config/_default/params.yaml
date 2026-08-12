@@ -1,7 +1,7 @@
 # SITE SETUP
 
 appearance:
-  theme_day: idaejin
+  theme_day: minimal
   font: idaejin
   font_size: M
 
@@ -10,7 +10,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: IE University
-    description: 'Dae-Jin Lee — Assistant Professor in Statistical Sciences at IE University. Flexible statistical modelling for health and sports science; PhD supervision; research funding and knowledge transfer.'
+    description: 'Full time assistant professor'
     twitter: 'idaejin'
   analytics:
     google_analytics: ''
@@ -23,15 +23,15 @@ header:
   navbar:
     enable: true
     align: l
-    show_logo: false
+    show_logo: true
     show_language: false
     show_day_night: false
-    show_search: false
+    show_search: true
     highlight_active_link: true
 
 footer:
   copyright:
-    notice: '© {year} Dae-Jin Lee'
+    notice: ''
     license:
       enable: false
 
@@ -56,11 +56,11 @@ features:
     branch: main
   avatar:
     gravatar: false
-    shape: square
+    shape: circle
   comment:
     provider: ''
   search:
-    provider: ''
+    provider: wowchemy
   map:
     provider: ''
 
