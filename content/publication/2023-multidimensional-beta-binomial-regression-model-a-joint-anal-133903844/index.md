@@ -1,10 +1,13 @@
 ---
 title: "Multidimensional beta-binomial regression model: A joint analysis of patient-reported outcomes"
 authors:
+  - "Josu Najera-Zuloaga"
   - admin
+  - "Cristobal Esteban"
+  - "Inmaculada Arostegui"
 date: "2023-04-14"
 publishDate: "2023-04-14"
-doi: ""
+doi: "10.1177/1471082X231151311"
 publication_types: ["2"]
 publication: "*Statistical Modelling*"
 publication_short: ""

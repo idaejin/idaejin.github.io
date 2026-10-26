@@ -388,12 +388,15 @@
       "month": "04",
       "day": "14",
       "type": "journal-article",
-      "doi": "",
+      "doi": "10.1177/1471082X231151311",
       "journal": "Statistical Modelling",
       "url": "https://journals.sagepub.com/doi/10.1177/1471082X231151311",
       "source": "Dae-Jin Lee",
       "authors": [
-        "admin"
+        "Josu Najera-Zuloaga",
+        "admin",
+        "Cristobal Esteban",
+        "Inmaculada Arostegui"
       ],
       "url_pdf": ""
     },
@@ -562,12 +565,15 @@
       "month": "12",
       "day": "10",
       "type": "book-chapter",
-      "doi": "",
+      "doi": "10.1002/9781119387916.ch16",
       "journal": "Theory and Methods. John Wiley & Sons",
       "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119387916.ch16",
       "source": "Dae-Jin Lee",
       "authors": [
-        "admin"
+        "María Durbán",
+        "admin",
+        "María del Carmen Aguilera-Morillo",
+        "Ana M. Aguilera"
       ],
       "url_pdf": ""
     },
