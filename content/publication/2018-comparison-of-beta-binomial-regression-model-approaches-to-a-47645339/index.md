@@ -1,10 +1,9 @@
 ---
 title: "Comparison of beta-binomial regression model approaches to analyze health-related quality of life data"
 authors:
-  - "Najera-Zuloaga, J."
-  - "Lee, D.-J."
-  - "Arostegui, I."
+  - "Josu Najera-Zuloaga"
   - admin
+  - "Inmaculada Arostegui"
 date: "2018-01-01"
 publishDate: "2018-01-01"
 doi: "10.1177/0962280217690413"

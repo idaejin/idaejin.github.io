@@ -1,10 +1,9 @@
 ---
 title: "Efficient two-dimensional smoothing with P-spline ANOVA mixed models and nested bases"
 authors:
-  - "Lee, D.-J."
-  - "Durbán, M."
-  - "Eilers, P."
   - admin
+  - "María Durbán"
+  - "Paul Eilers"
 date: "2013-01-01"
 publishDate: "2013-01-01"
 doi: "10.1016/j.csda.2012.11.013"

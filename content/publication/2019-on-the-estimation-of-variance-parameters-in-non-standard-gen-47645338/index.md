@@ -1,11 +1,10 @@
 ---
 title: "On the estimation of variance parameters in non-standard generalised linear mixed models: application to penalised smoothing"
 authors:
-  - "Rodríguez-Álvarez, M.X."
-  - "Durban, M."
-  - "Lee, D.-J."
-  - "Eilers, P.H.C."
+  - "María Xosé Rodríguez-Álvarez"
+  - "Maria Durban"
   - admin
+  - "Paul H. C. Eilers"
 date: "2019-01-01"
 publishDate: "2019-01-01"
 doi: "10.1007/s11222-018-9818-2"

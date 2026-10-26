@@ -19,6 +19,7 @@ import shutil
 import sys
 import time
 import urllib.error
+import urllib.parse
 import urllib.request
 from pathlib import Path
 
@@ -104,7 +105,8 @@ def slugify(title: str, year: str, put: int | str) -> str:
 
 def is_self(name: str) -> bool:
     n = re.sub(r"[^a-z]", "", name.lower())
-    return ("daejin" in n and "lee" in n) or n in {"daejinlee", "leedaejin"}
+    # Also match "Lee, D.-J." / "Lee DJ" style credit names.
+    return ("daejin" in n and "lee" in n) or n in {"daejinlee", "leedaejin", "leedj", "djlee"}
 
 
 def yaml_escape(s: str) -> str:
@@ -161,6 +163,25 @@ def fetch_contributors(put_code: int) -> list[str]:
     for c in contribs:
         name = text(c, "credit-name")
         if name:
+            names.append(name.strip())
+    return names
+
+
+def fetch_crossref_authors(doi: str) -> list[str]:
+    """Full author names from Crossref; ORCID credit names are often abbreviated."""
+    if not doi:
+        return []
+    url = "https://api.crossref.org/works/" + urllib.parse.quote(doi)
+    req = urllib.request.Request(url, headers={"User-Agent": "idaejin.github.io-orcid-sync/1.0"})
+    try:
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            msg = json.loads(resp.read().decode("utf-8")).get("message") or {}
+    except (urllib.error.URLError, TimeoutError, ValueError):
+        return []
+    names = []
+    for a in msg.get("author") or []:
+        name = " ".join(x for x in (a.get("given"), a.get("family")) if x) or a.get("name") or ""
+        if name.strip():
             names.append(name.strip())
     return names
 
@@ -282,7 +303,7 @@ def collect_works() -> list[dict]:
     print(f"ORCID groups: {len(groups)}; after dedupe: {len(unique)}")
     overrides = load_overrides()
     for i, w in enumerate(unique):
-        names = fetch_contributors(w["put_code"])
+        names = fetch_crossref_authors(w["doi"]) or fetch_contributors(w["put_code"])
         w["authors"] = to_authors(names)
         w.setdefault("url_pdf", "")
         apply_work_overrides(w, overrides)

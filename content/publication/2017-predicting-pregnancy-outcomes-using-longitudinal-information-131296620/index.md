@@ -1,12 +1,11 @@
 ---
 title: "Predicting pregnancy outcomes using longitudinal information: a penalized splines mixed-effects model approach"
 authors:
-  - "De la Cruz, R."
-  - "Fuentes, C."
-  - "Meza, C."
-  - "Lee, D.-J."
-  - "Arribas-Gil, A."
+  - "Rolando De la Cruz"
+  - "Claudio Fuentes"
+  - "Cristian Meza"
   - admin
+  - "Ana Arribas-Gil"
 date: "2017-01-01"
 publishDate: "2017-01-01"
 doi: "10.1002/sim.7256"

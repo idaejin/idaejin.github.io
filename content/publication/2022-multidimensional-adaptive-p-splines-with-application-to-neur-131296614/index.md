@@ -1,12 +1,11 @@
 ---
 title: "Multidimensional adaptive P-splines with application to neurons' activity studies"
 authors:
-  - "Rodríguez-Álvarez, M.X."
-  - "Durbán, M."
-  - "Eilers, P.H.C."
-  - "Lee, D.-J."
-  - "Gonzalez, F."
+  - "María Xosé Rodríguez-Álvarez"
+  - "María Durbán"
+  - "Paul H.C. Eilers"
   - admin
+  - "Francisco Gonzalez"
 date: "2022-01-01"
 publishDate: "2022-01-01"
 doi: "10.1111/biom.13755"

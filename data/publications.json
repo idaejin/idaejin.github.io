@@ -343,7 +343,7 @@
       "authors": [
         "O. Bronte",
         "F. García-García",
-        "D.-J. Lee",
+        "admin",
         "I. Urrutia",
         "A. Uranga",
         "M. Nieves",
@@ -357,8 +357,7 @@
         "R. Méndez",
         "A. Torres",
         "C. Cilloniz",
-        "P.P. España",
-        "admin"
+        "P.P. España"
       ],
       "url_pdf": ""
     },
@@ -388,7 +387,7 @@
       "month": "04",
       "day": "14",
       "type": "journal-article",
-      "doi": "10.1177/1471082X231151311",
+      "doi": "10.1177/1471082x231151311",
       "journal": "Statistical Modelling",
       "url": "https://journals.sagepub.com/doi/10.1177/1471082X231151311",
       "source": "Dae-Jin Lee",
@@ -484,11 +483,10 @@
       "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85146270704&partnerID=MN8TOARS",
       "source": "Scopus - Elsevier",
       "authors": [
-        "García, A.",
-        "Hernández-Delfin, D.",
-        "Lee, D.-J.",
-        "Ellero, M.",
-        "admin"
+        "Ander García",
+        "Dariel Hernández-Delfin",
+        "admin",
+        "Marco Ellero"
       ],
       "url_pdf": ""
     },
@@ -504,17 +502,16 @@
       "url": "http://europepmc.org/abstract/med/36410710",
       "source": "Europe PubMed Central",
       "authors": [
-        "Monasterio X",
-        "Gil SM",
-        "Bidaurrazaga-Letona I",
-        "Lekue JA",
-        "Diaz-Beitia G",
-        "Santisteban JM",
-        "Lee DJ",
-        "Zumeta-Olaskoaga L",
-        "Martin-Garetxana I",
-        "Larruskain J",
-        "admin"
+        "Xabier Monasterio",
+        "Susana Gil",
+        "Iraia Bidaurrazaga-Letona",
+        "Jose A Lekue",
+        "Gontzal Diaz-Beitia",
+        "Juan M Santisteban",
+        "admin",
+        "Lore Zumeta-Olaskoaga",
+        "Imanol Martin-Garetxana",
+        "Jon Larruskain"
       ],
       "url_pdf": ""
     },
@@ -549,12 +546,11 @@
       "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85140248032&partnerID=MN8TOARS",
       "source": "Scopus - Elsevier",
       "authors": [
-        "Rodríguez-Álvarez, M.X.",
-        "Durbán, M.",
-        "Eilers, P.H.C.",
-        "Lee, D.-J.",
-        "Gonzalez, F.",
-        "admin"
+        "María Xosé Rodríguez-Álvarez",
+        "María Durbán",
+        "Paul H.C. Eilers",
+        "admin",
+        "Francisco Gonzalez"
       ],
       "url_pdf": ""
     },
@@ -633,18 +629,17 @@
       "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85121559047&partnerID=MN8TOARS",
       "source": "Scopus - Elsevier",
       "authors": [
-        "Monasterio, X.",
-        "Gil, S.M.",
-        "Bidaurrazaga-Letona, I.",
-        "Lekue, J.A.",
-        "Santisteban, J.M.",
-        "Diaz-Beitia, G.",
-        "Lee, D.-J.",
-        "Zumeta-Olaskoaga, L.",
-        "Martin-Garetxana, I.",
-        "Bikandi, E.",
-        "Larruskain, J.",
-        "admin"
+        "Xabier Monasterio",
+        "Susana M. Gil",
+        "Iraia Bidaurrazaga‐Letona",
+        "Jose A. Lekue",
+        "Juan M. Santisteban",
+        "Gontzal Diaz‐Beitia",
+        "admin",
+        "Lore Zumeta‐Olaskoaga",
+        "Imanol Martin‐Garetxana",
+        "Eder Bikandi",
+        "Jon Larruskain"
       ],
       "url_pdf": ""
     },
@@ -660,10 +655,9 @@
       "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85081567860&partnerID=MN8TOARS",
       "source": "Scopus - Elsevier",
       "authors": [
-        "Carballo, A.",
-        "Durban, M.",
-        "Kauermann, G.",
-        "Lee, D.-J.",
+        "Alba Carballo",
+        "Maria Durban",
+        "Göran Kauermann",
         "admin"
       ],
       "url_pdf": ""
@@ -680,12 +674,11 @@
       "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85098428060&partnerID=MN8TOARS",
       "source": "Scopus - Elsevier",
       "authors": [
-        "Rodríguez-Álvarez, M.X.",
-        "Durbán, M.",
-        "Eilers, P.H.C.",
-        "Lee, D.-J.",
-        "Gonzalez, F.",
-        "admin"
+        "María Xosé Rodríguez-Álvarez",
+        "María Durbán",
+        "Paul H.C. Eilers",
+        "admin",
+        "Francisco Gonzalez"
       ],
       "url_pdf": ""
     },
@@ -701,13 +694,12 @@
       "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85077684545&partnerID=MN8TOARS",
       "source": "Scopus - Elsevier",
       "authors": [
-        "Citores, L.",
-        "Ibaibarriaga, L.",
-        "Lee, D.-J.",
-        "Brewer, M.J.",
-        "Santos, M.",
-        "Chust, G.",
-        "admin"
+        "L. Citores",
+        "L. Ibaibarriaga",
+        "admin",
+        "M.J. Brewer",
+        "M. Santos",
+        "G. Chust"
       ],
       "url_pdf": ""
     },
@@ -723,24 +715,23 @@
       "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85091024073&partnerID=MN8TOARS",
       "source": "Scopus - Elsevier",
       "authors": [
-        "Sanchez-Magraner, L.",
-        "Miles, J.",
-        "Baker, C.L.",
-        "Applebee, C.J.",
-        "Lee, D.-J.",
-        "Elsheikh, S.",
-        "Lashin, S.",
-        "Withers, K.",
-        "Watts, A.G.",
-        "Parry, R.",
-        "Edmead, C.",
-        "Lopez, J.I.",
-        "Mehta, R.",
-        "Italiano, A.",
-        "Ward, S.G.",
-        "Parker, P.J.",
-        "Larijani, B.",
-        "admin"
+        "Lissete Sánchez-Magraner",
+        "James Miles",
+        "Claire L. Baker",
+        "Christopher J. Applebee",
+        "admin",
+        "Somaia Elsheikh",
+        "Shaimaa Lashin",
+        "Katriona Withers",
+        "Andrew G. Watts",
+        "Richard Parry",
+        "Christine Edmead",
+        "Jose Ignacio Lopez",
+        "Raj Mehta",
+        "Antoine Italiano",
+        "Stephen G. Ward",
+        "Peter J. Parker",
+        "Banafshé Larijani"
       ],
       "url_pdf": ""
     },
@@ -756,9 +747,8 @@
       "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85079065499&partnerID=MN8TOARS",
       "source": "Scopus - Elsevier",
       "authors": [
-        "Page, G.L.",
-        "Rodríguez-Álvarez, M.X.",
-        "Lee, D.-J.",
+        "Garritt L. Page",
+        "María Xosé Rodríguez-Álvarez",
         "admin"
       ],
       "url_pdf": ""
@@ -793,11 +783,10 @@
       "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85048363589&partnerID=MN8TOARS",
       "source": "Scopus - Elsevier",
       "authors": [
-        "Rodríguez-Álvarez, M.X.",
-        "Durban, M.",
-        "Lee, D.-J.",
-        "Eilers, P.H.C.",
-        "admin"
+        "María Xosé Rodríguez-Álvarez",
+        "Maria Durban",
+        "admin",
+        "Paul H. C. Eilers"
       ],
       "url_pdf": ""
     },
@@ -813,10 +802,9 @@
       "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85043715387&partnerID=MN8TOARS",
       "source": "Scopus - Elsevier",
       "authors": [
-        "Najera-Zuloaga, J.",
-        "Lee, D.-J.",
-        "Arostegui, I.",
-        "admin"
+        "Josu Najera-Zuloaga",
+        "admin",
+        "Inmaculada Arostegui"
       ],
       "url_pdf": ""
     },
@@ -854,17 +842,16 @@
       "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85032681350&partnerID=MN8TOARS",
       "source": "Scopus - Elsevier",
       "authors": [
-        "Miles, J.",
-        "Applebee, C.J.",
-        "Leboucher, P.",
-        "Lopez-Fernandez, S.",
-        "Lee, D.-J.",
-        "Guarch, R.",
-        "Ward, S.",
-        "Parker, P.J.",
-        "López, J.I.",
-        "Larijani, B.",
-        "admin"
+        "James Miles",
+        "Christopher J. Applebee",
+        "Pierre Leboucher",
+        "Sonia Lopez-Fernandez",
+        "admin",
+        "Rosa Guarch",
+        "Stephen Ward",
+        "Peter J. Parker",
+        "Jose I. López",
+        "Banafshé Larijani"
       ],
       "url_pdf": ""
     },
@@ -880,12 +867,11 @@
       "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85002262382&partnerID=MN8TOARS",
       "source": "Scopus - Elsevier",
       "authors": [
-        "Sánchez-González, M.",
-        "Durbán, M.",
-        "Lee, D.-J.",
-        "Cañellas, I.",
-        "Sixto, H.",
-        "admin"
+        "Mariola Sánchez-González",
+        "María Durbán",
+        "admin",
+        "Isabel Cañellas",
+        "Hortensia Sixto"
       ],
       "url_pdf": ""
     },
@@ -901,12 +887,11 @@
       "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85013413865&partnerID=MN8TOARS",
       "source": "Scopus - Elsevier",
       "authors": [
-        "De la Cruz, R.",
-        "Fuentes, C.",
-        "Meza, C.",
-        "Lee, D.-J.",
-        "Arribas-Gil, A.",
-        "admin"
+        "Rolando De la Cruz",
+        "Claudio Fuentes",
+        "Cristian Meza",
+        "admin",
+        "Ana Arribas-Gil"
       ],
       "url_pdf": ""
     },
@@ -922,11 +907,10 @@
       "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84978975429&partnerID=MN8TOARS",
       "source": "Scopus - Elsevier",
       "authors": [
-        "Ayma, D.",
-        "Durbán, M.",
-        "Lee, D.-J.",
-        "Eilers, P.H.C.",
-        "admin"
+        "Diego Ayma",
+        "María Durbán",
+        "admin",
+        "Paul H.C. Eilers"
       ],
       "url_pdf": ""
     },
@@ -942,10 +926,9 @@
       "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84942826385&partnerID=MN8TOARS",
       "source": "Scopus - Elsevier",
       "authors": [
-        "Lee, D.-J.",
-        "Zhu, Z.",
-        "Toscas, P.",
-        "admin"
+        "admin",
+        "Z. Zhu",
+        "P. Toscas"
       ],
       "url_pdf": ""
     },
@@ -961,9 +944,8 @@
       "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84952299747&partnerID=MN8TOARS",
       "source": "Scopus - Elsevier",
       "authors": [
-        "Lee, D.-J.",
-        "Toscas, P.",
-        "admin"
+        "admin",
+        "Peter Toscas"
       ],
       "url_pdf": ""
     },
@@ -979,12 +961,11 @@
       "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84938419708&partnerID=MN8TOARS",
       "source": "Scopus - Elsevier",
       "authors": [
-        "Rodríguez-Álvarez, M.X.",
-        "Lee, D.-J.",
-        "Kneib, T.",
-        "Durbán, M.",
-        "Eilers, P.",
-        "admin"
+        "María Xosé Rodríguez-Álvarez",
+        "admin",
+        "Thomas Kneib",
+        "María Durbán",
+        "Paul Eilers"
       ],
       "url_pdf": ""
     },
@@ -1000,10 +981,9 @@
       "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84885020838&partnerID=MN8TOARS",
       "source": "Scopus - Elsevier",
       "authors": [
-        "Lee, D.-J.",
-        "Durbán, M.",
-        "Eilers, P.",
-        "admin"
+        "admin",
+        "María Durbán",
+        "Paul Eilers"
       ],
       "url_pdf": ""
     },
@@ -1039,9 +1019,8 @@
       "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-78651387624&partnerID=MN8TOARS",
       "source": "Scopus - Elsevier",
       "authors": [
-        "Lee, D.-J.",
-        "Durbán, M.",
-        "admin"
+        "admin",
+        "María Durbán"
       ],
       "url_pdf": ""
     },
@@ -1057,9 +1036,8 @@
       "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-62849097075&partnerID=MN8TOARS",
       "source": "Scopus - Elsevier",
       "authors": [
-        "Lee, D.-J.",
-        "Durbán, M.",
-        "admin"
+        "admin",
+        "María Durbán"
       ],
       "url_pdf": ""
     }

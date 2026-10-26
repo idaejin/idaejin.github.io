@@ -3,7 +3,7 @@ title: "Impact of outdoor air pollution on severity and mortality in COVID-19 pn
 authors:
   - "O. Bronte"
   - "F. García-García"
-  - "D.-J. Lee"
+  - admin
   - "I. Urrutia"
   - "A. Uranga"
   - "M. Nieves"
@@ -18,7 +18,6 @@ authors:
   - "A. Torres"
   - "C. Cilloniz"
   - "P.P. España"
-  - admin
 date: "2023-10-01"
 publishDate: "2023-10-01"
 doi: "10.1016/j.scitotenv.2023.164877"

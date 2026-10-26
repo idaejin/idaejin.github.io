@@ -1,10 +1,9 @@
 ---
 title: "A general framework for prediction in penalized regression"
 authors:
-  - "Carballo, A."
-  - "Durban, M."
-  - "Kauermann, G."
-  - "Lee, D.-J."
+  - "Alba Carballo"
+  - "Maria Durban"
+  - "Göran Kauermann"
   - admin
 date: "2021-01-01"
 publishDate: "2021-01-01"

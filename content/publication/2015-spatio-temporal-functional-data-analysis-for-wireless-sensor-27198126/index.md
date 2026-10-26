@@ -1,10 +1,9 @@
 ---
 title: "Spatio-temporal functional data analysis for wireless sensor networks data"
 authors:
-  - "Lee, D.-J."
-  - "Zhu, Z."
-  - "Toscas, P."
   - admin
+  - "Z. Zhu"
+  - "P. Toscas"
 date: "2015-01-01"
 publishDate: "2015-01-01"
 doi: "10.1002/env.2344"

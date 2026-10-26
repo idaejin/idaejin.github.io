@@ -1,11 +1,10 @@
 ---
 title: "Penalized composite link models for aggregated spatial count data: A mixed model approach"
 authors:
-  - "Ayma, D."
-  - "Durbán, M."
-  - "Lee, D.-J."
-  - "Eilers, P.H.C."
+  - "Diego Ayma"
+  - "María Durbán"
   - admin
+  - "Paul H.C. Eilers"
 date: "2016-01-01"
 publishDate: "2016-01-01"
 doi: "10.1016/j.spasta.2016.06.007"

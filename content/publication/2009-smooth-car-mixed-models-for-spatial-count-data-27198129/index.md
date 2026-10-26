@@ -1,9 +1,8 @@
 ---
 title: "Smooth-CAR mixed models for spatial count data"
 authors:
-  - "Lee, D.-J."
-  - "Durbán, M."
   - admin
+  - "María Durbán"
 date: "2009-01-01"
 publishDate: "2009-01-01"
 doi: "10.1016/j.csda.2008.07.025"

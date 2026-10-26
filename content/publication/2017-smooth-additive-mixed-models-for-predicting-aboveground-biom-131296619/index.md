@@ -1,12 +1,11 @@
 ---
 title: "Smooth additive mixed models for predicting aboveground biomass"
 authors:
-  - "Sánchez-González, M."
-  - "Durbán, M."
-  - "Lee, D.-J."
-  - "Cañellas, I."
-  - "Sixto, H."
+  - "Mariola Sánchez-González"
+  - "María Durbán"
   - admin
+  - "Isabel Cañellas"
+  - "Hortensia Sixto"
 date: "2017-01-01"
 publishDate: "2017-01-01"
 doi: "10.1007/s13253-016-0271-4"

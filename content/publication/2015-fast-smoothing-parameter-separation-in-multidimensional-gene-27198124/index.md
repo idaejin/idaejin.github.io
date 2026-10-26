@@ -1,12 +1,11 @@
 ---
 title: "Fast smoothing parameter separation in multidimensional generalized P-splines: the SAP algorithm"
 authors:
-  - "Rodríguez-Álvarez, M.X."
-  - "Lee, D.-J."
-  - "Kneib, T."
-  - "Durbán, M."
-  - "Eilers, P."
+  - "María Xosé Rodríguez-Álvarez"
   - admin
+  - "Thomas Kneib"
+  - "María Durbán"
+  - "Paul Eilers"
 date: "2015-01-01"
 publishDate: "2015-01-01"
 doi: "10.1007/s11222-014-9464-2"

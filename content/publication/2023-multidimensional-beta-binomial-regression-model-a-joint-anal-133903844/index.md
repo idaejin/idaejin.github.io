@@ -7,7 +7,7 @@ authors:
   - "Inmaculada Arostegui"
 date: "2023-04-14"
 publishDate: "2023-04-14"
-doi: "10.1177/1471082X231151311"
+doi: "10.1177/1471082x231151311"
 publication_types: ["2"]
 publication: "*Statistical Modelling*"
 publication_short: ""

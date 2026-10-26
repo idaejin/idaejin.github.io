@@ -1,12 +1,11 @@
 ---
 title: "Multidimensional adaptive penalised splines with application to neurons’ activity studies"
 authors:
-  - "Rodríguez-Álvarez, M.X."
-  - "Durbán, M."
-  - "Eilers, P.H.C."
-  - "Lee, D.-J."
-  - "Gonzalez, F."
+  - "María Xosé Rodríguez-Álvarez"
+  - "María Durbán"
+  - "Paul H.C. Eilers"
   - admin
+  - "Francisco Gonzalez"
 date: "2020-01-01"
 publishDate: "2020-01-01"
 doi: ""

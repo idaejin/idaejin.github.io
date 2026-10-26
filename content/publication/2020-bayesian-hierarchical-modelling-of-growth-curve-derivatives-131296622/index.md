@@ -1,9 +1,8 @@
 ---
 title: "Bayesian hierarchical modelling of growth curve derivatives via sequences of quotient differences"
 authors:
-  - "Page, G.L."
-  - "Rodríguez-Álvarez, M.X."
-  - "Lee, D.-J."
+  - "Garritt L. Page"
+  - "María Xosé Rodríguez-Álvarez"
   - admin
 date: "2020-01-01"
 publishDate: "2020-01-01"

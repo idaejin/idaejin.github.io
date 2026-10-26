@@ -1,9 +1,8 @@
 ---
 title: "Flexible geostatistical modeling and risk assessment analysis of lead concentration levels of residential soil in the Coeur D’Alene River Basin"
 authors:
-  - "Lee, D.-J."
-  - "Toscas, P."
   - admin
+  - "Peter Toscas"
 date: "2015-01-01"
 publishDate: "2015-01-01"
 doi: "10.1007/s10651-015-0310-2"

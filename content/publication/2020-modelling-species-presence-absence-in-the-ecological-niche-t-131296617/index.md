@@ -1,13 +1,12 @@
 ---
 title: "Modelling species presence–absence in the ecological niche theory framework using shape-constrained generalized additive models"
 authors:
-  - "Citores, L."
-  - "Ibaibarriaga, L."
-  - "Lee, D.-J."
-  - "Brewer, M.J."
-  - "Santos, M."
-  - "Chust, G."
+  - "L. Citores"
+  - "L. Ibaibarriaga"
   - admin
+  - "M.J. Brewer"
+  - "M. Santos"
+  - "G. Chust"
 date: "2020-01-01"
 publishDate: "2020-01-01"
 doi: "10.1016/j.ecolmodel.2019.108926"

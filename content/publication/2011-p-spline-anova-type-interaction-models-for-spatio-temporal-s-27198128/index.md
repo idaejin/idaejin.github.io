@@ -1,9 +1,8 @@
 ---
 title: "P-spline ANOVA-type interaction models for spatio-temporal smoothing"
 authors:
-  - "Lee, D.-J."
-  - "Durbán, M."
   - admin
+  - "María Durbán"
 date: "2011-01-01"
 publishDate: "2011-01-01"
 doi: "10.1177/1471082x1001100104"

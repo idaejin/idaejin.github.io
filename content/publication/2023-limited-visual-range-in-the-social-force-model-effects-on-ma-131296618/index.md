@@ -1,11 +1,10 @@
 ---
 title: "Limited visual range in the Social Force Model: Effects on macroscopic and microscopic dynamics"
 authors:
-  - "García, A."
-  - "Hernández-Delfin, D."
-  - "Lee, D.-J."
-  - "Ellero, M."
+  - "Ander García"
+  - "Dariel Hernández-Delfin"
   - admin
+  - "Marco Ellero"
 date: "2023-01-01"
 publishDate: "2023-01-01"
 doi: "10.1016/j.physa.2023.128461"
