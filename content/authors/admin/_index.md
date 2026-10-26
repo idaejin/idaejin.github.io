@@ -55,4 +55,3 @@ My research develops **flexible statistical models**—**P-splines**, **mixed mo
 
 Before joining IE University, I completed my PhD at Universidad Carlos III de Madrid (2010), was a postdoctoral fellow at [CSIRO](https://www.csiro.au/en/) / [Data61](https://research.csiro.au/data61/) in Melbourne (2011–2014), and was a researcher at [BCAM](https://www.bcamath.org/en/) in Bilbao (2014–2022), where I led the [Applied Statistics Research Line](https://www.bcamath.org/en/research/areas/ds/cas) and coordinated Data Science and AI in the [Knowledge Transfer Unit](https://www.bcamath.org/en/knowledge-transfer/knowledge-transfer-unit/).
 
-→ [Research](/research/) · [People](/people/) · [Projects](/projects/) · [Publications](/publication/)

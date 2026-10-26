@@ -13,7 +13,7 @@ publication: "*Physica A: Statistical Mechanics and its Applications*"
 publication_short: ""
 abstract: ""
 featured: false
-url_pdf: ""
+url_pdf: "https://bird.bcamath.org/bitstream/20.500.11824/1538/1/Manuscript.pdf"
 url_code: ""
 url_dataset: ""
 url_poster: ""

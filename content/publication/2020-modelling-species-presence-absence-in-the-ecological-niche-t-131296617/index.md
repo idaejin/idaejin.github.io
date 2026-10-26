@@ -15,7 +15,7 @@ publication: "*Ecological Modelling*"
 publication_short: ""
 abstract: ""
 featured: false
-url_pdf: ""
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S030438001930434X"
 url_code: ""
 url_dataset: ""
 url_poster: ""

@@ -17,7 +17,7 @@ publication: "*AStA Advances in Statistical Analysis*"
 publication_short: ""
 abstract: ""
 featured: false
-url_pdf: ""
+url_pdf: "https://academica-e.unavarra.es/bitstreams/ccce04d2-d667-4a5c-a45c-629d3fd277a8/download"
 url_code: ""
 url_dataset: ""
 url_poster: ""

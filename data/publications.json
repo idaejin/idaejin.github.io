@@ -1,8 +1,25 @@
 {
   "orcid": "0000-0002-8995-8535",
   "source": "https://pub.orcid.org/v3.0/0000-0002-8995-8535/works",
-  "count": 50,
+  "count": 51,
   "publications": [
+    {
+      "doi": "",
+      "journal": "arXiv:2608.06290",
+      "url": "https://arxiv.org/abs/2608.06290",
+      "url_pdf": "https://arxiv.org/pdf/2608.06290",
+      "url_oa": "",
+      "abstract": "We propose a new unit of analysis for longitudinal data: the Latent Memory Table. The scientific contribution is not the encoder. It is that table, treated as a reusable statistical object on the same footing as a matrix of principal-component scores, a table of estimated random effects, or a table of predicted probabilities. We estimate a statistical table that summarizes recent longitudinal history and is intended to be stored, queried, analysed and reused throughout the statistical workflow. A memory operator maps each masked windowed history to a finite-dimensional state; collecting those states with uncertainty yields the Latent Memory Table. Validation is organized around six properties---recoverability, personalization, temporal coherence, interpretability, stability and reusability---summarized by a composite quality index \\(Q\\); the Transformer, the SoccerMon case study and the simulations exist to argue that this table deserves that status. Classical exponentially weighted moving averages and related short- and long-horizon scalar summaries arise as restricted, typically univariate special cases of the same operator class. A simulation study with known memory mechanisms shows that \\(Q\\) and rotation-invariant recovery scores discriminate genuine multivariate or personalized memory from negative controls and from misspecified windows, whereas regime classification accuracy alone does not. SoccerMon serves as an empirical case study: a constructed Latent Memory Table attains \\(Q\\approx 0.73\\) versus about \\(0.40\\) for classical and lagged principal-component baselines, with incremental held-out value for some wellness targets and Procrustes ensembles for row-wise reliability.",
+      "slug": "2026-learning-latent-memory-states-from-longitudinal-athlete-monito",
+      "title": "Learning Latent Memory States from Longitudinal Athlete Monitoring Data",
+      "year": "2026",
+      "month": "08",
+      "day": "06",
+      "type": "preprint",
+      "authors": [
+        "admin"
+      ]
+    },
     {
       "put_code": 208981276,
       "title": "Modeling crowd flow during stadium ingress under alternative access protocols: San Mamés as a case study",
@@ -21,7 +38,9 @@
         "admin",
         "Marco Ellero"
       ],
-      "url_pdf": ""
+      "abstract": "Mass gatherings at sporting events pose critical risk for crowd safety, especially in venues with limited history of hosting high-demand events or insufficient data to inform evidence-based interventions. Ahead of the UEFA Europa League (UEL) Final 2024–2025, San Mamés Stadium implemented staged access protocols across league matches. These real-world experiences provide a timely case study on crowd management strategies and operational planning in urban environments. This work presents a simulation-based study of the pedestrian ingress dynamics during fan entry to the stadium under high-attendance settings. The agent-based modeling framework integrates a Social Force Model that considers the pedestrian’s limited visual range, queuing behavior, and where path-finding is computed from the numerical solution of the Laplace equation. Using empirical data of the geometrical constraints of the stadium and its surrounding areas and timestamped turnstile access records from pre-final league matches, the model reproduces the pedestrian flow under every access protocol implemented during the tournament. Quantitative analysis of ingress efficiency, access rates, and pedestrian flow patterns reveals specific stadium-adjacent zones susceptible to undesired counterflow and overcrowding. Simulations indicate that the suggested access guidelines can streamline crowd movement and lower density levels by roughly 20%, while delaying individual screening at the fenced security perimeter by 2.5 s can decrease the maximum average local density by nearly 80%. These findings emphasize the role of computational modeling as a decision-support tool, allowing the evaluation of alternative crowd management strategies before their implementation in real-world events.",
+      "url_pdf": "",
+      "url_oa": ""
     },
     {
       "put_code": 190617755,
@@ -40,7 +59,9 @@
         "admin",
         "María Merino"
       ],
-      "url_pdf": ""
+      "abstract": "The location of ambulances is a crucial strategic decision for Emergency Medical Services (EMS). The base stations must achieve efficient dispatching under the inherent uncertainty of emergency locations and travel times. Additionally, managers need decision-support models that incorporate the multi-objective nature of such an efficient system. This paper bridges the gap between these requirements by developing a multi-objective hierarchical compromise optimization framework under stochastic travel times. Our hierarchical compromise optimization approach leverages quasi-optimal coverage solutions to provide EMS managers with flexibility in balancing (a) minimal average response time, (b) maximal resource adequacy, and (c) minimal worst-case response times. The stochasticity of travel times is incorporated into the models using a methodology to estimate continuous probability distributions for available and non-available historical data. The proposed modeling induces cross-scenario constraints, which are computationally challenging as the problem size increases. We tackle this issue by presenting an ad-hoc extension of a primal scenario-decomposition algorithm that deals with such constraints. This extension achieves superior performance over state-of-the-art optimization software. Finally, we use real-world data from the Basque Public Healthcare System to test the framework and prove the managerial interest of the obtained results.",
+      "url_pdf": "",
+      "url_oa": ""
     },
     {
       "put_code": 189814278,
@@ -61,7 +82,9 @@
         "Eduardo Millan",
         "Jose María Quintana"
       ],
-      "url_pdf": ""
+      "abstract": "",
+      "url_pdf": "",
+      "url_oa": ""
     },
     {
       "put_code": 197202955,
@@ -81,7 +104,9 @@
         "Javier M. Moguerza",
         "admin"
       ],
-      "url_pdf": ""
+      "abstract": "This study explores dataset complexity estimation and its relationship with classification performance. Widely-used measures like the k-Disagreeing Neighbors (kDN) are limited by their reliance on a fixed number of neighbors ( k ) and their discrete output, which can lead to coarse estimations. To address these issues, we introduce Dynamic Disagreeing Neighbors (DDN), a measure that incorporates dynamic, density-aware neighborhoods and distance-based weighting to provide a smoother, more flexible complexity estimation. We conduct a large-scale empirical study on 65 binary datasets, comparing DDN against kDN and other state-of-the-art measures, analyzing the impact of the k parameter and class imbalance on the alignment with classifier performance. Our results show that DDN provides a more robust and stable correspondence with performance. Furthermore, we demonstrate that in a predictive modeling task, a regression model using DDN as a feature is significantly more accurate at estimating dataset performance than models using other complexity measures. These findings not only deepen our understanding of complexity estimation but also pave the way for more informed classifier selection and data preprocessing strategies.",
+      "url_pdf": "",
+      "url_oa": ""
     },
     {
       "put_code": 194186761,
@@ -99,7 +124,9 @@
         "admin",
         "Manuele Leonelli"
       ],
-      "url_pdf": ""
+      "abstract": "As artificial intelligence (AI) becomes increasingly embedded in public and private life, understanding how citizens perceive its risks, benefits, and regulatory needs is essential. To inform ongoing regulatory efforts such as the European Union’s proposed AI Act, this study models public attitudes using Bayesian networks learned from the nationally representative 2023 German survey Current Questions on AI. The survey includes variables on AI interest, exposure, perceived threats and opportunities, awareness of EU regulation, and support for legal restrictions, along with key demographic and political indicators. We estimate probabilistic models that reveal how personal engagement and techno-optimism shape public perceptions, and how political orientation and age influence regulatory attitudes. Sobol indices and conditional inference identify belief patterns and scenario-specific responses across population profiles. We show that awareness of regulation is driven by information-seeking behavior, while support for legal requirements depends strongly on perceived policy adequacy and political alignment. Our approach offers a transparent, data-driven framework for identifying which public segments are most responsive to AI policy initiatives, providing insights to inform risk communication and governance strategies. We illustrate this through a focused analysis of support for AI regulation, quantifying the influence of political ideology, perceived risks, and regulatory awareness under different scenarios.",
+      "url_pdf": "",
+      "url_oa": ""
     },
     {
       "put_code": 190558200,
@@ -120,7 +147,9 @@
         "María José Legarreta-Olabarrieta",
         "admin"
       ],
-      "url_pdf": ""
+      "abstract": "Length of Stay (LoS) for in-hospital patients is a relevant indicator of efficiency in healthcare. Moreover, it is often related to the occurrence of hospital-acquired complications. In this work, we aim to explore time-to-event analysis for modelling LoS. We employed competing risk models (CR), as we considered two mutually exclusive outcomes: favorable discharge and deterioration. The explanatory variables included the patient’s sex, age, and longitudinal vital signs collected from a dataset comprising N = 19 , 602 admissions. To address sparse measurements, we transformed longitudinal vital signs into cross-sectional statistics. Our approach involves data pre-processing, imputation of missing data, and variable selection. We proposed four types of CR models: Cause-specific Cox, Sub-distribution hazard, and two variants of Random Survival Forests, with both generalised Log-Rank test (cause-specific hazard estimates) and Gray’s test (cumulative incidences estimations) as node splitting rules. Performance in LoS CR models was evaluated over a time frame from 2 to 15 days. Additionally, we considered baselines with two well-established clinical early warning scores the National Early Warning Score (NEWS) and the Modified Early Warning Score (MEWS). The best model was Random Survival Forest using Gray’s test split, with Integrated Brier Score[×100] of 0.386, C-Index above 99%, and Brier Score below 0.006, along the entire time frame. Employing cross-sectional statistics derived from vital signs, along with rigorous data pre-processing, outperformed the degree of correctness of modelling LoS, compared to NEWS and MEWS.",
+      "url_pdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0322101&type=printable",
+      "url_oa": ""
     },
     {
       "put_code": 185463016,
@@ -139,7 +168,9 @@
         "admin",
         "Marco Ellero"
       ],
-      "url_pdf": ""
+      "abstract": "",
+      "url_pdf": "",
+      "url_oa": "https://doi.org/10.2139/ssrn.5057249"
     },
     {
       "put_code": 172610247,
@@ -157,7 +188,9 @@
         "Andreas Bender",
         "admin"
       ],
-      "url_pdf": ""
+      "abstract": "We present a flexible modelling approach to analyse time-varying exposures and recurrent events in team sports injuries. The approach is based on the piece-wise exponential additive mixed model where the effects of past exposures (i.e. high-intensity training loads) may accumulate over time and present complex forms of association. In order to identify a relevant time window at which past exposures have an impact on the current risk, we propose a penalty approach. We conduct a simulation study to evaluate the performance of the proposed model, under different true weight functions and different levels of heterogeneity between recurrent events. Finally, we illustrate the approach with a case study application involving an elite male football team participating in the Spanish LaLiga competition. The cohort includes time-loss injuries and external training load variables tracked by Global Positioning System devices, during the seasons 2017–2018 and 2018–2019.",
+      "url_pdf": "https://academic.oup.com/jrsssc/advance-article-pdf/doi/10.1093/jrsssc/qlae059/60831962/qlae059.pdf",
+      "url_oa": ""
     },
     {
       "put_code": 164683317,
@@ -178,7 +211,9 @@
         "José M. Mato",
         "admin"
       ],
-      "url_pdf": ""
+      "abstract": "",
+      "url_pdf": "",
+      "url_oa": ""
     },
     {
       "put_code": 168341399,
@@ -198,7 +233,9 @@
         "Jaime Arrué",
         "Yuri A. Iriarte"
       ],
-      "url_pdf": ""
+      "abstract": "In this paper, we propose an alternative distribution to model count data exhibiting uni/bimodality. It arises as a weighted version of the beta-binomial distribution, which is defined by a parametric weight function that admits up to two modes for the resulting probability mass function. Like the baseline beta-binomial distribution, the proposed distribution performs well in modeling overdispersed binomial data. Structural properties of the new distribution are studied. Raw moments are derived, which are used to describe the dispersion behavior relative to the mean and the skewness behavior. Parameter estimation is carried out using the maximum likelihood method. A simulation study is conducted in order to illustrate the behavior of the estimators. Finally, two applications illustrating the usefulness of the proposal are presented.",
+      "url_pdf": "https://www.mdpi.com/2075-1680/13/10/662/pdf?version=1727336256",
+      "url_oa": ""
     },
     {
       "put_code": 169171764,
@@ -224,7 +261,9 @@
         "Isabel Urrutia",
         "COVID-19 & Air Pollution Working Group"
       ],
-      "url_pdf": ""
+      "abstract": "Background There exists consistent empirical evidence in the literature pointing out ample heterogeneity in terms of the clinical evolution of patients with COVID-19. The identification of specific phenotypes underlying in the population might contribute towards a better understanding and characterization of the different courses of the disease. The aim of this study was to identify distinct clinical phenotypes among hospitalized patients with SARS-CoV-2 pneumonia using machine learning clustering, and to study their association with subsequent clinical outcomes as severity and mortality. Methods Multicentric observational, prospective, longitudinal, cohort study conducted in four hospitals in Spain. We included adult patients admitted for in-hospital stay due to SARS-CoV-2 pneumonia. We collected a broad spectrum of variables to describe exhaustively each case: patient demographics, comorbidities, symptoms, physiological status, baseline examinations (blood analytics, arterial gas test), etc. For the development and internal validation of the clustering/phenotype models, the dataset was split into training and test sets (50% each). We proposed a sequence of machine learning stages: feature scaling, missing data imputation, reduction of data dimensionality via Kernel Principal Component Analysis (KPCA), and clustering with the k -means algorithm. The optimal cluster model parameters –including k , the number of phenotypes– were chosen automatically, by maximizing the average Silhouette score across the training set. Results We enrolled 1548 patients, each of them characterized by 92 clinical attributes ( d =109 features after variable encoding). Our clustering algorithm identified k =3 distinct phenotypes and 18 strongly informative variables: Phenotype A (788 cases [50.9% prevalence] – age $$\\sim$$ ∼ 57, Charlson comorbidity $$\\sim$$ ∼ 1, pneumonia CURB-65 score $$\\sim$$ ∼ 0 to 1, respiratory rate at admission $$\\sim$$ ∼ 18 min -1 , Fi O 2 $$\\sim$$ ∼ 21%, C-reactive protein CRP $$\\sim$$ ∼ 49.5 mg/dL [median within cluster]); phenotype B (620 cases [40.0%] – age $$\\sim$$ ∼ 75, Charlson $$\\sim$$ ∼ 5, CURB-65 $$\\sim$$ ∼ 1 to 2, respiration $$\\sim$$ ∼ 20 min -1 , Fi O 2 $$\\sim$$ ∼ 21%, CRP $$\\sim$$ ∼ 101.5 mg/dL); and phenotype C (140 cases [9.0%] – age $$\\sim$$ ∼ 71, Charlson $$\\sim$$ ∼ 4, CURB-65 $$\\sim$$ ∼ 0 to 2, respiration $$\\sim$$ ∼ 30 min -1 , Fi O 2 $$\\sim$$ ∼ 38%, CRP $$\\sim$$ ∼ 152.3 mg/dL). Hypothesis testing provided solid statistical evidence supporting an interaction between phenotype and each clinical outcome: severity and mortality. By computing their corresponding odds ratios, a clear trend was found for higher frequencies of unfavourable evolution in phenotype C with respect to B , as well as more unfavourable in phenotype B than in A . Conclusion A compound unsupervised clustering technique (including a fully-automated optimization of its internal parameters) revealed the existence of three distinct groups of patients – phenotypes. In turn, these showed strong associations with the clinical severity in the progression of pneumonia, and with mortality.",
+      "url_pdf": "https://pneumonia.biomedcentral.com/counter/pdf/10.1186/s41479-024-00132-0",
+      "url_oa": ""
     },
     {
       "put_code": 160656920,
@@ -242,7 +281,9 @@
         "Josu Najera-Zuloaga",
         "admin"
       ],
-      "url_pdf": "https://www.idescat.cat/sort/sort482/48.2.1.Gal%C3%A1n-Arcicollar-etal.pdf"
+      "abstract": "",
+      "url_pdf": "https://www.idescat.cat/sort/sort482/48.2.1.Gal%C3%A1n-Arcicollar-etal.pdf",
+      "url_oa": ""
     },
     {
       "put_code": 155259909,
@@ -261,7 +302,9 @@
         "Francisco J. Mendoza-Garcés",
         "Susana García-Gutiérrez"
       ],
-      "url_pdf": ""
+      "abstract": "",
+      "url_pdf": "",
+      "url_oa": "http://hdl.handle.net/20.500.11824/1789"
     },
     {
       "put_code": 159080471,
@@ -287,7 +330,9 @@
         "Antoni Torres",
         "Rafael Zalacain Jorge"
       ],
-      "url_pdf": ""
+      "abstract": "OBJECTIVE: To study the suitability of costsensitive ordinal artificial intelligence-machine learning (AIML) strategies in the prognosis of SARS-CoV-2 pneumonia severity. MATERIALS & METHODS: Observational, retrospective, longitudinal, cohort study in 4 hospitals in Spain. Information regarding demographic and clinical status was supplemented by socioeconomic data and air pollution exposures. We proposed AI-ML algorithms for ordinal classification via ordinal decomposition and for cost-sensitive learning via resampling techniques. For performance-based model selection, we defined a custom score including per-class sensitivities and asymmetric misprognosis costs. 260 distinct AI-ML models were evaluated via 10 repetitions of 5×5 nested cross-validation with hyperparameter tuning. Model selection was followed by the calibration of predicted probabilities. Final overall performance was compared against five well-established clinical severity scores and against a 'standard' (non-cost sensitive, non-ordinal) AI-ML baseline. In our best model, we also evaluated its explainability with respect to each of the input variables. RESULTS: The study enrolled n = 1548 patients: 712 experienced low, 238 medium, and 598 high clinical severity. d = 131 variables were collected, becoming d ' = 148 features after categorical encoding. Model selection resulted in our best-performing AI-ML pipeline having: a) no imputation of missing data, b) no feature selection (i.e. using the full set of d ' features), c) 'Ordered Partitions' ordinal decomposition, d) cost-based reimbalance, and e) a Histogram-based Gradient Boosting classifier. This best model (calibrated) obtained a median accuracy of 68.1% [67.3%, 68.8%] (95% confidence interval), a balanced accuracy of 57.0% [55.6%, 57.9%], and an overall area under the curve (AUC) 0.802 [0.795, 0.808]. In our dataset, it outperformed all five clinical severity scores and the 'standard' AI-ML baseline. DISCUSSION & CONCLUSION: We conducted an exhaustive exploration of AI-ML methods designed for both ordinal and cost-sensitive classification, motivated by a real-world application domain (clinical severity prognosis) in which these topics arise naturally. Our model with the best classification performance exploited successfully the ordering information of ground truth classes, coping with imbalance and asymmetric costs. However, these ordinal and cost-sensitive aspects are seldom explored in the literature.",
+      "url_pdf": "https://bird.bcamath.org/bitstream/20.500.11824/1790/1/manuscript-repo.pdf",
+      "url_oa": ""
     },
     {
       "put_code": 169172150,
@@ -308,7 +353,9 @@
         "admin",
         "Marco Ellero"
       ],
-      "url_pdf": ""
+      "abstract": "",
+      "url_pdf": "",
+      "url_oa": "http://hdl.handle.net/20.500.11824/2052"
     },
     {
       "put_code": 141767861,
@@ -327,7 +374,9 @@
         "admin",
         "Rolando De la Cruz"
       ],
-      "url_pdf": ""
+      "abstract": "In this work, we propose an extension of a semiparametric nonlinear mixed‐effects model for longitudinal data that incorporates more flexibility with penalized splines (P‐splines) as smooth terms. The novelty of the proposed approach consists of the formulation of the model within the stochastic approximation version of the EM algorithm for maximum likelihood, the so‐called SAEM algorithm. The proposed approach takes advantage of the formulation of a P‐spline as a mixed‐effects model and the use of the computational advantages of the existing software for the SAEM algorithm for the estimation of the random effects and the variance components. Additionally, we developed a supervised classification method for these non‐linear mixed models using an adaptive importance sampling scheme. To illustrate our proposal, we consider two studies on pregnant women where two biomarkers are used as indicators of changes during pregnancy. In both studies, information about the women's pregnancy outcomes is known. Our proposal provides a unified framework for the classification of longitudinal profiles that may have important implications for the early detection and monitoring of pregnancy‐related changes and contribute to improved maternal and fetal health outcomes. We show that the proposed models improve the analysis of this type of data compared to previous studies. These improvements are reflected both in the fit of the models and in the classification of the groups.",
+      "url_pdf": "",
+      "url_oa": ""
     },
     {
       "put_code": 138440641,
@@ -359,7 +408,9 @@
         "C. Cilloniz",
         "P.P. España"
       ],
-      "url_pdf": ""
+      "abstract": "",
+      "url_pdf": "",
+      "url_oa": ""
     },
     {
       "put_code": 142617831,
@@ -378,7 +429,9 @@
         "María Xosé Rodríguez-álvarez",
         "María Durbán"
       ],
-      "url_pdf": ""
+      "abstract": "The estimation of curve derivatives is of interest in many disciplines. It allows the extraction of important characteristics to gain insight about the underlying process. In the context of longitudinal data, the derivative allows the description of biological features of the individuals or finding change regions of interest. Although there are several approaches to estimate subject-specific curves and their derivatives, there are still open problems due to the complicated nature of these time course processes. In this article, we illustrate the use of P-spline models to estimate derivatives in the context of longitudinal data. We also propose a new penalty acting at the population and the subject-specific levels to address under-smoothing and boundary problems in derivative estimation. The practical performance of the proposal is evaluated through simulations, and comparisons with an alternative method are reported. Finally, an application to longitudinal height measurements of 125 football players in a youth professional academy is presented, where the goal is to analyse their growth and maturity patterns over time.",
+      "url_pdf": "https://bird.bcamath.org/bitstream/20.500.11824/1699/1/Derivative_curve_estimation_in_longitudinal_studies_using_P_splines.pdf",
+      "url_oa": ""
     },
     {
       "put_code": 133903844,
@@ -397,7 +450,9 @@
         "Cristobal Esteban",
         "Inmaculada Arostegui"
       ],
-      "url_pdf": ""
+      "abstract": "",
+      "url_pdf": "",
+      "url_oa": ""
     },
     {
       "put_code": 133058090,
@@ -424,7 +479,9 @@
         "Rafael Zalacain Jorge",
         "Inmaculada Arostegui"
       ],
-      "url_pdf": ""
+      "abstract": "With the COVID-19 pandemic having caused unprecedented numbers of infections and deaths, large research efforts have been undertaken to increase our understanding of the disease and the factors which determine diverse clinical evolutions. Here we focused on a fully data-driven exploration regarding which factors (clinical or otherwise) were most informative for SARS-CoV-2 pneumonia severity prediction via machine learning (ML). In particular, feature selection techniques (FS), designed to reduce the dimensionality of data, allowed us to characterize which of our variables were the most useful for ML prognosis. We conducted a multi-centre clinical study, enrolling n = 1548 patients hospitalized due to SARS-CoV-2 pneumonia: where 792, 238, and 598 patients experienced low, medium and high-severity evolutions, respectively. Up to 106 patient-specific clinical variables were collected at admission, although 14 of them had to be discarded for containing ⩾60% missing values. Alongside 7 socioeconomic attributes and 32 exposures to air pollution (chronic and acute), these became d = 148 features after variable encoding. We addressed this ordinal classification problem both as a ML classification and regression task. Two imputation techniques for missing data were explored, along with a total of 166 unique FS algorithm configurations: 46 filters, 100 wrappers and 20 embeddeds. Of these, 21 setups achieved satisfactory bootstrap stability (⩾0.70) with reasonable computation times: 16 filters, 2 wrappers, and 3 embeddeds. The subsets of features selected by each technique showed modest Jaccard similarities across them. However, they consistently pointed out the importance of certain explanatory variables. Namely: patient’s C-reactive protein (CRP), pneumonia severity index (PSI), respiratory rate (RR) and oxygen levels –saturation Sp O2, quotients Sp O2/RR and arterial Sat O2/Fi O2–, the neutrophil-to-lymphocyte ratio (NLR) –to certain extent, also neutrophil and lymphocyte counts separately–, lactate dehydrogenase (LDH), and procalcitonin (PCT) levels in blood. A remarkable agreement has been found a posteriori between our strategy and independent clinical research works investigating risk factors for COVID-19 severity. Hence, these findings stress the suitability of this type of fully data-driven approaches for knowledge extraction, as a complementary to clinical perspectives.",
+      "url_pdf": "http://arxiv.org/pdf/1202.1056",
+      "url_oa": ""
     },
     {
       "put_code": 129624881,
@@ -446,7 +503,9 @@
         "Susana García-Gutiérrez",
         "Inmaculada Arostegui"
       ],
-      "url_pdf": ""
+      "abstract": "",
+      "url_pdf": "",
+      "url_oa": "http://hdl.handle.net/10810/72881"
     },
     {
       "put_code": 103482686,
@@ -469,7 +528,9 @@
         "Helmut Küchenhoff",
         "admin"
       ],
-      "url_pdf": ""
+      "abstract": "",
+      "url_pdf": "https://academica-e.unavarra.es/bitstreams/ccce04d2-d667-4a5c-a45c-629d3fd277a8/download",
+      "url_oa": ""
     },
     {
       "put_code": 131296618,
@@ -488,7 +549,9 @@
         "admin",
         "Marco Ellero"
       ],
-      "url_pdf": ""
+      "abstract": "",
+      "url_pdf": "https://bird.bcamath.org/bitstream/20.500.11824/1538/1/Manuscript.pdf",
+      "url_oa": ""
     },
     {
       "put_code": 123934342,
@@ -513,7 +576,9 @@
         "Imanol Martin-Garetxana",
         "Jon Larruskain"
       ],
-      "url_pdf": ""
+      "abstract": "Growth and maturation are potential risk factors for soccer injuries. This research sought to describe how peak height velocity (PHV) affects overall and specific injury burden in circa- and post-PHV elite academy soccer players. Injuries and growth data collected from 2000 to 2020 were studied retrospectively. Longitudinal height records for 124 players were fitted with the Super-Imposition by Translation and Rotation model to calculate PHV (cm/year) and age at PHV. Players were classified according to PHV percentile (fast:≥75th; average: 25–75th; slow:≤25th) and maturity status (circa- or post-PHV). Overall and specific injury burden (days lost/player-season) and rate ratios for comparisons between groups were calculated based on zero-inflated negative binomial models. Confidence intervals were calculated at the 95% confidence level (CI) and the significance level was set at<0.05. In circa-PHV, players with fast PHV had 2.6 (CI: 1.4–4.8)- and 3.3 (CI:1.3–6.7)-times higher overall burden and 2.9 (CI:1.1–7.1)- and 4.1 (CI: 1.4–15.2)-times higher for growth-related injury burden compared to players with average and slow PHV, respectively. Regular monitoring of growth seems important to detect players at higher risk for being disrupted by growth-related injuries.",
+      "url_pdf": "https://addi.ehu.eus/bitstream/10810/78237/3/IJSM%20Manuscript%2020_04_2022.pdf",
+      "url_oa": ""
     },
     {
       "put_code": 109655970,
@@ -532,7 +597,9 @@
         "Diego Ayma",
         "Jan Van de Kassteele"
       ],
-      "url_pdf": ""
+      "abstract": "Epidemiological data are frequently recorded at coarse spatio-temporal resolutions to protect confidential information or to summarize it in a compact manner. However, the detailed patterns followed by the source data, which may be of interest to researchers and public health officials, are overlooked. We propose to use the penalized composite link model (Eilers PCH (2007)), combined with spatio-temporal P-splines methodology (Lee D.-J., Durban M (2011)) to estimate the underlying trend within data that have been aggregated not only in space, but also in time. Model estimation is carried out within a generalized linear mixed model framework, and sophisticated algorithms are used to speed up computations that otherwise would be unfeasible. The model is then used to analyze data obtained during the largest outbreak of Q-fever in the Netherlands.",
+      "url_pdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0263711&type=printable",
+      "url_oa": ""
     },
     {
       "put_code": 131296614,
@@ -552,7 +619,9 @@
         "admin",
         "Francisco Gonzalez"
       ],
-      "url_pdf": ""
+      "abstract": "The receptive field (RF) of a visual neuron is the region of the space that elicits neuronal responses. It can be mapped using different techniques that allow inferring its spatial and temporal properties. Raw RF maps (RFmaps) are usually noisy, making it difficult to obtain and study important features of the RF. A possible solution is to smooth them using P-splines. Yet, raw RFmaps are characterized by sharp transitions in both space and time. Their analysis thus asks for spatiotemporal adaptive P-spline models, where smoothness can be locally adapted to the data. However, the literature lacks proposals for adaptive P-splines in more than two dimensions. Furthermore, the extra flexibility afforded by adaptive P-spline models is obtained at the cost of a high computational burden, especially in a multidimensional setting. To fill these gaps, this work presents a novel anisotropic locally adaptive P-spline model in two (e.g., space) and three (space and time) dimensions. Estimation is based on the recently proposed SOP (Separation of Overlapping Precision matrices) method, which provides the speed we look for. Besides the spatiotemporal analysis of the neuronal activity data that motivated this work, the practical performance of the proposal is evaluated through simulations, and comparisons with alternative methods are reported.",
+      "url_pdf": "",
+      "url_oa": ""
     },
     {
       "put_code": 45749942,
@@ -571,7 +640,9 @@
         "María del Carmen Aguilera-Morillo",
         "Ana M. Aguilera"
       ],
-      "url_pdf": ""
+      "abstract": "",
+      "url_pdf": "",
+      "url_oa": ""
     },
     {
       "put_code": 97538939,
@@ -589,7 +660,9 @@
         "María Durbán",
         "admin"
       ],
-      "url_pdf": ""
+      "abstract": "The prediction of out-of-sample values is an interesting problem in any regression model. In the context of penalized smoothing using a mixed-model reparameterization, a general framework has been proposed for predicting in additive models but without interaction terms. The aim of this paper is to generalize this work, extending the methodology proposed in the multidimensional case, to models that include interaction terms, i.e., when prediction is carried out in a multidimensional setting. Our method fits the data, predicts new observations at the same time, and uses constraints to ensure a consistent fit or impose further restrictions on predictions. We have also developed this method for the so-called smooth-ANOVA model, which allows us to include interaction terms that can be decomposed into the sum of several smooth functions. We also develop this methodology for the so-called smooth-ANOVA models, which allow us to include interaction terms that can be decomposed as a sum of several smooth functions. To illustrate the method, two real data sets were used, one for predicting the mortality of the U.S. population in a logarithmic scale, and the other for predicting the aboveground biomass of Populus trees as a smooth function of height and diameter. We examine the performance of interaction and the smooth-ANOVA model through simulation studies.",
+      "url_pdf": "https://www.mdpi.com/2227-7390/9/15/1761/pdf?version=1627658354",
+      "url_oa": ""
     },
     {
       "put_code": 102766273,
@@ -615,7 +688,9 @@
         "Eder Bikandi Latxaga",
         "Jon Larruskain Zabala"
       ],
-      "url_pdf": ""
+      "abstract": "",
+      "url_pdf": "",
+      "url_oa": ""
     },
     {
       "put_code": 131296621,
@@ -641,7 +716,9 @@
         "Eder Bikandi",
         "Jon Larruskain"
       ],
-      "url_pdf": ""
+      "abstract": "Injuries have a negative impact on the development of football players. Maturation is a potential risk factor for football injuries but available data on this topic provide limited evidence due to methodological shortcomings. The aim of this study was to describe the injury burden of male academy football players according to growth curve‐derived maturity status and timing. Injury and growth data were collected from 2000 to 2020. Longitudinal height records for 110 individual players were fitted with the Super‐Imposition by Translation and Rotation model to estimate age at peak height velocity (PHV). Players were clustered according to maturity status (pre‐, circa‐, post‐PHV, or adults) and timing (early, on‐time, late maturers). Overall and specific injury burdens (days lost/player‐season) and rate ratios for comparisons between groups were calculated. Overall injury burden increased with advanced maturity status; pre‐PHV players had 3.2‐, 3.7‐, and 5.5‐times lower burden compared with circa‐PHV, post‐PHV, and adult players, respectively. Growth‐related injuries were more burdensome circa‐PHV, while muscle and joint/ligament injuries had a higher impact post‐PHV and in adults. Further, in the pre‐PHV period, late maturers showed lower burden of overall, growth‐related, anterior inferior iliac spine osteochondrosis, and knee joint/ligament injuries compared with on‐time maturers. In adult players, however, injuries were less burdensome for early maturers than on‐time and late maturers. In addition, joint/ligament injuries of adult late maturers were 4.5‐times more burdensome than those of early maturers. Therefore, monitoring maturity seems crucial to define each player's maturation profile and facilitate design of targeted injury prevention programmes. Highlights Injury burden is significantly lower in football players at pre‐peak height velocity (PHV). Growth‐related injuries are most burdensome circa‐PHV, while muscle and joint/ligament injuries are more burdensome post‐PHV and especially in adults. Before PHV, growth‐related and knee joint/ligament injuries have lower burden in players who mature late than those who mature on‐time. Adult late maturers have greater burden of overall and joint/ligament injuries than early maturers. Football academies should regularly assess the maturity status and timing of young football players, as the impact of injuries varies with maturation status and timing. Management of the maturity‐related injury risk profile, in combination with other relevant factors (training load, neuromuscular and biomechanical factors, physiotherapy, coaching, communication, psychosocial factors …), might help improve the success of player development programmes and protect the health of young football players.",
+      "url_pdf": "https://addi.ehu.eus/bitstream/10810/78238/3/Corrected%20manuscript%20with%20author%20details_TEJS-2021-0977%20_13_10_2021.pdf",
+      "url_oa": ""
     },
     {
       "put_code": 131296615,
@@ -660,7 +737,9 @@
         "Göran Kauermann",
         "admin"
       ],
-      "url_pdf": ""
+      "abstract": "There are two main approaches to carrying out prediction in the context of penalized regression: with low-rank basis and penalties or through the smooth mixed models. In this article, we give further insight in the case of P-splines showing the influence of the penalty on the prediction. In the context of mixed models, we can connect the new predicted values to the observed values through a joint normal distribution, which allows us to compute prediction intervals. In this work, we propose an alternative approach, called the extended mixed model approach, that allows us to fit and predict data simultaneously. The methodology is illustrated with two real datasets, one of them on aboveground biomass and the other on monthly sulphur dioxide ([Formula: see text]) levels in a selection of monitoring sites in Europe.",
+      "url_pdf": "",
+      "url_oa": "http://hdl.handle.net/10016/24607"
     },
     {
       "put_code": 131296604,
@@ -680,7 +759,9 @@
         "admin",
         "Francisco Gonzalez"
       ],
-      "url_pdf": ""
+      "abstract": "",
+      "url_pdf": "",
+      "url_oa": ""
     },
     {
       "put_code": 131296617,
@@ -701,7 +782,9 @@
         "M. Santos",
         "G. Chust"
       ],
-      "url_pdf": ""
+      "abstract": "",
+      "url_pdf": "https://www.sciencedirect.com/science/article/pii/S030438001930434X",
+      "url_oa": ""
     },
     {
       "put_code": 131296609,
@@ -733,7 +816,9 @@
         "Peter J. Parker",
         "Banafshé Larijani"
       ],
-      "url_pdf": ""
+      "abstract": "Many cancers are termed immunoevasive due to expression of immunomodulatory ligands. Programmed death ligand-1 (PD-L1) and cluster of differentiation 80/86 (CD80/86) interact with their receptors, programmed death receptor-1 (PD-1) and cytotoxic T-lymphocyte antigen-4 (CTLA-4), respectively, on tumor-infiltrating leukocytes eliciting immunosuppression. Immunotherapies aimed at blocking these interactions are revolutionizing cancer treatments, albeit in an inadequately described patient subset. To address the issue of patient stratification for immune checkpoint intervention, we quantitatively imaged PD-1/PD-L1 interactions in tumor samples from patients, employing an assay that readily detects these intercellular protein–protein interactions in the less than or equal to 10 nm range. These analyses across multiple patient cohorts demonstrated the intercancer, interpatient, and intratumoral heterogeneity of interacting immune checkpoints. The PD-1/PD-L1 interaction was not correlated with clinical PD-L1 expression scores in malignant melanoma. Crucially, among anti-PD-1–treated patients with metastatic non–small cell lung cancer, those with lower PD-1/PD-L1 interaction had significantly worsened survival. It is surmised that within tumors selecting for an elevated level of PD-1/PD-L1 interaction, there is a greater dependence on this pathway for immune evasion and hence, they exhibit more impressive patient response to intervention. Significance: Quantitation of immune checkpoint interaction by direct imaging demonstrates that immunotherapy-treated patients with metastatic NSCLC with a low extent of PD-1/PD-L1 interaction show significantly worse outcome.",
+      "url_pdf": "",
+      "url_oa": "https://researchportal.bath.ac.uk/en/publications/adef7fc5-259e-4a06-967f-e898439dda0b"
     },
     {
       "put_code": 131296622,
@@ -751,7 +836,9 @@
         "María Xosé Rodríguez-Álvarez",
         "admin"
       ],
-      "url_pdf": ""
+      "abstract": "Growth curve studies are typically conducted to evaluate differences between group or treatment-specific curves. Most analyses focus solely on the growth curves, but it has been argued that the derivative of growth curves can highlight differences between groups that may be masked when considering the raw curves only. Motivated by the desire to estimate derivative curves hierarchically, we introduce a new sequence of quotient differences (empirical derivatives) which, among other things, are well behaved near the boundaries compared with other sequences in the literature. Using the sequence of quotient differences, we develop a Bayesian method to estimate curve derivatives in a multilevel setting (a common scenario in growth studies) and show how the method can be used to estimate individual and group derivative curves and to make comparisons. We apply the new methodology to data collected from a study conducted to explore the effect that radiation-based therapies have on growth in female children diagnosed with acute lymphoblastic leukaemia.",
+      "url_pdf": "",
+      "url_oa": "http://hdl.handle.net/20.500.11824/1097"
     },
     {
       "put_code": 51105946,
@@ -769,7 +856,9 @@
         "admin",
         "Inmaculada Arostegui"
       ],
-      "url_pdf": ""
+      "abstract": "Patient‐reported outcomes (PROs) are currently being increasingly used as primary outcome measures in observational and experimental studies since they inform clinicians and researchers about the health‐status of patients and generate data to facilitate improved care. PROs usually appear as discrete and bounded with U, J, or inverse J shapes, and hence, exponential family members offer inadequate distributional fits. The beta‐binomial distribution has been proposed in the literature to fit PROs. However, the fact that the beta‐binomial distribution does not belong to the exponential family limits its applicability in the regression model context, and classical estimation approaches are not straightforward. Moreover, PROs are usually measured in a longitudinal framework in which individuals are followed up for a certain period. Hence, each individual obtains several scores of the PRO over time, which leads to the repeated measures and defines the correlation structure in the data. In this work, we have developed and proposed an estimation procedure for the analysis of correlated discrete and bounded outcomes, particularly PROs, by a beta‐binomial mixed‐effects model. Additionally, we have implemented the methodology in the PROreg package in R. Because there are similar approaches in the literature to address the same issue, this work also incorporates a comparison study between our proposal and alternative methodologies commonly implemented in R and shows the superior performance of our estimation procedure. This paper was motivated by the analysis of the health‐status of patients with chronic obstructive pulmonary disease, where the main objective is the assessment of risk factors that may affect the evolution of the disease. The application of the proposed approach in the study leads to clinically relevant results.",
+      "url_pdf": "",
+      "url_oa": "http://hdl.handle.net/20.500.11824/903"
     },
     {
       "put_code": 47645338,
@@ -788,7 +877,9 @@
         "admin",
         "Paul H. C. Eilers"
       ],
-      "url_pdf": ""
+      "abstract": "",
+      "url_pdf": "",
+      "url_oa": "http://hdl.handle.net/20.500.11824/762"
     },
     {
       "put_code": 47645339,
@@ -806,7 +897,9 @@
         "admin",
         "Inmaculada Arostegui"
       ],
-      "url_pdf": ""
+      "abstract": "Health-related quality of life has become an increasingly important indicator of health status in clinical trials and epidemiological research. Moreover, the study of the relationship of health-related quality of life with patients and disease characteristics has become one of the primary aims of many health-related quality of life studies. Health-related quality of life scores are usually assumed to be distributed as binomial random variables and often highly skewed. The use of the beta-binomial distribution in the regression context has been proposed to model such data; however, the beta-binomial regression has been performed by means of two different approaches in the literature: (i) beta-binomial distribution with a logistic link; and (ii) hierarchical generalized linear models. None of the existing literature in the analysis of health-related quality of life survey data has performed a comparison of both approaches in terms of adequacy and regression parameter interpretation context. This paper is motivated by the analysis of a real data application of health-related quality of life outcomes in patients with Chronic Obstructive Pulmonary Disease, where the use of both approaches yields to contradictory results in terms of covariate effects significance and consequently the interpretation of the most relevant factors in health-related quality of life. We present an explanation of the results in both methodologies through a simulation study and address the need to apply the proper approach in the analysis of health-related quality of life survey data for practitioners, providing an R package.",
+      "url_pdf": "",
+      "url_oa": "http://hdl.handle.net/20.500.11824/343"
     },
     {
       "put_code": 31645415,
@@ -828,7 +921,9 @@
         "J. Germán Rodríguez",
         "Javier Franco"
       ],
-      "url_pdf": ""
+      "abstract": "Seagrass beds are among the most valuable ecosystems in the world but they are also among the ones most affected by human activities, and they have decreased significantly in recent decades. In many areas, such as in the Basque Country (northern Spain), seagrass beds occupy areas that are also of interest for human activities such as recreation and shellfishing. They may therefore face a number of pressures that cause damage or irreversible states. Taking into account the limited distribution of seagrass beds in the Basque Country and the interest in their conservation, an eight-month field experiment focusing on the Zostera noltei growing season was carried out to evaluate the effect of shellfish gathering. We used generalized linear models to assess different intensities of trampling and digging, as the most important pressures of shellfishing applied to Zostera noltei beds. The results indicated that shoot density of Z. noltei was negatively altered by trampling treatments and positively affected (as a recovery) by digging treatments. This finding suggests that shellfishing adversely affects seagrass abundance and is potentially responsible for its low density in the Oka estuary. Our findings are important for management and should be taken into account in seagrass conservation and restoration programmes.",
+      "url_pdf": "http://scientiamarina.revistas.csic.es/index.php/scientiamarina/article/download/1691/2224",
+      "url_oa": ""
     },
     {
       "put_code": 131296616,
@@ -853,7 +948,9 @@
         "Jose I. López",
         "Banafshé Larijani"
       ],
-      "url_pdf": ""
+      "abstract": "PURPOSE: Clear cell Renal Cell Carcinomas (ccRCC), the largest group of renal tumours, are resistant to classical therapies. The determination of the functional state of actionable biomarkers for the assessment of these adenocarcinomas is essential. The dysregulation of the oncoprotein, PKB/Akt has been linked with poor prognoses in human cancers. MATERIAL & METHODS: We analysed the status of the PKB/Akt pathway in a representative tumour tissue microarray obtained from the primary tumours and their metastases in 60 ccRCC with long term follow up. We sought to define the evolution of this pathway from the primary tumour to the metastatic event and to know the impact of its functional state in tumour aggressiveness and patient survival. Two-site time resolved amplified FRET (A-FRET) was utilised for assessing the activation state of PKB/Akt and this was compared to conventional immunohistochemistry measurements. RESULTS: = 0.548). CONCLUSIONS: Quantitative determination of PKB/Akt activation in ccRCC primary tumours alongside other diagnostics tools could prove key in taking oncologists closer to an efficient personalised therapy in ccRCC patients. GENERAL SIGNIFICANCE: The quantitative imaging technology based on Amplified-FRET can rapidly analyse protein activation states and molecular interactions. It could be used for prognosis and assess drug function during the early cycles of chemotherapy. It enables evaluation of clinical efficiency of personalised cancer treatment.",
+      "url_pdf": "https://www.sciencedirect.com/science/article/pii/S2214647417300363/pdf",
+      "url_oa": ""
     },
     {
       "put_code": 131296619,
@@ -873,7 +970,9 @@
         "Isabel Cañellas",
         "Hortensia Sixto"
       ],
-      "url_pdf": ""
+      "abstract": "",
+      "url_pdf": "",
+      "url_oa": "http://hdl.handle.net/20.500.11824/326"
     },
     {
       "put_code": 131296620,
@@ -893,7 +992,9 @@
         "admin",
         "Ana Arribas-Gil"
       ],
-      "url_pdf": ""
+      "abstract": "We propose a semiparametric nonlinear mixed-effects model (SNMM) using penalized splines to classify longitudinal data and improve the prediction of a binary outcome. The work is motivated by a study in which different hormone levels were measured during the early stages of pregnancy, and the challenge is using this information to predict normal versus abnormal pregnancy outcomes. The aim of this paper is to compare models and estimation strategies on the basis of alternative formulations of SNMMs depending on the characteristics of the data set under consideration. For our motivating example, we address the classification problem using a particular case of the SNMM in which the parameter space has a finite dimensional component (fixed effects and variance components) and an infinite dimensional component (unknown function) that need to be estimated. The nonparametric component of the model is estimated using penalized splines. For the parametric component, we compare the advantages of using random effects versus direct modeling of the correlation structure of the errors. Numerical studies show that our approach improves over other existing methods for the analysis of this type of data. Furthermore, the results obtained using our method support the idea that explicit modeling of the serial correlation of the error term improves the prediction accuracy with respect to a model with random effects, but independent errors. Copyright © 2017 John Wiley & Sons, Ltd.",
+      "url_pdf": "",
+      "url_oa": "http://hdl.handle.net/20.500.11824/361"
     },
     {
       "put_code": 27198130,
@@ -912,7 +1013,9 @@
         "admin",
         "Paul H.C. Eilers"
       ],
-      "url_pdf": ""
+      "abstract": "",
+      "url_pdf": "",
+      "url_oa": "http://hdl.handle.net/20.500.11824/286"
     },
     {
       "put_code": 27198126,
@@ -930,7 +1033,9 @@
         "Z. Zhu",
         "P. Toscas"
       ],
-      "url_pdf": ""
+      "abstract": "A new methodology is proposed for the analysis, modeling, and forecasting of data collected from a wireless sensor network. Our approach is considered in the framework of a functional data‐analysis paradigm where observed data is represented in a functional form. To reduce dimensionality, functional principal components analysis is applied to highlight important underlying characteristics and find patterns of variations. The principal scores are modeled with tensor product smooths that allow for smoothing over space and time. The model is then used for simultaneous spatial prediction at unsampled locations and to forecast future observations. We consider soil temperature data from a wireless sensor network of 50 sensor nodes in two different land types (grassland and forest) observed during 60 consecutive days in private property close to Yass, New South Wales, Australia. Copyright © 2015 John Wiley & Sons, Ltd.",
+      "url_pdf": "",
+      "url_oa": "http://hdl.handle.net/20.500.11824/120"
     },
     {
       "put_code": 27198127,
@@ -947,7 +1052,9 @@
         "admin",
         "Peter Toscas"
       ],
-      "url_pdf": ""
+      "abstract": "",
+      "url_pdf": "",
+      "url_oa": "http://hdl.handle.net/20.500.11824/119"
     },
     {
       "put_code": 27198124,
@@ -967,7 +1074,9 @@
         "María Durbán",
         "Paul Eilers"
       ],
-      "url_pdf": ""
+      "abstract": "",
+      "url_pdf": "",
+      "url_oa": "http://hdl.handle.net/20.500.11824/117"
     },
     {
       "put_code": 27198125,
@@ -985,7 +1094,9 @@
         "María Durbán",
         "Paul Eilers"
       ],
-      "url_pdf": ""
+      "abstract": "",
+      "url_pdf": "",
+      "url_oa": ""
     },
     {
       "put_code": 28501359,
@@ -1005,7 +1116,9 @@
         "Olena Gavriliouk",
         "Geoff Robinson"
       ],
-      "url_pdf": ""
+      "abstract": "",
+      "url_pdf": "",
+      "url_oa": ""
     },
     {
       "put_code": 27198128,
@@ -1022,7 +1135,9 @@
         "admin",
         "María Durbán"
       ],
-      "url_pdf": ""
+      "abstract": "In recent years, spatial and spatio-temporal modelling have become an important area of research in many fields (epidemiology, environmental studies, disease mapping, etc.). However, most of the models developed are constrained by the large amounts of data available. We propose the use of penalized splines ( -splines) in a mixed model framework for smoothing spatio-temporal data. Our approach allows the consideration of interaction terms which can be decomposed as a sum of smooth functions similarly as an analysis of variance decomposition. The properties of the bases used for regression allow the use of algorithms that can handle large amount of data. We show that on imposing the same constraints as in a factorial design it is possible to avoid identifiability problems. We illustrate the methodology for Europe ozone levels in the period 1999–2005.",
+      "url_pdf": "",
+      "url_oa": ""
     },
     {
       "put_code": 27198129,
@@ -1039,7 +1154,9 @@
         "admin",
         "María Durbán"
       ],
-      "url_pdf": ""
+      "abstract": "",
+      "url_pdf": "",
+      "url_oa": "http://hdl.handle.net/10016/3203"
     }
   ]
 }

@@ -21,5 +21,8 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
+links:
+  - name: Open access
+    url: "https://doi.org/10.2139/ssrn.5057249"
 orcid_put_code: 185463016
 ---

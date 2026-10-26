@@ -12,6 +12,7 @@ Env:
 
 from __future__ import annotations
 
+import html
 import json
 import os
 import re
@@ -167,23 +168,60 @@ def fetch_contributors(put_code: int) -> list[str]:
     return names
 
 
-def fetch_crossref_authors(doi: str) -> list[str]:
-    """Full author names from Crossref; ORCID credit names are often abbreviated."""
-    if not doi:
-        return []
-    url = "https://api.crossref.org/works/" + urllib.parse.quote(doi)
+def fetch_json(url: str) -> dict:
     req = urllib.request.Request(url, headers={"User-Agent": "idaejin.github.io-orcid-sync/1.0"})
     try:
         with urllib.request.urlopen(req, timeout=30) as resp:
-            msg = json.loads(resp.read().decode("utf-8")).get("message") or {}
+            return json.loads(resp.read().decode("utf-8"))
     except (urllib.error.URLError, TimeoutError, ValueError):
-        return []
+        return {}
+
+
+def fetch_crossref(doi: str) -> dict:
+    if not doi:
+        return {}
+    return fetch_json("https://api.crossref.org/works/" + urllib.parse.quote(doi)).get("message") or {}
+
+
+def crossref_authors(msg: dict) -> list[str]:
+    """Full author names from Crossref; ORCID credit names are often abbreviated."""
     names = []
     for a in msg.get("author") or []:
         name = " ".join(x for x in (a.get("given"), a.get("family")) if x) or a.get("name") or ""
         if name.strip():
             names.append(name.strip())
     return names
+
+
+def clean_abstract(raw: str) -> str:
+    """Strip JATS/HTML tags and a leading 'Abstract' heading."""
+    s = html.unescape(re.sub(r"<[^>]+>", " ", raw or ""))
+    s = re.sub(r"\s+", " ", s).strip()
+    return re.sub(r"^(abstract|summary)[:.\s]+", "", s, flags=re.I)
+
+
+def fetch_openalex(doi: str) -> dict:
+    if not doi:
+        return {}
+    return fetch_json("https://api.openalex.org/works/doi:" + urllib.parse.quote(doi))
+
+
+def openalex_abstract(w: dict) -> str:
+    inv = w.get("abstract_inverted_index") or {}
+    pos = sorted((i, word) for word, idx in inv.items() for i in idx)
+    return " ".join(word for _, word in pos)
+
+
+def openalex_oa(w: dict, doi: str) -> tuple[str, str]:
+    """(pdf_url, open-access landing url), skipping links back to the paywalled DOI."""
+    pdf = ((w.get("best_oa_location") or {}).get("pdf_url")) or ""
+    oa = ((w.get("open_access") or {}).get("oa_url")) or ""
+    is_image = lambda u: re.search(r"\.(jpe?g|png|gif)$", u, re.I)
+    if is_image(pdf):
+        pdf = ""
+    if (doi and doi in oa.lower()) or is_image(oa):
+        oa = ""
+    return pdf, ("" if pdf else oa)
 
 
 def to_authors(names: list[str]) -> list[str]:
@@ -233,6 +271,8 @@ def apply_work_overrides(work: dict, overrides: dict) -> dict:
         work["url_pdf"] = cfg["url_pdf"]
     if cfg.get("url") is not None:
         work["url"] = cfg["url"]
+    if cfg.get("abstract") is not None:
+        work["abstract"] = cfg["abstract"]
     return work
 
 
@@ -303,13 +343,22 @@ def collect_works() -> list[dict]:
     print(f"ORCID groups: {len(groups)}; after dedupe: {len(unique)}")
     overrides = load_overrides()
     for i, w in enumerate(unique):
-        names = fetch_crossref_authors(w["doi"]) or fetch_contributors(w["put_code"])
+        cr = fetch_crossref(w["doi"])
+        oa = fetch_openalex(w["doi"])
+        names = crossref_authors(cr) or fetch_contributors(w["put_code"])
         w["authors"] = to_authors(names)
-        w.setdefault("url_pdf", "")
+        w["abstract"] = clean_abstract(cr.get("abstract", "")) or openalex_abstract(oa)
+        w["url_pdf"], w["url_oa"] = openalex_oa(oa, w["doi"])
         apply_work_overrides(w, overrides)
         if (i + 1) % 10 == 0:
             print(f"  fetched authors {i + 1}/{len(unique)}")
         time.sleep(0.05)
+    # Works not (yet) in ORCID, e.g. recent preprints.
+    for extra in overrides.get("extra_works") or []:
+        w = {"doi": "", "journal": "", "url": "", "url_pdf": "", "url_oa": "", "abstract": "", **extra}
+        w["authors"] = to_authors(w.get("authors") or [])
+        unique.append(w)
+    unique.sort(key=lambda x: (x["year"], x["month"], x["day"], x["title"]), reverse=True)
     return unique
 
 
@@ -334,7 +383,7 @@ def write_hugo(works: list[dict]) -> None:
             shutil.rmtree(p)
 
     for w in works:
-        slug = slugify(w["title"], w["year"], w["put_code"])
+        slug = slugify(w["title"], w["year"], w["put_code"]) if w.get("put_code") else w["slug"]
         folder = PUB_DIR / slug
         folder.mkdir(parents=True, exist_ok=True)
         date = f'{w["year"]}-{w["month"]}-{w["day"]}'
@@ -345,6 +394,10 @@ def write_hugo(works: list[dict]) -> None:
             '  - admin' if a == "admin" else f'  - "{yaml_escape(a)}"' for a in w["authors"]
         )
         url_pdf = w.get("url_pdf") or ""
+        links = ""
+        if w.get("url_oa"):
+            links = f'links:\n  - name: Open access\n    url: "{yaml_escape(w["url_oa"])}"\n'
+        put_line = f'orcid_put_code: {w["put_code"]}\n' if w.get("put_code") else ""
         md = f'''---
 title: "{yaml_escape(w["title"])}"
 authors:
@@ -355,7 +408,7 @@ doi: "{doi}"
 publication_types: ["{pub_type}"]
 publication: "{yaml_escape(pub_line)}"
 publication_short: ""
-abstract: ""
+abstract: "{yaml_escape(w.get("abstract") or "")}"
 featured: false
 url_pdf: "{yaml_escape(url_pdf)}"
 url_code: ""
@@ -365,8 +418,7 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
-orcid_put_code: {w["put_code"]}
----
+{links}{put_line}---
 '''
         (folder / "index.md").write_text(md)
 
