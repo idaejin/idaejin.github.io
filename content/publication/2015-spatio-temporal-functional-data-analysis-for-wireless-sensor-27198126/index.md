@@ -22,6 +22,6 @@ url_source: ""
 url_video: ""
 links:
   - name: Open access
-    url: "http://hdl.handle.net/20.500.11824/120"
+    url: "https://www.ncbi.nlm.nih.gov/pmc/articles/4493908"
 orcid_put_code: 27198126
 ---
