@@ -1,7 +1,7 @@
 {
   "orcid": "0000-0002-8995-8535",
   "source": "https://pub.orcid.org/v3.0/0000-0002-8995-8535/works",
-  "count": 51,
+  "count": 52,
   "publications": [
     {
       "doi": "",
@@ -39,6 +39,25 @@
         "Marco Ellero"
       ],
       "abstract": "Mass gatherings at sporting events pose critical risk for crowd safety, especially in venues with limited history of hosting high-demand events or insufficient data to inform evidence-based interventions. Ahead of the UEFA Europa League (UEL) Final 2024–2025, San Mamés Stadium implemented staged access protocols across league matches. These real-world experiences provide a timely case study on crowd management strategies and operational planning in urban environments. This work presents a simulation-based study of the pedestrian ingress dynamics during fan entry to the stadium under high-attendance settings. The agent-based modeling framework integrates a Social Force Model that considers the pedestrian’s limited visual range, queuing behavior, and where path-finding is computed from the numerical solution of the Laplace equation. Using empirical data of the geometrical constraints of the stadium and its surrounding areas and timestamped turnstile access records from pre-final league matches, the model reproduces the pedestrian flow under every access protocol implemented during the tournament. Quantitative analysis of ingress efficiency, access rates, and pedestrian flow patterns reveals specific stadium-adjacent zones susceptible to undesired counterflow and overcrowding. Simulations indicate that the suggested access guidelines can streamline crowd movement and lower density levels by roughly 20%, while delaying individual screening at the fenced security perimeter by 2.5 s can decrease the maximum average local density by nearly 80%. These findings emphasize the role of computational modeling as a decision-support tool, allowing the evaluation of alternative crowd management strategies before their implementation in real-world events.",
+      "url_pdf": "",
+      "url_oa": ""
+    },
+    {
+      "put_code": 233120392,
+      "title": "Timing or Aggregation? Weekly Energy Prices and Inflation Nowcasts",
+      "year": "2026",
+      "month": "01",
+      "day": "01",
+      "type": "preprint",
+      "doi": "10.2139/ssrn.7682718",
+      "journal": "",
+      "url": "https://doi.org/10.2139/ssrn.7682718",
+      "source": "Crossref",
+      "authors": [
+        "admin",
+        "Stephan Stefanov Pentchev"
+      ],
+      "abstract": "Weekly energy prices provide timely information about monthly inflation, but their usefulness need not depend on estimating a separate coefficient for each week. We assess the value of this flexibility for United States Consumer Price Index (CPI) energy inflation using weekly West Texas Intermediate (WTI) crude-oil and retail gasoline prices over 2005-2026. Matched comparisons hold the weekly observations, autoregressive moving-average (ARMA) errors, estimation window, and target history fixed. A separate applied comparison evaluates monthly-average regressors that use every available endpoint. Free coefficients on target-month WTI changes give no reliable accuracy gain over their block mean, although moderate gains remain unresolved. Monthly-average retail gasoline reduces nowcast root mean squared error by 43-60% relative to the ARMA benchmark in the main windows and schemes; adding WTI gives no reliable gain. Free gasoline coefficients improve on matched block means by 14.8% in contemporaneous comparisons but perform worse than the monthly-average regressor. With predictors lagged one month, the matched gain is an imprecise 2.7%; the larger 16.7% gain against the monthly average also changes endpoint coverage. Thus the predictor and the comparison benchmark both matter when assessing weekly flexibility. The retrospective evidence supports monthly averaging as a parsimonious benchmark, with prospective and historical release-time validation still needed.",
       "url_pdf": "",
       "url_oa": ""
     },
@@ -480,7 +499,7 @@
         "Inmaculada Arostegui"
       ],
       "abstract": "With the COVID-19 pandemic having caused unprecedented numbers of infections and deaths, large research efforts have been undertaken to increase our understanding of the disease and the factors which determine diverse clinical evolutions. Here we focused on a fully data-driven exploration regarding which factors (clinical or otherwise) were most informative for SARS-CoV-2 pneumonia severity prediction via machine learning (ML). In particular, feature selection techniques (FS), designed to reduce the dimensionality of data, allowed us to characterize which of our variables were the most useful for ML prognosis. We conducted a multi-centre clinical study, enrolling n = 1548 patients hospitalized due to SARS-CoV-2 pneumonia: where 792, 238, and 598 patients experienced low, medium and high-severity evolutions, respectively. Up to 106 patient-specific clinical variables were collected at admission, although 14 of them had to be discarded for containing ⩾60% missing values. Alongside 7 socioeconomic attributes and 32 exposures to air pollution (chronic and acute), these became d = 148 features after variable encoding. We addressed this ordinal classification problem both as a ML classification and regression task. Two imputation techniques for missing data were explored, along with a total of 166 unique FS algorithm configurations: 46 filters, 100 wrappers and 20 embeddeds. Of these, 21 setups achieved satisfactory bootstrap stability (⩾0.70) with reasonable computation times: 16 filters, 2 wrappers, and 3 embeddeds. The subsets of features selected by each technique showed modest Jaccard similarities across them. However, they consistently pointed out the importance of certain explanatory variables. Namely: patient’s C-reactive protein (CRP), pneumonia severity index (PSI), respiratory rate (RR) and oxygen levels –saturation Sp O2, quotients Sp O2/RR and arterial Sat O2/Fi O2–, the neutrophil-to-lymphocyte ratio (NLR) –to certain extent, also neutrophil and lymphocyte counts separately–, lactate dehydrogenase (LDH), and procalcitonin (PCT) levels in blood. A remarkable agreement has been found a posteriori between our strategy and independent clinical research works investigating risk factors for COVID-19 severity. Hence, these findings stress the suitability of this type of fully data-driven approaches for knowledge extraction, as a complementary to clinical perspectives.",
-      "url_pdf": "http://arxiv.org/pdf/1202.1056",
+      "url_pdf": "",
       "url_oa": ""
     },
     {
