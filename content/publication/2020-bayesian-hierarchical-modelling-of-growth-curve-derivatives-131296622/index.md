@@ -12,7 +12,7 @@ publication: "*Journal of the Royal Statistical Society. Series C: Applied Stati
 publication_short: ""
 abstract: "Growth curve studies are typically conducted to evaluate differences between group or treatment-specific curves. Most analyses focus solely on the growth curves, but it has been argued that the derivative of growth curves can highlight differences between groups that may be masked when considering the raw curves only. Motivated by the desire to estimate derivative curves hierarchically, we introduce a new sequence of quotient differences (empirical derivatives) which, among other things, are well behaved near the boundaries compared with other sequences in the literature. Using the sequence of quotient differences, we develop a Bayesian method to estimate curve derivatives in a multilevel setting (a common scenario in growth studies) and show how the method can be used to estimate individual and group derivative curves and to make comparisons. We apply the new methodology to data collected from a study conducted to explore the effect that radiation-based therapies have on growth in female children diagnosed with acute lymphoblastic leukaemia."
 featured: false
-url_pdf: ""
+url_pdf: "https://bird.bcamath.org/bitstream/handle/20.500.11824/1097/GrowthCurveDerivativesPublic.pdf;jsessionid=04A8341C8C26013644A0DC933C4541D9?sequence=3"
 url_code: ""
 url_dataset: ""
 url_poster: ""
@@ -20,8 +20,5 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
-links:
-  - name: Open access
-    url: "http://hdl.handle.net/20.500.11824/1097"
 orcid_put_code: 131296622
 ---

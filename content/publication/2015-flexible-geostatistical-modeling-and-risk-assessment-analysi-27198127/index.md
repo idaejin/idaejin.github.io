@@ -11,7 +11,7 @@ publication: "*Environmental and Ecological Statistics*"
 publication_short: ""
 abstract: ""
 featured: false
-url_pdf: ""
+url_pdf: "https://bird.bcamath.org/bitstream/handle/20.500.11824/119/Lee_Toscas_EnvEcolStats.pdf;jsessionid=6F52B1146DE39EB270B2D62A72E501BC?sequence=1"
 url_code: ""
 url_dataset: ""
 url_poster: ""
@@ -19,8 +19,5 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
-links:
-  - name: Open access
-    url: "http://hdl.handle.net/20.500.11824/119"
 orcid_put_code: 27198127
 ---
