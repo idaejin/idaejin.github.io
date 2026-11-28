@@ -1,7 +1,7 @@
 ---
 title: Dae-Jin Lee
 superuser: true
-role: Assistant Professor in Statistical Sciences
+role: Assistant Professor in Statistical Sciences; Director of the Mathematics Department
 organizations:
   - name: IE University
     url: https://www.ie.edu/
@@ -49,7 +49,7 @@ social:
 highlight_name: true
 ---
 
-I am a tenure-track Assistant Professor in Statistical Sciences at the [School of Science & Technology](https://www.ie.edu/school-science-technology/), [IE University](https://www.ie.edu/).
+I am a tenure-track Assistant Professor in Statistical Sciences at the [School of Science & Technology](https://www.ie.edu/school-science-technology/), [IE University](https://www.ie.edu/). Since 2026 I am also Director of the Mathematics Department. I serve on the boards of the Spanish Biostatistics Society (Spanish region of the International Biometric Society) and the Statistical Modelling Society.
 
 My research develops **flexible statistical models**—**P-splines**, **mixed models**, and **computational statistics**—together with **flexible survival for recurrent events** and **latent memory** representations for longitudinal athlete monitoring, with applications in **health and sports science**.
 

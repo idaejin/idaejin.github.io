@@ -14,6 +14,6 @@ design:
 
 **BCAM – Basque Center for Applied Mathematics (2014–2022).** Led the **Applied Statistics** research line and, from 2020, coordinated **Data Science and Artificial Intelligence** in the Knowledge Transfer Unit—bridging academic methods with industry and public-sector problems (including SME advisory work and the Basque Modelling Task Force during COVID-19).
 
-**IE University (2023–).** Tenure-track Assistant Professor in Statistical Sciences at the School of Science & Technology, continuing methods and applications in health and sports science, doctoral supervision, and competitive research programmes such as [SPHERES](/project/spheres/).
+**IE University (2023–).** Tenure-track Assistant Professor in Statistical Sciences at the School of Science & Technology, and Director of the Mathematics Department since 2026. The work continues in health and sports science, doctoral supervision, and competitive programmes such as [SPHERES](/project/spheres/). Recent talks are listed under [Talks](#talks).
 
 CV → [PDF](/uploads/CV-DLEE_2026.pdf)

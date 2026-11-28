@@ -212,16 +212,25 @@ def openalex_abstract(w: dict) -> str:
     return " ".join(word for _, word in pos)
 
 
+def _bad_oa_url(url: str) -> bool:
+    u = (url or "").lower()
+    if not u:
+        return True
+    if re.search(r"\.(jpe?g|png|gif)$", u):
+        return True
+    # Repository session tokens (BCAM BIRD) are not stable public links.
+    return "jsessionid" in u
+
+
 def openalex_oa(w: dict, doi: str) -> tuple[str, str]:
-    """(pdf_url, open-access landing url), skipping links back to the paywalled DOI."""
+    """(pdf_url, open-access landing url), skipping paywalled DOI and session links."""
     pdf = ((w.get("best_oa_location") or {}).get("pdf_url")) or ""
     oa = ((w.get("open_access") or {}).get("oa_url")) or ""
-    is_image = lambda u: re.search(r"\.(jpe?g|png|gif)$", u, re.I)
-    if is_image(pdf):
+    if _bad_oa_url(pdf):
         pdf = ""
-    if (doi and doi in oa.lower()) or is_image(oa):
+    if _bad_oa_url(oa) or (doi and doi in oa.lower()):
         oa = ""
-    return pdf, ("" if pdf else oa)
+    return pdf, oa
 
 
 def to_authors(names: list[str]) -> list[str]:
@@ -267,8 +276,15 @@ def apply_work_overrides(work: dict, overrides: dict) -> dict:
         work["doi"] = normalize_doi(cfg["doi"])
         if work["doi"] and not work.get("url"):
             work["url"] = f"https://doi.org/{work['doi']}"
+    if cfg.get("journal") is not None:
+        work["journal"] = cfg["journal"]
+    for key in ("year", "month", "day"):
+        if cfg.get(key):
+            work[key] = str(cfg[key]).zfill(2) if key != "year" else str(cfg[key])
     if cfg.get("url_pdf") is not None:
         work["url_pdf"] = cfg["url_pdf"]
+    if cfg.get("url_oa") is not None:
+        work["url_oa"] = cfg["url_oa"]
     if cfg.get("url") is not None:
         work["url"] = cfg["url"]
     if cfg.get("abstract") is not None:
